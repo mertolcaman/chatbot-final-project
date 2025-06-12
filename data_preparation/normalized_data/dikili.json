@@ -1,0 +1,296 @@
+[
+    {
+        "mention": "dikili",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "nature",
+            "sea"
+        ],
+        "tags": [
+            "beach",
+            "nature",
+            "town"
+        ],
+        "description": "dikili is a charming town where visitors can immerse themselves in lush nature while enjoying the beautiful coastline and swimming in its clear waters.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ]
+    },
+    {
+        "mention": "bademli harbor",
+        "node_type": "Landmark",
+        "what_to_do": [
+            "boat tours",
+            "explore nearby islands"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "departure point for island tours"
+        ],
+        "tags": [
+            "boating",
+            "harbor",
+            "landmark"
+        ],
+        "description": "bademli harbor serves as a key departure point for boats heading to the stunning nearby islands, making it a hub for exploration.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0290999,
+            26.8270001
+        ]
+    },
+    {
+        "mention": "garip island",
+        "node_type": "Island",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "nature",
+            "no facilities"
+        ],
+        "tags": [
+            "beach",
+            "island",
+            "natural beauty"
+        ],
+        "description": "garip island is a serene getaway known for its natural beauty, where visitors can enjoy sunbathing and swimming in a tranquil setting.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.00694439999999,
+            26.7855556
+        ]
+    },
+    {
+        "mention": "kalem island",
+        "node_type": "Island",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "guests"
+        ],
+        "special_features": [
+            "exclusive beach",
+            "private access"
+        ],
+        "tags": [
+            "beach",
+            "island",
+            "private"
+        ],
+        "description": "kalem island, a private island across from garip island, offers an exclusive beach experience for hotel guests, ensuring a peaceful retreat.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0036111,
+            26.795
+        ]
+    },
+    {
+        "mention": "hanimin bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "calm sea",
+            "nature"
+        ],
+        "tags": [
+            "bay",
+            "natural beauty",
+            "swimming"
+        ],
+        "description": "hanimin bay, also known as kokarot bay, is a tranquil and untouched bay perfect for swimming and enjoying the serene environment.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "pissa beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim",
+            "watch sunset"
+        ],
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "clear sea",
+            "sand"
+        ],
+        "tags": [
+            "beach",
+            "sunset",
+            "swimming"
+        ],
+        "description": "pissa beach is a beautiful coastal area known for its white sands and clear waters, making it an ideal spot for swimming and sunset viewing.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "denizkoy beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "camp",
+            "explore",
+            "swim"
+        ],
+        "best_for": [
+            "campers",
+            "families"
+        ],
+        "special_features": [
+            "public access",
+            "small shops"
+        ],
+        "tags": [
+            "beach",
+            "camping",
+            "families"
+        ],
+        "description": "denizkoy beach is a popular holiday destination featuring a large public area and small shops, perfect for families and campers.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            38.9535399,
+            26.813255
+        ]
+    },
+    {
+        "mention": "hayitli bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "clean sea",
+            "quiet and desolate"
+        ],
+        "tags": [
+            "bay",
+            "natural beauty",
+            "swimming"
+        ],
+        "description": "hayitli bay is a secluded and quiet beach known for its clean waters, ideal for visitors seeking a peaceful escape.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            38.9897205,
+            26.7993916
+        ]
+    },
+    {
+        "mention": "killik bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "natural clay",
+            "turquoise sea"
+        ],
+        "tags": [
+            "bay",
+            "clay",
+            "natural beauty"
+        ],
+        "description": "killik bay is a charming bay known for its turquoise waters and natural clay, attracting visitors who enjoy swimming and skincare treatments.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0374115,
+            26.8128131
+        ]
+    },
+    {
+        "mention": "kucuk zindancik bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "swim"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "dark at night",
+            "quiet atmosphere"
+        ],
+        "tags": [
+            "bay",
+            "secluded",
+            "swimming"
+        ],
+        "description": "kucuk zindancik bay is a unique bay that remains dark at night, offering a quiet atmosphere for visitors looking to enjoy a peaceful swim.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.036877,
+            26.808271
+        ]
+    }
+]

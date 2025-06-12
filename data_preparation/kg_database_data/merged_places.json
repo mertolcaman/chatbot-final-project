@@ -1,0 +1,3532 @@
+[
+    {
+        "mention": "cesme",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "description": "cesme is a popular holiday destination in izmir, known for its stunning beaches, historical sites, and vibrant dining options, making it ideal for a summer getaway. cesme is a nearby town connected to alacati, known for its beautiful coastline and summer tourism.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.3228017,
+            26.3027607
+        ],
+        "properties": [
+            "scenery",
+            "relaxing",
+            "town",
+            "beach",
+            "holiday",
+            "exploring",
+            "dining",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "ilica beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beach lovers",
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "description": "ilica beach is one of the most beautiful beaches in alacati, offering soft sands and clear waters perfect for swimming and relaxation. ilica beach is renowned for its stunning scenery and is one of the most beautiful beaches in cesme, perfect for swimming and relaxation.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.3081339,
+            26.3618179
+        ],
+        "properties": [
+            "scenery",
+            "water",
+            "family",
+            "relaxing",
+            "beach",
+            "photography",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "altinkum beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "description": "altinkum beach is one of the beautiful beaches in cesme, offering a perfect spot for swimming and enjoying the sun.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.2703703,
+            26.2594724
+        ],
+        "properties": [
+            "scenery",
+            "family",
+            "relaxing",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "ayayorgi bay",
+        "node_type": "Bay",
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "description": "ayayorgi bay is known for its secluded paradise, making it an ideal spot for those seeking tranquility and natural beauty.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.3386772,
+            26.310156
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "relaxing",
+            "nature",
+            "paradise",
+            "seclusion",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "kocakari beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "description": "kocakari beach is part of the beautiful beaches in cesme, offering a tranquil environment for swimming and relaxation.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.36001359999999,
+            26.3158359
+        ],
+        "properties": [
+            "scenery",
+            "tranquility",
+            "family",
+            "relaxing",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "pirlanta beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "description": "pirlanta beach is one of the many beaches around cesme, known for its beautiful surroundings and ideal for a relaxing day by the sea.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.2857144,
+            26.2470215
+        ],
+        "properties": [
+            "scenery",
+            "family",
+            "relaxing",
+            "beauty",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "sakizli bay",
+        "node_type": "Bay",
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "description": "sakizli bay is a secluded bay in cesme, perfect for those looking to escape the crowds and enjoy nature.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.32683000000001,
+            26.3074251
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "relaxing",
+            "nature",
+            "seclusion",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "boyalik bay",
+        "node_type": "Bay",
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "description": "boyalik bay is another beautiful bay in cesme, offering a tranquil environment ideal for swimming and relaxation.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.3233928,
+            26.3323237
+        ],
+        "properties": [
+            "scenery",
+            "tranquility",
+            "bay",
+            "relaxing",
+            "nature",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "cesme castle",
+        "node_type": "Castle",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "cesme castle, built by beyazit, now serves as a museum, offering visitors a glimpse into the region's rich history.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.3234659,
+            26.3035005
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "history"
+        ]
+    },
+    {
+        "mention": "caravanserai",
+        "node_type": "HistoricalSite",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "the caravanserai, built by suleiman the magnificent, is a notable historical site in cesme, reflecting the architectural heritage of the region.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.3228017,
+            26.3027607
+        ],
+        "properties": [
+            "exploring",
+            "culture",
+            "photography",
+            "history"
+        ]
+    },
+    {
+        "mention": "seferihisar",
+        "node_type": "Town",
+        "best_for": [
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "description": "seferihisar is a charming town known for its tranquil summer holidays and as the first in turkiye to receive the cittaslow title, offering a unique blend of local culture and scenic beauty.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.19515,
+            26.834402
+        ],
+        "properties": [
+            "setting",
+            "relaxing",
+            "atmosphere",
+            "town",
+            "culture",
+            "exploring",
+            "cittaslow"
+        ]
+    },
+    {
+        "mention": "sigacik",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families"
+        ],
+        "description": "sigacik is a picturesque seaside town celebrated for its charming architecture and vibrant local market, making it a perfect spot for leisurely exploration and cultural experiences.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.187557,
+            26.777552
+        ],
+        "properties": [
+            "town",
+            "quaint",
+            "history"
+        ]
+    },
+    {
+        "mention": "cittaslow",
+        "node_type": "CulturalSite",
+        "best_for": [
+            "cultural tourists",
+            "food enthusiasts"
+        ],
+        "description": "cittaslow is a global movement aimed at preserving local culture and traditions, promoting a slower pace of life in cities around the world.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.19515,
+            26.834402
+        ],
+        "properties": [
+            "culture",
+            "cittaslow"
+        ]
+    },
+    {
+        "mention": "teos",
+        "node_type": "AncientCity",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "teos is an ancient city renowned for its archaeological significance, featuring notable structures like the temple of dionysus and a rich history that attracts visitors interested in ancient civilizations.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.19566470000001,
+            26.8393639
+        ],
+        "properties": [
+            "city",
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "mention": "temple of dionysus",
+        "node_type": "Temple",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "the temple of dionysus is a significant ancient structure located in teos, offering insights into the religious practices of the past and stunning photographic opportunities.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.187557,
+            26.777552
+        ],
+        "properties": [
+            "history"
+        ]
+    },
+    {
+        "mention": "sigacik castle",
+        "node_type": "Castle",
+        "best_for": [
+            "families",
+            "history enthusiasts"
+        ],
+        "description": "sigacik castle is a historical fortress that provides visitors with a glimpse into the region's past and offers beautiful views of the surrounding area.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.1934654,
+            26.7853293
+        ],
+        "properties": [
+            "scenery",
+            "history"
+        ]
+    },
+    {
+        "mention": "akkum beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "description": "akkum beach is known for its stunning scenery and tranquil atmosphere, making it an ideal spot for swimming and relaxation.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.1905765,
+            26.7731905
+        ],
+        "properties": [
+            "scenery",
+            "tranquility",
+            "relaxing",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "akarca beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "description": "akarca beach is a serene coastal destination noted for its cooler waters, perfect for those looking to enjoy a refreshing swim in a peaceful environment.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.16927889999999,
+            26.8073916
+        ],
+        "properties": [
+            "beach",
+            "water",
+            "relaxing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "foca",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families"
+        ],
+        "description": "foca is a quiet town in izmir, rich in history and featuring beautiful beaches, perfect for exploration and relaxation.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.670378,
+            26.757918
+        ],
+        "properties": [
+            "town",
+            "beach",
+            "history"
+        ]
+    },
+    {
+        "mention": "siren rocks",
+        "node_type": "Monument",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "siren rocks are a notable landmark in foca, steeped in history and referenced in homer’s odyssey, making it a must-visit for history lovers.",
+        "located_in": "foca",
+        "coordinates": [
+            38.670378,
+            26.757918
+        ],
+        "properties": [
+            "exploring",
+            "landmark",
+            "photography"
+        ]
+    },
+    {
+        "mention": "eski foca",
+        "node_type": "Town",
+        "best_for": [
+            "cultural tourists",
+            "families"
+        ],
+        "description": "eski foca is the old section of foca, known for its historical streets and charming atmosphere, perfect for leisurely exploration.",
+        "located_in": "foca",
+        "coordinates": [
+            38.6662,
+            26.7552
+        ],
+        "properties": [
+            "beach"
+        ]
+    },
+    {
+        "mention": "yeni foca",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "description": "yeni foca is the new section of foca, offering modern amenities and beautiful beaches, ideal for families and couples looking for relaxation.",
+        "located_in": "foca",
+        "coordinates": [
+            38.73579,
+            26.8377899
+        ],
+        "properties": [
+            "beach",
+            "family"
+        ]
+    },
+    {
+        "mention": "persian tomb monument",
+        "node_type": "HistoricalSite",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "the persian tomb monument is a significant historical site in foca, showcasing the area's rich past and architectural heritage.",
+        "located_in": "foca",
+        "coordinates": [
+            38.66037,
+            26.822502
+        ],
+        "properties": [
+            "exploring",
+            "culture",
+            "photography",
+            "history"
+        ]
+    },
+    {
+        "mention": "fatih mosque",
+        "node_type": "ReligiousPlace",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "fatih mosque is a notable religious site in foca, converted during the reign of mehmet the conqueror, reflecting the town's historical architecture.",
+        "located_in": "foca",
+        "coordinates": [
+            38.670378,
+            26.757918
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "architecture",
+            "culture"
+        ]
+    },
+    {
+        "mention": "phrygian hill",
+        "node_type": "NaturalPark",
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "description": "phrygian hill offers breathtaking sunset views, making it a perfect spot for nature lovers and couples seeking a romantic experience.",
+        "located_in": "foca",
+        "coordinates": [
+            38.670378,
+            26.757918
+        ],
+        "properties": [
+            "hiking",
+            "scenery",
+            "nature"
+        ]
+    },
+    {
+        "mention": "foca aqueduct",
+        "node_type": "HistoricalSite",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "the foca aqueduct is a medieval-era structure that highlights the historical significance of the area, inviting exploration and photography.",
+        "located_in": "foca",
+        "coordinates": [
+            38.6665793,
+            26.7550318
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "history"
+        ]
+    },
+    {
+        "mention": "hanedan beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "couples",
+            "families"
+        ],
+        "description": "hanedan beach is a beautiful coastal area in izmir, perfect for swimming and relaxation, making it a favorite among beachgoers.",
+        "located_in": "foca",
+        "coordinates": [
+            38.6980194,
+            26.733244
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "sazlica beaches",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "couples",
+            "families"
+        ],
+        "description": "sazlica beaches are part of the renowned beaches of izmir, offering a perfect spot for swimming and sunbathing.",
+        "located_in": "foca",
+        "coordinates": [
+            38.7363519,
+            26.7802772
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "canak bay",
+        "node_type": "Bay",
+        "best_for": [
+            "beachgoers",
+            "families",
+            "nature lovers"
+        ],
+        "description": "canak bay is a scenic coastal inlet in izmir, ideal for swimming and relaxation, part of the area's renowned beaches.",
+        "located_in": "foca",
+        "coordinates": [
+            38.6667129,
+            26.7428828
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "relaxing",
+            "beach",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "voodoo beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "couples",
+            "families"
+        ],
+        "description": "voodoo beach is a popular beach in izmir, known for its inviting waters and relaxing atmosphere, perfect for a day of fun in the sun.",
+        "located_in": "foca",
+        "coordinates": [
+            38.6639012,
+            26.742198
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "urla",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "description": "urla is a charming coastal town in izmir, known for its serene atmosphere, beautiful beaches, and rich local culture, making it a perfect getaway for those seeking relaxation and exploration.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.324972,
+            26.76681
+        ],
+        "properties": [
+            "cuisine",
+            "tranquility",
+            "resort",
+            "relaxing",
+            "culture",
+            "exploring",
+            "dining",
+            "shopping"
+        ]
+    },
+    {
+        "mention": "izmir",
+        "node_type": "City",
+        "best_for": [
+            "city dwellers",
+            "cultural tourists"
+        ],
+        "description": "izmir is a vibrant province in turkiye, home to popular holiday spots such as alacati, known for its beautiful beaches and cultural attractions. izmir is a vibrant city in turkey, known for its rich history, diverse culture, and bustling urban life, offering a variety of experiences for visitors.",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "properties": [
+            "urban",
+            "culture",
+            "exploring",
+            "dining",
+            "shopping",
+            "history"
+        ]
+    },
+    {
+        "mention": "karantina island",
+        "node_type": "Island",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "karantina island is a picturesque island near urla, offering stunning views and a tranquil environment perfect for exploration and photography.",
+        "located_in": "urla",
+        "coordinates": [
+            38.324972,
+            26.76681
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "nature"
+        ]
+    },
+    {
+        "mention": "klazomenai ancient city",
+        "node_type": "AncientCity",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "klazomenai ancient city is a site of historical significance, showcasing ancient ruins that offer a glimpse into the past for visitors interested in history and archaeology.",
+        "located_in": "urla",
+        "coordinates": [
+            38.362805,
+            26.7693878
+        ],
+        "properties": [
+            "city",
+            "exploring",
+            "photography",
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "mention": "kostem olive oil museum",
+        "node_type": "Museum",
+        "best_for": [
+            "cultural tourists",
+            "food enthusiasts"
+        ],
+        "description": "the kostem olive oil museum is dedicated to the art of olive oil production, providing visitors with insights into this important aspect of local culture and heritage.",
+        "located_in": "urla",
+        "coordinates": [
+            38.324972,
+            26.76681
+        ],
+        "properties": [
+            "exploring",
+            "olive",
+            "culture"
+        ]
+    },
+    {
+        "mention": "historical barbaros village",
+        "node_type": "Village",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "historical barbaros village is a quaint village with significant historical relevance, offering visitors a chance to explore its traditional architecture and local culture.",
+        "located_in": "urla",
+        "coordinates": [
+            38.324972,
+            26.76681
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "village",
+            "culture"
+        ]
+    },
+    {
+        "mention": "bademler village",
+        "node_type": "Village",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "bademler village is a small, charming village near urla, known for its rural lifestyle and natural beauty, making it a peaceful retreat for visitors.",
+        "located_in": "urla",
+        "coordinates": [
+            38.273439,
+            26.8291779
+        ],
+        "properties": [
+            "lifestyle",
+            "relaxing",
+            "nature",
+            "exploring",
+            "village"
+        ]
+    },
+    {
+        "mention": "malgaca market",
+        "node_type": "Market",
+        "best_for": [
+            "cultural tourists",
+            "food enthusiasts"
+        ],
+        "description": "malgaca market is a vibrant local market offering a variety of goods, providing visitors with a taste of the local culture and shopping experience.",
+        "located_in": "urla",
+        "coordinates": [
+            38.3223247,
+            26.7670185
+        ],
+        "properties": [
+            "goods",
+            "local",
+            "market",
+            "exploring",
+            "shopping"
+        ]
+    },
+    {
+        "mention": "altinkoy beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "altinkoy beach is a serene beach in urla, known for its quiet coves and local atmosphere, making it an ideal spot for swimming and relaxation.",
+        "located_in": "urla",
+        "coordinates": [
+            38.2116653,
+            26.7216615
+        ],
+        "properties": [
+            "local",
+            "relaxing",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "demircili beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "demircili beach is a popular beach in the region, favored by locals for its tranquil environment and opportunities for swimming and relaxation.",
+        "located_in": "urla",
+        "coordinates": [
+            38.2119759,
+            26.6801027
+        ],
+        "properties": [
+            "tranquility",
+            "local",
+            "relaxing",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "melengec beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "melengec beach is known for its tranquility and natural beauty, making it a perfect spot for visitors looking to unwind and enjoy the coastal scenery.",
+        "located_in": "urla",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "properties": [
+            "tranquility",
+            "relaxing",
+            "nature",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "deniz yildizi beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "deniz yildizi beach is a family-friendly beach frequented by locals, offering a welcoming atmosphere for swimming and relaxation.",
+        "located_in": "urla",
+        "coordinates": [
+            38.2087197,
+            26.6938682
+        ],
+        "properties": [
+            "family",
+            "local",
+            "relaxing",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "bodrum bay",
+        "node_type": "Bay",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "bodrum bay is a scenic bay in the vicinity of urla, known for its beautiful views and opportunities for exploration and photography.",
+        "located_in": "urla",
+        "coordinates": [
+            38.324972,
+            26.76681
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "nature",
+            "exploring",
+            "photography"
+        ]
+    },
+    {
+        "mention": "cesmealti beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "cesmealti beach is located in the northern area of urla, offering a local atmosphere and opportunities for swimming and relaxation.",
+        "located_in": "urla",
+        "coordinates": [
+            38.4038695,
+            26.7410251
+        ],
+        "properties": [
+            "beach",
+            "local",
+            "relaxing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "yassica island",
+        "node_type": "Island",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "yassica island is a serene island near urla, known for its natural beauty and opportunities for exploration and photography.",
+        "located_in": "urla",
+        "coordinates": [
+            38.4111111,
+            26.7938889
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "nature"
+        ]
+    },
+    {
+        "mention": "sand sea beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "sand sea beach is known for its beautiful sandy shores and tranquil environment, making it an ideal spot for families and nature lovers to relax.",
+        "located_in": "urla",
+        "coordinates": [
+            38.324972,
+            26.76681
+        ],
+        "properties": [
+            "beach",
+            "tranquility",
+            "relaxing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "ozbek akkum beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "ozbek akkum beach is a local favorite known for its sandy shores, providing a great spot for swimming and relaxation.",
+        "located_in": "urla",
+        "coordinates": [
+            38.3788953,
+            26.6774452
+        ],
+        "properties": [
+            "beach",
+            "local",
+            "relaxing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "gulbahce beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "gulbahce beach is another beautiful beach in the area, known for its local atmosphere and opportunities for swimming and relaxation.",
+        "located_in": "urla",
+        "coordinates": [
+            38.3382297,
+            26.6478344
+        ],
+        "properties": [
+            "tranquility",
+            "local",
+            "relaxing",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "alacati",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "description": "alacati is a charming town known for its vibrant nightlife, beautiful beaches, and picturesque streets lined with historical stone houses, making it a perfect summer holiday destination.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ],
+        "properties": [
+            "walking",
+            "relaxing",
+            "town",
+            "nightlife",
+            "exploring"
+        ]
+    },
+    {
+        "mention": "delikli bay",
+        "node_type": "Bay",
+        "best_for": [
+            "adventure seekers",
+            "nature lovers"
+        ],
+        "description": "delikli bay is a notable bay in alacati, known for its scenic beauty and opportunities for swimming and exploration.",
+        "located_in": "alacati",
+        "coordinates": [
+            38.2292576,
+            26.3426942
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "exploring",
+            "photography",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "cark beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beach lovers",
+            "couples",
+            "families"
+        ],
+        "description": "cark beach is another beautiful beach in alacati, ideal for swimming and enjoying a relaxing day by the sea.",
+        "located_in": "alacati",
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "cleopatra bay",
+        "node_type": "Bay",
+        "best_for": [
+            "adventure seekers",
+            "nature lovers"
+        ],
+        "description": "cleopatra bay is a famous bay in alacati, known for its clear waters and beautiful surroundings, making it a great spot for swimming and exploration.",
+        "located_in": "alacati",
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ],
+        "properties": [
+            "water",
+            "bay",
+            "exploring",
+            "photography",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "piyade bay beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beach lovers",
+            "couples",
+            "families"
+        ],
+        "description": "piyade bay beach is a serene beach located in alacati, perfect for those looking to relax and enjoy the scenic views.",
+        "located_in": "alacati",
+        "coordinates": [
+            38.2296089,
+            26.3602188
+        ],
+        "properties": [
+            "scenery",
+            "relaxing",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "dikili",
+        "node_type": "Town",
+        "best_for": [
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "description": "dikili is a charming town along the aegean sea, known for its beautiful beaches and rich historical sites, making it a perfect spot for a relaxing summer vacation.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "properties": [
+            "relaxing",
+            "town",
+            "beach",
+            "vacation",
+            "hiking",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "ancient city of pergamon",
+        "node_type": "HistoricalSite",
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "description": "the ancient city of pergamon is a significant historical site near dikili, offering visitors a glimpse into the rich history of the region through its impressive ruins.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "mention": "atarneus ancient city",
+        "node_type": "AncientCity",
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "description": "atarneus ancient city is an archaeological site with significant historical importance, perfect for those interested in exploring ancient ruins.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "city",
+            "exploring",
+            "photography",
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "mention": "pitane ancient city",
+        "node_type": "AncientCity",
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "description": "pitane ancient city is another remarkable archaeological site near dikili, offering insights into the region's rich history and ancient architecture.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "city",
+            "exploring",
+            "photography",
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "mention": "candarli castle",
+        "node_type": "Castle",
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "description": "candarli castle is a must-see historical site near dikili, known for its impressive architecture and rich history, making it a great spot for exploration.",
+        "located_in": "dikili",
+        "coordinates": [
+            38.9338724,
+            26.9337329
+        ],
+        "properties": [
+            "exploring",
+            "structure",
+            "photography",
+            "history"
+        ]
+    },
+    {
+        "mention": "ataturk botanical garden",
+        "node_type": "NaturalPark",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "the ataturk botanical garden in dikili is a beautiful natural park featuring a wide variety of plant species, perfect for leisurely strolls and relaxation.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "relaxing",
+            "nature"
+        ]
+    },
+    {
+        "mention": "karagol nature park",
+        "node_type": "NaturalPark",
+        "best_for": [
+            "hikers",
+            "nature lovers"
+        ],
+        "description": "karagol nature park is a scenic area in dikili, ideal for hiking and enjoying the beauty of nature, with diverse landscapes to explore.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "view",
+            "hiking"
+        ]
+    },
+    {
+        "mention": "nebiler village",
+        "node_type": "Village",
+        "best_for": [
+            "hikers",
+            "nature lovers"
+        ],
+        "description": "nebiler village offers excellent hiking opportunities amidst its charming rural landscape, making it a great spot for nature enthusiasts.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.1602491,
+            26.9019479
+        ],
+        "properties": [
+            "nature",
+            "hiking",
+            "exploring",
+            "photography",
+            "village"
+        ]
+    },
+    {
+        "mention": "asiklar waterfall",
+        "node_type": "NaturalPark",
+        "best_for": [
+            "hikers",
+            "nature lovers"
+        ],
+        "description": "asiklar waterfall is a beautiful natural site near dikili, perfect for hiking and photography, surrounded by lush greenery.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "nature",
+            "hiking"
+        ]
+    },
+    {
+        "mention": "kayra beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "description": "kayra beach is a beautiful sandy beach in dikili, perfect for swimming and relaxing under the sun.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0446132,
+            26.8375451
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "dikili public beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "description": "dikili public beach is a family-friendly beach offering public access to the beautiful aegean sea, ideal for swimming and relaxation.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0778554,
+            26.8871799
+        ],
+        "properties": [
+            "family",
+            "relaxing",
+            "access",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "hayitli bay",
+        "node_type": "Bay",
+        "best_for": [
+            "beachgoers",
+            "nature lovers"
+        ],
+        "description": "hayitli bay is a picturesque bay in dikili, perfect for swimming and enjoying the scenic coastal views.",
+        "located_in": "dikili",
+        "coordinates": [
+            38.9897205,
+            26.7993916
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "relaxing",
+            "nature",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "kucuk zindancik bay",
+        "node_type": "Bay",
+        "best_for": [
+            "beachgoers",
+            "nature lovers"
+        ],
+        "description": "kucuk zindancik bay is a tranquil bay in dikili, ideal for swimming and relaxation in a serene environment.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.036877,
+            26.808271
+        ],
+        "properties": [
+            "scenery",
+            "tranquility",
+            "bay",
+            "relaxing",
+            "nature",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "candarli beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "description": "candarli beach is a stunning sandy beach in dikili, perfect for swimming and enjoying a relaxing day by the sea.",
+        "located_in": "dikili",
+        "coordinates": [
+            38.9388657,
+            26.9401127
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "pissa beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "description": "pissa beach is a lovely sandy beach in dikili, ideal for swimming and sunbathing, providing a perfect spot for beach lovers.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "karaburun",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "description": "karaburun is a tranquil region known for its stunning natural beauty, charming villages, and hidden beaches, making it a perfect getaway for nature lovers and those seeking peace.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ],
+        "properties": [
+            "snorkeling",
+            "tranquility",
+            "diving",
+            "relaxing",
+            "nature",
+            "exploring"
+        ]
+    },
+    {
+        "mention": "sarpincik lighthouse",
+        "node_type": "Tower",
+        "best_for": [
+            "nature lovers",
+            "photographers"
+        ],
+        "description": "sarpincik lighthouse is a notable landmark offering stunning views of the surrounding coastline, perfect for photography and exploration.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ],
+        "properties": [
+            "exploring",
+            "photography",
+            "scenery"
+        ]
+    },
+    {
+        "mention": "sazak village",
+        "node_type": "Village",
+        "best_for": [
+            "cultural tourists",
+            "families"
+        ],
+        "description": "sazak village is one of the charming villages in karaburun, offering a peaceful atmosphere and a glimpse into local life.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.6247022,
+            26.3893841
+        ],
+        "properties": [
+            "exploring",
+            "village",
+            "relaxing",
+            "culture"
+        ]
+    },
+    {
+        "mention": "ayse kadin mosque",
+        "node_type": "ReligiousPlace",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "ayse kadin mosque is a notable mosque in the area, recognized for its beautiful architecture and cultural significance.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.518472,
+            26.599225
+        ],
+        "properties": [
+            "visiting",
+            "photography",
+            "culture"
+        ]
+    },
+    {
+        "mention": "mimoza bay",
+        "node_type": "Bay",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "mimoza bay is a beautiful bay known for its clear waters and scenic surroundings, ideal for swimming and camping.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ],
+        "properties": [
+            "campsite",
+            "bay",
+            "relaxing",
+            "camping",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "ayi baligi bay",
+        "node_type": "Bay",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "ayi baligi bay is renowned for its scenic beauty, making it a perfect spot for swimming and relaxation.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.5268103,
+            26.6241344
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "relaxing",
+            "beauty",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "incirlikoy beach",
+        "node_type": "Beach",
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "description": "incirlikoy beach is a popular beach destination known for its inviting waters and perfect conditions for sunbathing.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.6495419,
+            26.5202907
+        ],
+        "properties": [
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "hamzabuku",
+        "node_type": "Bay",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "hamzabuku is known for its natural beauty, providing a serene environment for swimming and relaxation.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.6630125,
+            26.3847483
+        ],
+        "properties": [
+            "bay",
+            "relaxing",
+            "nature",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "badem buku",
+        "node_type": "Bay",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "badem buku is a notable bay that offers a tranquil setting for swimming and enjoying the natural surroundings.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.6188323,
+            26.3565908
+        ],
+        "properties": [
+            "bay",
+            "beach",
+            "relaxing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "boyabagi bay",
+        "node_type": "Bay",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "boyabagi bay is one of the scenic bays in the region, perfect for swimming and exploration.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.573343,
+            26.5653437
+        ],
+        "properties": [
+            "scenery",
+            "bay",
+            "nature",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "balikliova",
+        "node_type": "Village",
+        "best_for": [
+            "cultural tourists",
+            "food lovers"
+        ],
+        "description": "balikliova is known for its famous meltaway cookies, making it a must-visit for food lovers passing through the area.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.4231979,
+            26.5845039
+        ],
+        "properties": [
+            "exploring",
+            "tasting",
+            "village",
+            "culture"
+        ]
+    },
+    {
+        "mention": "izmir",
+        "node_type": "City",
+        "best_for": [
+            "adventure seekers",
+            "beachgoers",
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "description": "izmir is a vibrant city in western turkey, serving as a cultural hub and a gateway to the beautiful aegean coastline. izmir is a vibrant aegean coastal city known for its beautiful beaches, rich local cuisine, and lively atmosphere, making it a perfect destination for relaxation and adventure. izmir is a vibrant city known for its rich cultural heritage and beautiful coastline, making it a perfect base for beach lovers and cultural explorers alike.",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "properties": [
+            "cuisine",
+            "sports",
+            "relaxing",
+            "scene",
+            "beach",
+            "culture",
+            "exploring",
+            "dining",
+            "shopping",
+            "history"
+        ]
+    },
+    {
+        "mention": "cesme",
+        "node_type": "Town",
+        "best_for": [
+            "families",
+            "nightlife enthusiasts",
+            "water sports lovers"
+        ],
+        "description": "cesme is a popular coastal town famous for its beautiful beaches and lively atmosphere, offering a mix of relaxation and vibrant nightlife.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.3228017,
+            26.3027607
+        ],
+        "properties": [
+            "family",
+            "relaxing",
+            "town",
+            "beach",
+            "nightlife",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "alacati",
+        "node_type": "Town",
+        "best_for": [
+            "adventure seekers",
+            "cultural tourists",
+            "families",
+            "sporty travellers",
+            "water sports enthusiasts"
+        ],
+        "description": "alacati is renowned for its charming traditional architecture and is a hotspot for windsurfing, making it a delightful destination for both relaxation and adventure. alacati is a charming town known for its steady winds and shallow waters, making it a prime destination for windsurfing and kitesurfing enthusiasts.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ],
+        "properties": [
+            "exploring",
+            "town",
+            "sports"
+        ]
+    },
+    {
+        "mention": "seferihisar",
+        "node_type": "Town",
+        "best_for": [
+            "cultural tourists",
+            "eco-conscious travelers",
+            "nature lovers",
+            "quiet retreats"
+        ],
+        "description": "seferihisar is turkey's first 'cittaslow' town, offering a tranquil atmosphere focused on preserving its natural environment and cultural heritage, making it an ideal retreat for those seeking peace and quiet. seferihisar is recognized as turkey's first cittaslow, offering a tranquil atmosphere and a chance to enjoy a slower pace of life amidst beautiful surroundings.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.19515,
+            26.834402
+        ],
+        "properties": [
+            "relaxing",
+            "town",
+            "culture",
+            "exploring",
+            "cittaslow"
+        ]
+    },
+    {
+        "mention": "foca",
+        "node_type": "Town",
+        "best_for": [
+            "beach lovers",
+            "families",
+            "history enthusiasts"
+        ],
+        "description": "foca is a charming town famous for its historical sites and stunning coastline, perfect for those looking to combine culture with beach relaxation. foca is a unique town that offers a blend of history and natural beauty, featuring ancient ruins and charming fishing villages, making it perfect for diverse travelers.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.670378,
+            26.757918
+        ],
+        "properties": [
+            "relaxing",
+            "town",
+            "beach",
+            "exploring",
+            "photography",
+            "village",
+            "history"
+        ]
+    },
+    {
+        "mention": "urla",
+        "node_type": "Town",
+        "best_for": [
+            "adventurers",
+            "couples",
+            "families",
+            "foodies",
+            "wine lovers"
+        ],
+        "description": "urla is a charming town known for its olive groves and wineries, offering a rural and authentic beach experience away from the crowds. urla is known for its picturesque vineyards and beautiful beaches, making it an ideal spot for families and wine enthusiasts to unwind.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.324972,
+            26.76681
+        ],
+        "properties": [
+            "winery",
+            "beach",
+            "vineyard",
+            "town"
+        ]
+    },
+    {
+        "mention": "dikili",
+        "node_type": "Town",
+        "best_for": [
+            "beach lovers",
+            "budget travelers",
+            "families",
+            "nature lovers"
+        ],
+        "description": "dikili is a coastal town celebrated for its beautiful beaches, offering a perfect setting for swimming and relaxation. dikili is a picturesque town in northern izmir, known for its stunning landscapes and proximity to beautiful beaches along the aegean sea.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "properties": [
+            "relaxing",
+            "nature",
+            "town",
+            "beach",
+            "exploring",
+            "photography",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "karaburun",
+        "node_type": "Town",
+        "best_for": [
+            "couples",
+            "nature lovers",
+            "peace seekers",
+            "tranquility seekers"
+        ],
+        "description": "karaburun is known for its stunning natural beauty and tranquil beaches, making it a perfect escape for those seeking peace and quiet. karaburun is a less-developed region known for its tranquil beaches, perfect for travelers seeking a quieter, more relaxed experience away from the crowds.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ],
+        "properties": [
+            "snorkeling",
+            "tranquility",
+            "nature",
+            "town",
+            "beach",
+            "seclusion"
+        ]
+    },
+    {
+        "mention": "ilica beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "relaxation seekers"
+        ],
+        "description": "ilica beach is famous for its warm, shallow waters and therapeutic thermal springs, making it an ideal spot for families and relaxation.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.3081339,
+            26.3618179
+        ],
+        "properties": [
+            "family",
+            "relaxing",
+            "beach",
+            "thermal",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "altinkum beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "water sports enthusiasts"
+        ],
+        "description": "altinkum beach, known for its crystal-clear waters and lively beach bars, is perfect for swimming and enjoying a vibrant beach atmosphere.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.2703703,
+            26.2594724
+        ],
+        "properties": [
+            "snorkeling",
+            "water",
+            "family",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "alacati beach",
+        "node_type": "Beach",
+        "best_for": [
+            "adventure seekers",
+            "sporty travellers"
+        ],
+        "description": "alacati beach is a bustling hub for windsurfers, offering excellent facilities and a vibrant energy perfect for water sports.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.3137311,
+            26.3834883
+        ],
+        "properties": [
+            "beach"
+        ]
+    },
+    {
+        "mention": "delikli koy",
+        "node_type": "Beach",
+        "best_for": [
+            "nature lovers",
+            "those seeking tranquility"
+        ],
+        "description": "delikli koy is a secluded beach known for its unique rocky landscape and clear waters, ideal for snorkeling and quiet relaxation.",
+        "located_in": "cesme",
+        "coordinates": [
+            38.2292576,
+            26.3426942
+        ],
+        "properties": [
+            "snorkeling",
+            "water",
+            "landscape",
+            "beach",
+            "seclusion"
+        ]
+    },
+    {
+        "mention": "akkum beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "families",
+            "those seeking peaceful escapes"
+        ],
+        "description": "akkum beach is a beautiful coastal area known for its calm waters and picturesque surroundings, making it perfect for families and couples looking for a peaceful getaway.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.1905765,
+            26.7731905
+        ],
+        "properties": [
+            "scenery",
+            "family",
+            "relaxing",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "yeni foca",
+        "node_type": "Town",
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "description": "yeni foca is a quieter, modern area known for its family-friendly beaches and a laid-back vibe, ideal for those seeking relaxation and fun with loved ones.",
+        "located_in": "foca",
+        "coordinates": [
+            38.73579,
+            26.8377899
+        ],
+        "properties": [
+            "family",
+            "relaxing",
+            "town",
+            "beach",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "eski foca",
+        "node_type": "Town",
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "description": "eski foca is the historic heart of the town, featuring traditional stone houses and small beaches, offering a peaceful atmosphere for exploration and relaxation.",
+        "located_in": "foca",
+        "coordinates": [
+            38.6662,
+            26.7552
+        ],
+        "properties": [
+            "exploring",
+            "beach",
+            "photography",
+            "relaxing"
+        ]
+    },
+    {
+        "mention": "demircili bay",
+        "node_type": "Bay",
+        "best_for": [
+            "couples",
+            "peace seekers"
+        ],
+        "description": "demircili bay is a hidden gem with pristine waters, perfect for couples or anyone seeking peace and tranquility in a secluded setting.",
+        "located_in": "urla",
+        "coordinates": [
+            38.2281321,
+            26.686511
+        ],
+        "properties": [
+            "tranquility",
+            "gem",
+            "water",
+            "bay",
+            "relaxing",
+            "seclusion",
+            "photography",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "bademli village beaches",
+        "node_type": "Beach",
+        "best_for": [
+            "budget travelers",
+            "nature lovers",
+            "photographers"
+        ],
+        "description": "bademli village beaches are celebrated for their untouched beauty and budget-friendly amenities, surrounded by lush greenery and ideal for relaxation.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0290999,
+            26.8270001
+        ],
+        "properties": [
+            "relaxing",
+            "nature",
+            "beach",
+            "budget",
+            "photography",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "mimoza beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "tranquility seekers"
+        ],
+        "description": "mimoza beach is a small, peaceful beach renowned for its crystal-clear waters, making it an ideal spot for relaxation and swimming.",
+        "located_in": "karaburun",
+        "coordinates": [
+            38.6418325,
+            26.5222741
+        ],
+        "properties": [
+            "snorkeling",
+            "beach",
+            "water"
+        ]
+    },
+    {
+        "mention": "ekmeksiz beach",
+        "node_type": "Beach",
+        "best_for": [
+            "families",
+            "snorkeling enthusiasts"
+        ],
+        "description": "ekmeksiz beach is a larger, more open beach that is great for families and snorkeling enthusiasts, offering ample space for fun and relaxation.",
+        "located_in": "seferihisar",
+        "coordinates": [
+            38.1749118,
+            26.7745391
+        ],
+        "properties": [
+            "snorkeling",
+            "beach",
+            "family"
+        ]
+    },
+    {
+        "mention": "dikili",
+        "node_type": "Town",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "dikili is a charming town where visitors can immerse themselves in lush nature while enjoying the beautiful coastline and swimming in its clear waters.",
+        "located_in": "izmir",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "properties": [
+            "relaxing",
+            "nature",
+            "town",
+            "beach",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "bademli harbor",
+        "node_type": "Landmark",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "bademli harbor serves as a key departure point for boats heading to the stunning nearby islands, making it a hub for exploration.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0290999,
+            26.8270001
+        ],
+        "properties": [
+            "landmark"
+        ]
+    },
+    {
+        "mention": "garip island",
+        "node_type": "Island",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "garip island is a serene getaway known for its natural beauty, where visitors can enjoy sunbathing and swimming in a tranquil setting.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.00694439999999,
+            26.7855556
+        ],
+        "properties": [
+            "relaxing",
+            "nature",
+            "beach",
+            "sunbathing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "kalem island",
+        "node_type": "Island",
+        "best_for": [
+            "guests"
+        ],
+        "description": "kalem island, a private island across from garip island, offers an exclusive beach experience for hotel guests, ensuring a peaceful retreat.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0036111,
+            26.795
+        ],
+        "properties": [
+            "beach",
+            "private",
+            "relaxing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "hanimin bay",
+        "node_type": "Bay",
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "description": "hanimin bay, also known as kokarot bay, is a tranquil and untouched bay perfect for swimming and enjoying the serene environment.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "bay",
+            "relaxing",
+            "nature",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "pissa beach",
+        "node_type": "Beach",
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "description": "pissa beach is a beautiful coastal area known for its white sands and clear waters, making it an ideal spot for swimming and sunset viewing.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0749,
+            26.889199
+        ],
+        "properties": [
+            "beach",
+            "relaxing",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "denizkoy beach",
+        "node_type": "Beach",
+        "best_for": [
+            "campers",
+            "families"
+        ],
+        "description": "denizkoy beach is a popular holiday destination featuring a large public area and small shops, perfect for families and campers.",
+        "located_in": "dikili",
+        "coordinates": [
+            38.9535399,
+            26.813255
+        ],
+        "properties": [
+            "family",
+            "access",
+            "camping",
+            "beach",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "hayitli bay",
+        "node_type": "Bay",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "hayitli bay is a secluded and quiet beach known for its clean waters, ideal for visitors seeking a peaceful escape.",
+        "located_in": "dikili",
+        "coordinates": [
+            38.9897205,
+            26.7993916
+        ],
+        "properties": [
+            "bay",
+            "relaxing",
+            "nature",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "killik bay",
+        "node_type": "Bay",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "killik bay is a charming bay known for its turquoise waters and natural clay, attracting visitors who enjoy swimming and skincare treatments.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.0374115,
+            26.8128131
+        ],
+        "properties": [
+            "bay",
+            "relaxing",
+            "nature",
+            "clay",
+            "exploring",
+            "swimming"
+        ]
+    },
+    {
+        "mention": "kucuk zindancik bay",
+        "node_type": "Bay",
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "description": "kucuk zindancik bay is a unique bay that remains dark at night, offering a quiet atmosphere for visitors looking to enjoy a peaceful swim.",
+        "located_in": "dikili",
+        "coordinates": [
+            39.036877,
+            26.808271
+        ],
+        "properties": [
+            "exploring",
+            "bay",
+            "seclusion",
+            "swimming"
+        ]
+    },
+    {
+        "file": "museum_1.html",
+        "rating": "3.9",
+        "description": "the alsancak tekel factory, whose history dates back to the end of the 19th century, after restoration, renovation and reconstruction works in accordance with its original form, has transformed into a cultural and artistic center of the new generation that will shape the cultural and artistic life of izmir. the unused buildings of the factory, which is one of the most important industrial heritages of the city with its 140-year history, were re-functionalized and brought into the future. the historic factory opened its doors to culture and art, this time under the name “izmir culture and arts factory”. with its museums remodeled according to the concept of modern museology, libraries that appeal to all segments of the population – from children and young people to adult readers and researchers of all ages, cultural and art workshops, and a vast landscape and recreational area suitable for outdoor activities, the izmir culture and arts factory is a candidate for the new center of attraction for the city and will continue to be a source for those who are building the world of the future while helping to preserve the city’s historical memory. izmir culture and arts factory is one of the windows to the cultural and art world of our country and izmir and an original and innovative cultural and art center that responds to the artistic, cultural, educational and social needs of society with its services, a place where the people of the city interact with culture, art and nature. it stands out as a pleasant meeting place for all citizens and visitors of the city. departure of western anatolia, industrial activities emerged in the period from the 16th to the mid-19th century, generally due to the export of agricultural products. with the rapid increase in the volume of trade in the second half of the 19th century, there were significant developments in the industrial life of izmir. many large industrial plants are opened, such as a spinning mill, a coal-gas factory, a water factory and a cigarette factory. as a result of the trade agreements that the ottoman empire concluded with england and france, foreign merchants subordinated to these two countries settled in izmir from 1838. in 1881, the duyûn-u umûmiye (public debts) administration was established to pay the foreign debts of the empire, and all taxes collected from stamps, alcoholic beverages and tobacco were reserved for domestic and foreign debts. the régie de tabacs (tobacco regiment), created in 1884 as an enterprise of the administration, took over the tobacco monopoly and began designing three factories that same year, following the policy of establishing large factories. one of those three projects was the alsancak cigarette factory. only two years after the establishment of the turkish republic, in 1925, the tobacco regiment was purchased from the french by the state, and all the rights and obligations of the regiment were accordingly transferred to the state. the “tobacco monopoly law (tutun inhisari kanunu)” enacted in 1930 marked the first steps of tekel, which had been the sole manufacturer and distributor of alcohol and tobacco products in turkiye for many years. alsancak cigarette factory, which was actively used in the early years of the republic and whose production chart increased in the 1940s, continued its production activities as a tekel enterprise until 2004. the buildings on the factory premises are registered via various decisions of the protection authority in 1979, 1985 and 2007. the largest building, which is the identity of izmir culture and arts factory and served as the production center in the center of the historical alsancak tekel factory, was transformed into museum icaf – the archaeology and ethnography museum after careful restoration and renovation works carried out in accordance with the original. archaeological artifacts are displayed on the ground and first floors of the 7,240-square-meter, two-story building, and ethnographic artifacts on the second floor. the museum, which displays gold, metal, marble, terracotta, stone and glass works from the region, as well as historical textiles and unique manuscripts, invites visitors of all ages to take a pleasant historical and cultural journey through the past centuries, with thematic exhibitions reflecting the museology understanding of the new generation. the izmir painting and sculpture museum, opened on september 9, 1952 by bruno taut as the first gallery in the building of the ministry of education in today’s kultur park, hosted its visitors in its building in konak from 1973 to 2022. the museum, which was relocated to kultur park after the october 30, 2020 earthquake that shook the region, began operating on march 25, 2022, and opened its doors to art-loving visitors at the izmir culture and arts factory in april 2023. the izmir painting and sculpture museum, which receives its visitors in the building that is the second largest building of the historic alsancak tekel factory and has been restored with careful restoration and renovation works, has a very rich art historical collection. the collection presents a significant selection from the tanzimat period to the present. in addition to the works of important painters such as seker ahmet pasa, halil pasa, mulazim remzi, sulayman seyyid bey, ibrahim calli, hikmet onat, namik ismail, sevket dag, zeki kocamemi, mahmud cuda, bedri rahmi eyuboglu, nurullah berk, cemal tollu, abidin elderoglu, nuri iyem, fahrelnisa zeid, mubin orhon, sabri berkel, neset gunal, turan erol, adnan coker, halil akdeniz, nese erdok and devrim erbil, important works of sculpture artists such as turgut pura, kuzgun acar, zuhtu muridoglu, ali hadi bara, ferit ozsen and sadi ozis, and ceramic artists such as fureya koral, bingul basarir, mustafa tuncalp and mehmet tuzum kizilcan are exhibited in the museum.",
+        "museum_id": "22357",
+        "address": "mimar sinan mahallesi, ziya gokalp bulvari, no: 36 konak/izmir/turkiye",
+        "email": "info@izmirkultursanatfabrikasi.gov.tr",
+        "phone": "+90 (232) 280-9700",
+        "opening_hours": {
+            "summer": "09:00-21:00",
+            "winter": "09:00-21:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "cafe",
+            "mosque",
+            "wi-fi"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/70b39741-fc80-408f-acec-b9ce42b7f6ff.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/278b31e9-d4ca-45e0-ba06-436d2232d32d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/200768d8-bee0-4c35-a5d5-6eeaa96d0518.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/db1318e9-6514-4cc9-a3e9-85199b3b5580.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/33956a0e-2775-4efe-9993-93fb76939aa2.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/76009717-e6d4-4dfb-b024-44e69842cada.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/2a6a4a86-bb3d-4616-a086-7f992c06b14c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/47a30480-4823-4ed9-9e4a-822a6a913737.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/333a03c8-851c-478c-9b06-164b9ade163c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1739fd3b-f7ed-4216-bdd8-2587170e1ee3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0336a11f-b6e1-469d-8ea6-3d304013f0f8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e67f0d24-6469-4910-a7ed-467865fcd36c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/fefe4fd4-c213-4646-9f0d-1437c264b3e8.jpg"
+        ],
+        "coordinates": "38.436257213548124,27.148159418423177",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€10",
+        "node_type": "Museum",
+        "best_for": [
+            "families",
+            "art lovers",
+            "students"
+        ],
+        "located_in": "Konak",
+        "mention": "museum izmir culture and arts factory",
+        "properties": [
+            "art",
+            "culture",
+            "history",
+            "exhibits"
+        ]
+    },
+    {
+        "file": "museum_10.html",
+        "rating": "4.2",
+        "description": "masterpiece of ottoman civil architecture birgi is a peaceful, green and pretty neighborhood stretching along both banks of a stream on the southern slopes of mt tmolos (bozdaglar). the cakiraga mansion in birgi was commissioned by cakiroglu serif ali agha, a merchant from birgi, in the late eighteenth century. the three-story mansion is renowned with its panoramas depicting istanbul and izmir. it is an unparalleled example of ottoman civil architecture in the aegean region. authentic wall painting and woodwork on the exterior and interior walls of cakiraga mansion in birgi enchant its visitors.",
+        "museum_id": "2083",
+        "address": "birgi mahallesi sht. gurol madan caddesi odemis/izmir",
+        "email": "odemismuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 531-5205",
+        "opening_hours": {
+            "summer": "08:30-19:00(Monday : Close)",
+            "winter": "08:30-17:30(Monday : Close)",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "cafe"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d331edcc-e613-46e9-bf5d-0d4394dff96d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e4d64d10-3154-4cc9-92ea-ce37c2c60fb6.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/065e3578-87aa-4592-ab58-064924be08d3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9ce03f16-88a3-4945-833c-f558f613dd4c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/19223f25-a380-4aff-9fdf-8c8825303baa.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7280f11f-4ff8-4026-b36e-9bf93fdec6be.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1baabbb1-22ba-4399-80d5-f594be166805.jpg"
+        ],
+        "coordinates": "38.256113,28.065649",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€3",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "architecture lovers"
+        ],
+        "located_in": "Odemis",
+        "mention": "izmir birgi cakiraga mansion",
+        "properties": [
+            "history"
+        ]
+    },
+    {
+        "file": "museum_11.html",
+        "rating": "4.6",
+        "description": "cesme castle, which is one of the historical and cultural assets ​​worth visiting in cesme, was built by the genoese and later transformed into its present form by architect ahmet, son of mehmet during the reign of sultan beyazit iind (1508). cesme castle was built on an area of ​​11,000m2 and has four towers, two on the coast and two on the ridge. the castle is rectangular in plan and has an inner citadel which consist of two main areas. the first part was probably used as a military area while the second part was used for residencial purposes. with its mosque, fountain, water tanks and enclosed areas, cesme castle constitutes one of the authentic and original architectural structures of the ottoman period. today, the castle serves as cesme archeology museum. cesme castle opened its doors to visitors for the first time as a museum for the display of weapons which were being brought from istanbul topkapi palace museum in 1965. the display remained active until 1984 when the weapons started to deteriorate by oxidation due to excessive moisture. the weapons were then being transferred to izmir archeology museum and odemis museum. the archaeological exhibition halls of cesme castle currently displays artifacts from the excavations of the ancient city of erythrai (ildiri) and cesme-baglararasi bronze age settlement, along with figurines, oil lamps, glass vessels, sculptures and coins from different periods. the museum also includes a chronological display of amphorae; a vessel type which have been used for the transport and storage of grains, olive oil, wine etc. and played an important role in ancient trade. the lower floor of the umur bey tower in the castle, has a thematic arrangement focusing on the 1770 cesme, ottoman-russian naval war. the upper floor of this tower on the other hand, is a display area for marble and stone artifacts where sculptures and stelai as well as ottoman period inscriptions are being exhibited. there are also cannons, cannon balls, architectural pieces and islamic tombstones being displayed in the open spaces around the castle.",
+        "museum_id": "2084",
+        "address": "musalla mh.1001 sk. no:1 cesme /izmir",
+        "email": "cesmemuzesi@kultur.gov.tr",
+        "phone": "+90 (232) 712-6609",
+        "opening_hours": {
+            "summer": "08:30-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "cafe",
+            "shop"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6ef8b07d-7e34-43df-a168-0649ce19c070.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e407b4cb-4986-4e58-96a5-d870746e8f1c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f0d29942-1bbd-4f41-b13b-7aac24f1604c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/25045bf6-712e-4947-972a-9b2f67a56737.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ad7899d2-08a3-4dfe-abe6-f562001957cb.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f7566dc9-4571-4f9d-8eb4-90d8b110677f.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6b771cd3-e0c6-4a52-965e-42fe6fb23c6e.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/dcc8d0c5-2d4d-41b6-9797-3a2adb7d272a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7e59f3e3-012f-4bd4-a6d9-a41df60bf9a1.jpg"
+        ],
+        "coordinates": "38.323597,26.303015",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€6",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "archaeology enthusiasts"
+        ],
+        "located_in": "Cesme",
+        "mention": "izmir cesme museum",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_12.html",
+        "rating": "3.7",
+        "description": "he acted from the directives of the great leader mustafa kemal ataturk in the form of \"making maritime the greatest ideal of the turk\". the naval forces command has opened the museum ships to visitors within the scope of the promotion, popularization, and dissemination activities of the maritime that it has determined as its duty. turk maritime history and culture to instill, as the technical development of the naval forces command of visual and orthographic, reflect our navy frigate, a submarine, a boat, a helicopter, to introduce to the public, to contribute to the cultural and artistic activities of our people, the young generation loves to sail, to embrace, and to promote sailing to provide. tcg ege, tcg pirireis, tcg kasirga, ab 212 class tcb 36 tail numbered helicopter, which is one of the floating, diving, and flying elements of our naval forces command, has served in our navy for many years day and night against the dangers that may come from all directions. they have made outstanding achievements in ensuring peace and tranquility on our seas and have proudly flown our glorious flag on the seas. in the first stage, within the scope of the project realized after completing their active duties in tcg ege and tcg pirireis naval forces command;mission areas of our warships, living quarters, devices, materials, and equipment available on the ships have been preserved in their original form. objects such as mannequins, models, plates and boards, and exhibition halls were transformed into museum ships in order to be explained to the visitors and opened to service on 1 july 2007 at the inciralti pier in the balcova district of izmir with a ceremony. the first museum ships of the aegean region and izmir province have become the center of attraction for thousands of aegean people and all age groups in a very short time. approximately 1,265,000 people have visited the museum since its opening. october may 22, 2014, in addition to the frigate and submarine, tcg ege helicopter platform, tcb 212 class helicopter with tail number 36 and tcg kasirga attack boat on march 16, 2015, respectively, as part of the renovation and improvement works were opened to the public. tcg ege (aeagen) it was built in the avandele shipyard of the usa and started to serve in the us navy on march 31, 1973, with the burgundy number 1090 and the name 'uss ainsworth'. he continued his active duty for 24 years, after which uss ainsworth was purchased by our naval forces command and joined our navy with the name tcg ege on july 28, 1994, at a ceremony held in golcuk. tcg ege ended its active duty on march 25, 2005, after the outstanding achievements it showed in domestic and international exercises and training in our navy for more than 11 years. although it was designed for anti-submarine warfare, at the same time; it has weapons and sensors to perform tasks such as surface and air defense warfare, land bombardment, patrol, searches and rescue, and reconnaissance. the efe in the emblem of tcg ege represents the bravery, courage, and honesty of turkish folklore, the dove represents peace and the dragon represents power. the combination of these three elements symbolizes the spirit of tcg ege. tcg ege was managed by a total of 286 personnel, including 21 officers, 155 non-commissioned officers, and 110 privates. it weighs 4200 tons and is 134 meters long and 14.3 meters wide. its main engine has a power of 35,000 horsepower, and its maximum speed is 27 knots per hour. weapon systems of tcg egeon the bow of the ship, there is a semi-automatic single-barreled 5/54 cannon, which is controlled by the mk68 fire control radar for land and air targets above water. asroc against submarines, harpon guided missiles against surface targets and 4 mk 32 torpedo tubes are used to homing submarines mk 44 and mk 46. there is a phalanx close defense weapon used against guided missiles. tcg pirireisit was built as the first fast attack submarine at portsmouth shipyard of the usa between 1949-1951 and joined the us navy on 19 june 1951 with the name uss tang. uss tang was purchased by the turkish naval forces command after 29 years of active service in the us navy and joined our navy with a ceremony on february 8, 1980, taking the name tcg pirireis.tcg pirireis submarine continued its active duty in our navy for 24 years and decommissioned on august 9, 2004, and they continue their duties as ege museum ship and pirireis museum ship at inciralti pier. it has a structure consisting of 7 compartments with double boats and is 87 meters long, 9 meters wide, the maximum diving depth is 233 meters, the maximum speed it reaches (above water) is 15 knots, and diving is 16 knots, snorkeling is 11 knots. it has a diesel-electric propulsion system. its tonnage above water is 2,200 tons and its tonnage in the diving condition is 2600 tons. it can perform a patrol for 50 days in deep and near coastal waters. it was managed by a total of 84 personnel, including 9 officers, 48 non-commissioned officers, 27 non-commissioned officers, and privates. it has the ability to carry out all kinds of intelligence, detection, and diagnostic activities, from throwing classic and homing torpedoes, to pouring mines. tcg kasirga tcg kasirga was founded in 1967 by fr. lurssen wert bremen was built in f.germany. after construction, it was brought to turkiye with tcg meltem on 17 november 1967 at the shipyard. he joined the navy command with a ceremony held in golcuk on 25 november 1967 and started his honorable duty in the turkish naval forces as an affiliate of the war fleet command. penguin g/m was installed on the ship in 1978 and the g/m was given the qualification of an attack boat and one penguin mk1 mod 1 g/m shot was fired at 10:00 on november 21, 1981. the result of the shot to m/g bornova with a speed of 10 knots from 14 thousand yards was determined to be successful. tcg kasirga was removed from the establishment of the war squadron command in 1983 and was taken to the assault boat squadron command in umuryeri / istanbul. tcg kasirga was deployed to erdek/ balikesir in 1993 as a subordinate of the commodore of the 3rd assault boat flotilla. in 1999, the aegean sea regional command was established and the location of the speech was changed to aksaz marmaris / mugla in 2002, the escort and patrol fleet command were established. tcg kasirga naval forces completed its honorable mission full of achievements in the command on june 30, 2014, and left the service. tcg kasirga was towed to the museum ships directorate inciralti pier on march 16, 2015, and started its new duty as a museum ship. tcg hurricane is 42.5 meters tall and 7.7 meters wide. there is a range of 4 propellers and 2 rudders. there are 4 main machines and 2 auxiliary machines. the maximum speed is 39 knots. the assault boat was dispatched and managed with a total of 31 personnel, including 4 officers, 13 non-commissioned officers, 3 sergeants and 11 rank and file. from the beginning to the rear of the ship, there is a private cabin, a commander's cabin, a non-commissioned officer's dormitory, combat operations center, radio cabin, radar cabin, bow engine room, aft engine room, officer lounge, and dormitories, arsenal and tiller room. on the upper deck, there is a bridge, a kitchen, and a cbrn (chemical biological radioactive and nuclear) washing station. tcg kasirga weapon systemsthere are 2 40 mm diameter l / 70 aircraft war cannon, 2 7163 mm tall 533.4 mm diameter g-7a classic torpedo tubes and 2 mk1 mod7 penguin guided projectile launchers. ab 212 helicopterdeckhand tcb-36 ab-212 helicopter was manufactured by agusta / italy on august 4, 1977, and has 2 turbo-shaft engines, it is a helicopter for surface reconnaissance and submarine search. the engines were manufactured by pratt & whitney/a canadian company. it was decommissioned on march 25, 2013, and during this time it operated for 6942 hours and 55 minutes of flight. its maximum speed is 130 knots, empty weight is 8000 lb, maximum take-off weight is 11200 lb, fuel capacity is 1350 lt, width is 3.96 meters, length is 17.39 meters and height is 3.86 meters. the helicopter has been used in reconnaissance and attack, as well as search and rescue missions against submarines and surface vehicles. ab-212 helicopter weaponsperformed various missions against submarines by using mk 44 and mk46 torpedoes, and for light, surface ships using as-12 wire-guided and sea skua radar-guided missiles. the crew consists of 2 pilots (1st pilot on the right), and 2 operators (radar and sonar). the ab-212 class tcb 36 tail numbered helicopter was placed on the tcg ege helicopter platform on may 22, 2014, and started its new mission.",
+        "museum_id": "22319",
+        "address": "inciralti, basak sk., 35330 balcova/izmir",
+        "email": "",
+        "phone": "+90 (232) 278-5234",
+        "opening_hours": {
+            "summer": "10:00-18:00(Monday : Close)",
+            "winter": "09:00-17:00(Monday : Close)",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "shop",
+            "guidance service"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/81e74780-5164-4e42-9121-03bb9b4958a0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8c7da33f-3e7e-4483-9c82-eea8a746fdad.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/02e194ad-d589-4b8f-bfcf-83dc89471d90.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/dd329dbb-8b9f-4e16-baf1-7f766f9b05f3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/575c8ee6-f01d-48df-97ab-06f1fbdb3e19.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/85777904-2ff8-4ca6-93e4-3372a22f8bf0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7cf32cd3-7be7-43c2-ad85-e06690d4122a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8c442f8f-faed-4bae-b1bb-ac6d2411d760.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f16cf9a6-0c9b-42b0-8c59-0353b44e3650.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ab523ce4-7597-4e55-824e-191a5015c9a5.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6b90685e-1a21-4d44-aeca-bbf1ab8eac60.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/2d3b58a0-a173-4f8a-a2aa-28183ae2e4ad.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5d37b967-1537-44f5-9fd0-957e6ea99fcc.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9e00fd06-74a4-4144-b14d-e0af06cb27b0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ce8cc4ef-c394-4165-b4c4-3324dc395201.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/133328e0-1c21-4c02-a29d-42df2409edc3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/207e9e3c-d8a4-4655-b050-0468168f3a79.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/564c5277-4f0f-4a26-b88d-d1c72df556ea.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6173c44b-d8fc-41cd-84e5-b5e817028403.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a14e0d27-760a-48a5-86dc-26abfd19c05a.jpg"
+        ],
+        "coordinates": "38.41219711523282,27.034078051840794",
+        "local_price": null,
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "naval history enthusiasts",
+            "families"
+        ],
+        "located_in": "Balcova",
+        "mention": "izmir naval museum",
+        "properties": [
+            "naval",
+            "history",
+            "displays"
+        ]
+    },
+    {
+        "file": "museum_13.html",
+        "rating": "4.8",
+        "description": "welcome to the ephesus experience museum, where you will travel back in time, immersing yourself in the mystical atmosphere of the ancient world. with our innovative approach, we offer an entirely mesmerizing experience where time breaks free from static confines, dancing in perpetual motion, bringing historical artifacts to life with visual interactions that leave a lasting indelible memory. feel the wonders! we push the boundaries of technology to bring you back to ancient days, experiencing what life was like as you explore ephesus’ historical and cultural treasures. embracing this vision, we seek to transport you beyond fleeting moments filled with rich-woven memories. the daily life of the roman empire, the grandeur of the temple of artemis, and the magnificent atmosphere of the celsus library will surely captivate you. journey of the hero come on an unforgettable journey through history at the ephesus experience museum. explore the ancient city’s streets where time thrives and pulses with vitality, learn about daily life in the past, and uncover the mysteries of the ancient world. we look forward to meeting you!",
+        "museum_id": "22356",
+        "address": "efes antik kenti, tiyatro karsisi, selcuk/izmir",
+        "email": "contact@demmuseums.com",
+        "phone": "",
+        "opening_hours": {
+            "summer": "08:00-19:00",
+            "winter": "08:00-19:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "audio guide",
+            "accessibility",
+            "cafe",
+            "restroom"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e949f25b-da1b-4957-b718-6fd8c82bf63b.png",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/952e3446-13d8-41ec-9231-ecc8ac1deea6.png",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e429ba2f-57b8-4b66-9223-e499af10f0e3.png",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/af8ef47d-b5da-446b-801a-bfb48e475707.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/07a48e9f-0628-4375-a793-4cf1008c8e22.png"
+        ],
+        "coordinates": "37.941195147227035,27.34104817424852",
+        "local_price": null,
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "history lovers",
+            "families",
+            "students"
+        ],
+        "located_in": "Selcuk",
+        "mention": "izmir ephesus experience museum",
+        "properties": [
+            "culture",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_14.html",
+        "rating": "4.6",
+        "description": "artefacts unearthed in the excavations made in cukurici mount, artemision, where the ruins of the temple of artemis, considered to be one of the seven wonders of the ancient world, the st jean church, where the tomb of bible writer st jean is located, the fortress on the ayasuluk hill, the belevi mauseleum and near vicinity are exhibited. the museum is arranged according to various subjects and finding groups, such as information hall in the entrance, hall of the fountain findings, hall of the terrace houses findings, ancient coins, ephesus through the ages, inner garden, cybele cult, hall of artemis temple findings, ephesus artemis and imperial cult. marcus aurelius the statue of the roman emperor and stoic philosopher marcus aurelius was made of white marble with fine craftsmanship. wrinkles on the forehead of the emperor wearing a paludamentum attached to the right shoulder with a fibula are prominent. the back of the artifact was left raw. it dates back to roman period 2nd century ad. head of eros head of eros, which is made of white marble with fine craftsmanship, is broken from the neck. the head is slightly inclined to the right, and this posture shows that eros is looking at the bow he is holding. the face has an innocent, childish expression. the hair is curled and tied back in the middle. it is a copy of “eros stretching the bow” sculpture made by lysippos between 330-320 bc resting warrior it was found during the excavations at the polio fountain. he is a young warrior depicted in a half- lying position. the body weight of the statue is given to the left arm leaning on a rock. the warrior, whose wavy hair is attached with a band over the forehead, has a calm expression on his face. he holds a shield in his arm and a sword in his hand. while the left leg is bent backwards from the knee, the right leg is bent from the knee and extended forward. great artemis statue artemis exhibits features integrated with kybele, the mother goddess of anatolia since prehistoric age. the high polos on her head is in the form of a temple and has three floors. earrings on her ears, pearl necklace on her neck and under her chest four rows of globules related to fruitfulness and fertility are seen. artemis has a four-piece rosette and a thin belt adorned with bee motifs, the symbol of ephesus, at her waist. figures such as lions, rams, deers, gryphon and bees were placed in each rectangle.",
+        "museum_id": "2085",
+        "address": "",
+        "email": "efesmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 892-6010",
+        "opening_hours": {
+            "summer": "08:00-18:30",
+            "winter": "08:00-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "cafe",
+            "restroom",
+            "car parking",
+            "shop"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9a4092b4-c83f-45a9-9b23-70d20dc2fb18.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ddd491c9-e3ee-4f23-b8e6-23b843054ebb.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0188f975-2d64-4fa1-8b3d-97ee08b08641.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d475f78e-68a2-4ae4-a410-68a30aab07b0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/2d6b34fd-7f51-46a4-8811-6582bc7307c7.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5c972df9-9e21-45b6-b162-14e41076011e.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1b9141b0-3ff1-40a8-a6a2-a3910a484f54.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8c1a3f7a-2c45-45c5-85bc-a3659f318304.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/daaa0a72-bc34-4ce7-8119-c3291876a012.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d1bfa5d9-9507-49e0-9a22-97d2242eae68.jpg"
+        ],
+        "coordinates": "37.94893,27.36764",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€10",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "archaeology enthusiasts"
+        ],
+        "located_in": "Selcuk",
+        "mention": "izmir ephesus museum",
+        "properties": [
+            "archaeology",
+            "context",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_15.html",
+        "rating": "4.2",
+        "description": "the first establishment of the city of ephesus goes back to 6000 bc. during the recent researches and excavations, some settlements belonging to the bronze ages and hittites were identified in the mounds around ephesus and ayasoluk hill, where the fortress is located. the name of the city during the hittite period was apasas. ephesus, a port city where immigrants from greece started to live in around 1050 bc, was moved around the temple of artemis in 560 bc. ephesus was founded here by lysimachus, one of the generals of alexander the great, in 300s bc. having its most magnificent times during the hellenistic and roman periods, the city had a population of 200,000 people as being the capital of the asian province and the biggest port city. temple of hadrian it was built in the name of emperor hadrian in 118-138 ad by p.quintilis as a memorial temple inside the varius thermae complex, facing kuretler street. it has corinthian style. its pediment includes the relief of tyche, the goddess of city and luck. the originals of the friezes depicting the establishment legend of ephesus are exhibited in the ephesus museum . the inscripted statue pedestals in front of the columns belong to the bronze statues pedestals in front of the columns belong to the bronze statues of diocletian, maximian, constantius chlorus and galerius. terrace houses the wealthy people of the city lived in the houses built on terraces on the slopes of bulbul mountain. the houses that were built around an open peristillium courtyard consisted of two floors. the houses, the first construction date of which was identified as the 1st century ad, were used in the following years with various additional modifications until the city was finally abandoned. the floors of the houses are decorated with mosaics and the walls are decorated with marble and frescoes. the houses had fountains and underfloor heating systems.",
+        "museum_id": "2094",
+        "address": "ataturk mahallesi efes alt kapi sokak no:53 efes harabeleri, selcuk/izmir",
+        "email": "efesmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 892-6010",
+        "opening_hours": {
+            "summer": "08:00-18:30",
+            "winter": "08:00-18:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "cafe",
+            "shop",
+            "restroom"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1b0d8c37-1c27-453c-863d-e2cfa00c4499.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b329d1c0-8c5a-4fce-8fb5-61828721b54b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d2890b92-6466-4961-9dd4-ba3110f37b31.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/68d2949a-44a8-40f2-b93a-f95557ac7f69.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5c9c2045-a366-4b3f-9b6c-3c24a21ddbd3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/544424ce-6f92-4702-ae6e-d0a07afda9ab.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f074ddd8-a18c-42c0-a502-4d7a1692202a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/32ab97d0-456d-4058-8ba9-939f072f7828.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8cc9eb01-9e60-4c48-ba05-722380db2d79.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/319e5e21-2aee-46e7-a4ee-a9906fea2fa1.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/49ccc813-f63a-4f66-952a-c29448ba794b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/55e8e0e6-5d34-4e30-8e03-336373a2afb8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/802ec05c-d589-49c8-b9be-72017bccd07c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a112e982-8ca0-47eb-a268-7584e6f302fc.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8af3b819-43f9-4dca-9159-e970cd71cf49.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6670f008-4c4d-4613-91dd-24b9784048e4.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1d257c76-0e2e-43ce-9758-c82ba1a5cd94.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/287942db-a2f0-4e2d-954c-b1ab7ed873d5.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/753995a0-c06e-487e-bcc7-de0090bfa173.jpg"
+        ],
+        "coordinates": "37.948418,27.368057",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€40",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "archaeology enthusiasts"
+        ],
+        "located_in": "Selcuk",
+        "mention": "izmir ephesus",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_16.html",
+        "rating": "4",
+        "description": "konak municipality izmir women's museum the fifth boutique museum of konak municipality, the first women's museum of turkiye, was opened on january 23, 2014. the museum has the characteristics of 19th-century houses. elements of european and traditional turkish architecture were used together decently. the enrichment of the neoclassical facade with a bay window indicates the type classified as \"izmir house\" or \"interaction house\" in some sources. the building is a historical building consisting of three floors: reception, service, and living. mission the museum aims to remind the whole world of the forgotten past and power of anatolian women, to reveal the creativity of anatolian women, support their self-confidence, and to create a special place where memories of their own past come alive. museum exhibition areas the 19th- century gold-embroidered caftan, bindalli and cepken on the entrance walls arouse admiration. in the hall, there is a photograph of the great leader mustafa kemal ataturk dancing with nebile hanim at the wedding of his adopted daughter, nebile hanim, at the anakara palace in 1929. women from the past to the present today's artists have works about women. there are photos of women from the past to the present, magazines, information, and documents. women in anatolia in the ancient period the first woman and mythology, mother goddesses, and amazons are explained with the support of visuals. it is observed that the social position of women in anatolia in the ancient period varies according to the period. information about the anatolian woman in the ancient period is mostly obtained from artifacts unearthed by excavations. these artifacts, namely steles, jewelry, ceramics, mosaics, frescoes, and the like, help us trace the life of a woman in antiquity. garden there are masks (facing patterns) of halide edip adivar, cahide sonku, fureya, and afife jale, our turkish women who broke new ground in history. there is a statue of nâzim hikmet on a bench along with his poetry, and it also contains a special section where free calls will be expressed in a poetic language. protest and women's chamber various resistances of women in social life are included in their stories. documents explain that in 1828 the bread was raised, the women of izmir took to the streets with their children to protest, and upon the women's revolt, the then-governor hasan pasha took back the bread price. collection artefacts room there are items, information, and collections from the ottoman and republican periods. chamber of pioneer women the objects, biographies, and visuals of our women who have been pioneers in science and art from the ottoman and republican periods are included. temporary exhibition hall there are exhibitions made by women and about women.",
+        "museum_id": "12333",
+        "address": "akinci, 1298. sk. no:14, 35240 konak/izmir",
+        "email": "",
+        "phone": "+90 (232) 484-0481",
+        "opening_hours": {
+            "summer": "09:00-17:00(Monday : Close)",
+            "winter": "09:00-17:00(Monday : Close)",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/654e1874-8229-43dd-8757-2a4c3a5a48ab.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/bb283410-8999-48f2-84d2-34722acd4156.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4f043648-ed5e-431d-8c51-98556dcdd636.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/579b4f77-5b65-45d8-a161-dcc76519cb84.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/fbba2b6a-ae4e-4527-b209-fdac9f374a83.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8b75cb89-b283-47a6-82c4-a474f2e11773.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/36cc19a6-8458-4fe9-ae67-e924a396e59c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5ee5444f-821f-4423-a428-174eaf68c71a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/48614799-1e83-4581-b83c-6d9a77d22efd.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/fef54e57-1cdb-420f-87f6-80cb2837f04b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0c5549ad-efb8-45f1-afd9-c05859eca8ff.jpg"
+        ],
+        "coordinates": "38.421146602683784,27.142750590948637",
+        "local_price": null,
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "feminists",
+            "history enthusiasts"
+        ],
+        "located_in": "Konak",
+        "mention": "izmir woman's museum",
+        "properties": [
+            "culture",
+            "history",
+            "exhibits"
+        ]
+    },
+    {
+        "file": "museum_17.html",
+        "rating": "4.9",
+        "description": "a place which has guided history with its prophecies claros sanctuary is located on the bottom plain of ahmetbeyli valley (ales), which connects the plain gulf of kusadasi to the south, at the south of cumaovasi (menderes). the temple of apollo in the claros sanctuary, which served as a ‘prophecy centre’ from its foundation at the end of the 13th century bc until its abandonment in the 4th century ad, was the only doric temple built in ionia. the temple began to be built at the beginning of the 3rd century bc. it is known that the crepis, pronaos, naos and monumental cult statues (leto, apollo and artemis) of the temple were completed at the end of the 2nd century bc. the hellenistic apollo altar is located to the east of the temple of apollo. according to the finds found at the altar, one of the two sacrifice tables on the altar has been dedicated to apollo and the other to dionysus. archeopark in the archaeological park, which has been created by taking the exact molds of many statues, all of which were found in claros sanctuary, a realistic and scaled model of hellenistic apollo claros temple and its altar are exhibited. apollo claros sanctuary as in ancient times, today apollo claros sanctuary has an important place in archeology of anatolia and the world. first of all, hekatomb (a block for tethering one hundred animals), which is often mentioned by ancient authors, is the only work in the world found in a sanctuary. moreover, claros sanctuary is one of the rare sanctuaries with monumental-scale (8 m high) cult statues (apollo, artemis and leto) found in situ. another characteristic of the sanctuary is that it is the only sanctuary with inscriptions all over, even on the crepis (stairs) of the apollo claros temple.",
+        "museum_id": "2096",
+        "address": "ahmetbeyli, isikli klaros cd., 35470 menderes/izmir",
+        "email": "efesmuzesi@ktb.gov.tr",
+        "phone": "+09 (232) 892-6010",
+        "opening_hours": {
+            "summer": "08:00-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "car parking"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/066ffa54-8306-40db-8d4c-3aed08cf1991.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1c92e389-3c2e-4da9-9d81-fcaaead27efa.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/aabaa522-97d1-46bb-a5b4-edf4681a8c7b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/85998565-fc89-4641-ab54-60e9ee00e64d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/de52da43-010d-4869-ba1a-4947926ed31e.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/75dd8f78-f535-4c28-80fd-d24c1879abfb.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/2e26bcfc-1c9e-4226-b2e0-8dfa3041a40a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7b6bcca3-ac2f-4f9c-b578-c7ffff1963ac.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9de18cfd-7691-4cf4-969d-618b1710880d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b0696aa2-037a-4ffd-a396-a41e06698414.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a224d6ba-6bd0-42bd-9753-f735a0e9824c.jpg"
+        ],
+        "coordinates": "38.004754,27.192892",
+        "local_price": "free",
+        "foreigner_price": "free",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Menderes",
+        "mention": "izmir klaros archaeological site",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_18.html",
+        "rating": "4.6",
+        "description": "klazomenai, which is mentioned among the twelve ionian cities, is located on the north coast of urla – cesme peninsula, in the middle of izmir bay. it is thought that the territory of klazomenai (khora) extends close to smyrna in the east. the temple of apollo, which is known to be located around the baths of agamemnon near balcova, is considered within the city's land. it is understood that its border with erythrai in the west is around hypokremnos (icmeler), possibly gulbahce village forms the western border of klazomenai, and in the south the city land extends to the sigacik gulf. the first scientific excavation in klazomenai was carried out in 1921 and 1922 by the greek archaeologist g. p. oikonomos. following the work carried out by the ministry of culture in 1979 and 1980, the excavations headed by guven bakir started in 1981, and after the retirement of our teacher, from the year of 2007 onwards, excavation directorate of klazomenai has been undertaken by prof. dr. yasar e. ersoy. klazomenai, located in limantepe, which had been inhabited since 4000 bc, was established in the iron age. the klazomenians, who lived in apsidal and rectangular planned houses in the geometric period (900-650 bc), surrounded their city with a city wall in the 7th century bc. the archaic settlement was interrupted by the persian occupation around 546 bc, but with the moderate rule of the persians, there is a return to the old city areas around 525 – 520 bc. the spread of olive oil production workshops and settlement shows the rising prosperity in the last quarter of the 6th century bc. after the ionian revolt that broke out in 499 bc, from the beginning of the 5th century bc, klazomenai maintained its life as an island city on the island of karantina. later, clash of ideas and interests caused a double settlement in the city. in the first half of the 4th century bc, a group of people who were not sympathizers of athens established a new city with a grid plan called kyhton in limantepe. this settlement on the mainland was abandoned around 350 bc. after this date, the klazomenians, used the mainland for agricultural purposes and maintained their lives on the island of karantina.",
+        "museum_id": "2097",
+        "address": "klazomenai kazi alani, iskele mahallesi, 2121 sokak, urla izmir",
+        "email": "izmirmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 489-0796",
+        "opening_hours": {
+            "summer": "08:30-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "car parking"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/49be63ac-e482-4758-b5cc-7c6d2968f13c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f73d77f8-ade2-42e3-a151-0f83d1b0cd4a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d0bf6a2a-9bee-49e9-9b1f-84ee6c0c055c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/aa76a164-a1fc-45c5-ad20-0055784d4906.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9e3f2526-fb91-42d0-98d4-c21c880121d3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/151b5e27-7e8e-453d-aead-35a1876b6cd4.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8c325b11-0e4b-410a-be07-e2c556803cde.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5b3eca17-476e-4a5b-8f6f-90b13721bf1a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/885b9144-ddbc-4f21-8e6e-147949523d0d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6a050c49-efd8-46f3-845c-a82ac5ea41d8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b797a703-d38c-4656-83a9-a8d3bb9fc30f.jpg"
+        ],
+        "coordinates": "38.362859,26.769573",
+        "local_price": "free",
+        "foreigner_price": "free",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Urla",
+        "mention": "izmir klazomenai archaeological site",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_19.html",
+        "rating": "4",
+        "description": "",
+        "museum_id": "12334",
+        "address": "latife hanim, doc. dr. bahriye ucok blv. no:29, 35600 karsiyaka/izmir",
+        "email": "",
+        "phone": "",
+        "opening_hours": {
+            "summer": "10:11-10:11",
+            "winter": "10:11-10:11",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/36dc07f5-b004-410b-a0d6-bcfea397c7fc.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d38e036f-8066-48e4-bcf1-c60cb97724a1.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/15883037-4cfa-4582-a48c-19e5dd3e64e6.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c1baae89-12f3-4282-af50-cb5e55cbf2a2.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f5817b5e-42af-470c-af91-0b1362e1d13f.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/edc8755d-9823-4864-b198-019ce41a29a4.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5c1e7547-aa25-48e0-9615-2fd6ea620468.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/272bd758-2e3a-4cb0-87b2-c81ebf199569.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/316a0b98-8147-4ce1-99ec-29add696cf5b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/38561478-2b01-45a0-8162-807eb83751b8.jpg"
+        ],
+        "coordinates": "38.45832436225598,27.113510503927827",
+        "local_price": null,
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "architecture lovers"
+        ],
+        "located_in": "Karsiyaka",
+        "mention": "izmir usakizade latife hanim mansion",
+        "properties": [
+            "history"
+        ]
+    },
+    {
+        "file": "museum_2.html",
+        "rating": "4",
+        "description": "smyrna’s agora is an open air archaeological site and the excavations conducted here began as one of the first excavations of the turkish republic in 1932 and maintained by selahattin kantar, director of izmir museum, and rudolf naumann until 1941. nowadays, as an excavation permitted by the cabinet of ministers, “the smyrna ancient city excavations” have been carried on by akin ersoy, asst. prof. dokuz eylul university. the agora was the administrative, judiciary and trade center of the city of smyrna. the sloped terrain on which the agora was built was evened out with the cellars (of which the ruins have survived to this day), and a terrace was created, surrounded by porticos. thanks to the usage of it as a cemetery in byzantine and ottoman times, the agora of smyrna has been relatively well preserved to this day. excavations show that in accordance with the legends of the city being moved, the agora area was planned and the buildings around it constructed right after alexander the great, from the end of 4th century bc onwards. entrance fee: 6 euro",
+        "museum_id": "2090",
+        "address": "agora oren yeri, 816 sokak, no:29, namazgah mahallesi, konak izmir",
+        "email": "izmirmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 489-0796",
+        "opening_hours": {
+            "summer": "08:30-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0e295022-f34f-4996-8e13-3ce9b5358e6c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ab8dfec3-0b96-42fa-adf4-b32c90eb2096.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6e8fd4f0-a9b5-4741-840c-5872b8804c5d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1eb722b9-d92d-4729-a6d8-3fc77ffeb7b0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c84ef14c-fa9e-422f-9a1b-fbff28e110e7.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4e43fc68-ce49-482a-9e34-e2fabab59592.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ec0ae375-ff11-40e0-b0a1-645511d88a13.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d10f5d4e-dffb-4a63-8d6f-8ed2dec670ad.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f78b426b-aa43-4054-883d-cd62c77d51f8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f09edc58-a817-4eab-991f-0c976423a56b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f6c30347-a03f-43e9-accb-d39e1b3ec41d.jpg"
+        ],
+        "coordinates": "38.41904,27.13772",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€6",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "archaeology enthusiasts"
+        ],
+        "located_in": "Konak",
+        "mention": "izmir agora archaeological site",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_20.html",
+        "rating": "4.5",
+        "description": "the ancient city of metropolis between yenikoy and ozbey villages in izmir's torbali district was excavated between 1989 and 2007 under the direction of recep meric and has been excavated by serdar aybek since 2007. the city, leaned its back against the gallesion mountain, takes its name from the mother goddess meter gallesia. ceramic pieces found as a result of archaeological excavations in the acropolis of the city indicate that early and middle bronze ages existed here. the first settlement traces around metropolis date back to the stone age (neolithic) tepekoy, dedecik, kuscuburun. the hellenic settlement was established on the acropolis after the 9th century bc but the city showed its main development in the 3rd century bc. metropolis made a great progress especially in the 2nd century bc, under the auspices of the pergamene kingdom, and monumental structures such as theater, bouleuterion and stoa were built during this period. it maintained its development on the izmir – ephesus trade route during the roman period and trade became the most important source of income. during this period, especially on the eastern slopes of it, houses of the rich (peristyle house), workshops, shops, the bath and sports complexes were built in accordance with the imperial tradition. in the late antiquity, metropolis became an episcopal center but began to shrink due to wars and economic reasons, and a defensive fortress was built in the city. from the 14th century on with the conquest of the region by aydinogullari principality, metropolis was also under the administration of the aydinogullari principality, but it could not survive in its old position and moved to torbali. the name torbali is the present-day form of the name metropolis that has been spoken and changed over the centuries. during the ottoman period, the region was named as “kizilhisar” for a while.",
+        "museum_id": "2098",
+        "address": "sevgi yolu sokak, yenikoy, torbali izmir",
+        "email": "izmirmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 489-0796",
+        "opening_hours": {
+            "summer": "08:00-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "cafe",
+            "shop",
+            "restroom"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/53899d04-7c73-4a19-8d9c-7ccac376e6b8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0ea1ed94-913d-46f7-ae50-026722e67d2b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7fbd60c4-d9f4-4545-a4b7-8d22e1f80f69.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c3339108-cc80-4749-b9c2-ab2f3f342f5b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b4d8dec6-39ba-48eb-99cf-0c187dae9f94.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/982c33a3-c2d2-4820-ba10-4d048f30f90b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ef92334f-cc0a-420f-8208-2c8308cd3be1.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/82f5bc99-7772-450e-8b51-b7dc07c61fab.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4430660b-730c-4d29-b127-2827256a686d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9e732694-903d-4c8b-814c-54f2c260db56.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/016c4f15-3ef7-4349-8111-2bfde3a9203f.jpg"
+        ],
+        "coordinates": "38.124955,27.325937",
+        "local_price": "free",
+        "foreigner_price": "free",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Torbali",
+        "mention": "izmir metropolis archaeological site",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_21.html",
+        "rating": "4.9",
+        "description": "",
+        "museum_id": "2087",
+        "address": "hurriyet mahallesi ataturk caddesi no:88 odemis-izmir",
+        "email": "odemismuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 545-1184",
+        "opening_hours": {
+            "summer": "08:30-19:00(Monday : Close)",
+            "winter": "08:30-17:30(Monday : Close)",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "car parking",
+            "handicap friendly",
+            "child friendly",
+            "accessibility"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/01deb7b5-ca60-4f21-ad5d-8b10723e4af3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/61da4875-9ec1-49e3-8e9b-0f223268dd72.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/431dff0a-9b35-4f8a-a74c-b51b03529a83.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/80469ed9-0cb1-4c5d-afb5-1ad2de83d521.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1ce626d0-f064-4cff-8193-a9a88d467374.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/15df9f7c-df6c-4241-9c3e-17b62638e396.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/3be50de3-817a-4473-a935-bc4840d7e610.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a9f3f480-51c5-4aae-b586-2055c211b95c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/27212129-dd68-41e9-9e20-3e8cc7282cff.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6f3f615f-7583-42ad-8ecd-93ad42d2932c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/afb0a54a-fe6b-4de6-876e-f8faa61a9ba0.jpg"
+        ],
+        "coordinates": "38.228057,27.989104",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€3",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "families"
+        ],
+        "located_in": "Odemis",
+        "mention": "izmir odemis museum",
+        "properties": [
+            "culture",
+            "history",
+            "artifact"
+        ]
+    },
+    {
+        "file": "museum_22.html",
+        "rating": "4",
+        "description": "izmir art and sculpture museum and gallery was founded as a gallery in kulturpark, on september 9, 1952, then moved to its new place in boulevard of ataturk. the opening of gallery, as one of first services for izmir in the field of plastic arts, provided artists opportunity of exhibiting their works and also gave a new breath to the art life of the city with the state exhibitions held in every year and art courses organized for amateurs. izmir art and sculpture gallery transformed into a museum with the efforts of artist and director turgut pura, in 1973. museum collection includesworks of outstanding artists from different periods besides works of great artists such as seker ahmet pasa, hoca ali riza, hikmet onat, ibrahim calli.",
+        "museum_id": "22306",
+        "address": "n/a",
+        "email": "n/a",
+        "phone": "n/a",
+        "opening_hours": {
+            "summer": "N/A",
+            "winter": "N/A",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c9ca856e-65f0-41be-a4d8-7bd7368c2f24.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4b3050bc-f908-4553-9c6c-10014324c795.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5faf79cb-fc3b-4111-a1de-86909c17f149.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/57a4a7ae-8cab-49bb-9261-bfbaa7be10ab.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a3fe4c3e-8d71-4cb2-badc-604400fee261.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/116b6440-f6f4-4740-ab07-d65fb5093d66.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1acbe5da-ab10-4911-805e-a37613707489.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/17d3bd6f-abef-4545-a1f5-1bc6a035cf48.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7bccdebc-1881-482e-9bc1-1cefdd9461e2.jpg"
+        ],
+        "coordinates": "38.41544594608846,27.125657006116352",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "art lovers",
+            "students"
+        ],
+        "located_in": "Konak",
+        "mention": "izmir art and sculpture museum",
+        "properties": [
+            "art",
+            "culture"
+        ]
+    },
+    {
+        "file": "museum_23.html",
+        "rating": "3.6",
+        "description": "the museum is located on the old part of the izmir-aydin railway line, the oldest railway line in turkiye, near the camlik neighborhood. the museum is very close to the famous ancient city of ephesus. while the railway line from izmir to aydin was reorganized, part of the railway and camlik railway station were closed for use. the closed station area was used for the museum. the preparation of the museum started in 1991 and was completed in 1997. the original railway line, built in 1866, was used for the museum. the land, buildings, and locomotive collections are fully owned by tcdd 8 the state railways of the republic of turkiye), but atilla misirlioglu has been managing the museum for 99 years. misirlioglu is the son of a signal officer who used to work at camlik railway station.",
+        "museum_id": "12331",
+        "address": "merkez, camlik, 35920 selcuk/izmir, turkiye",
+        "email": "",
+        "phone": "+90 (232) 894-8118",
+        "opening_hours": {
+            "summer": "08:30-17:30",
+            "winter": "08:00-18:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "car parking",
+            "restaurant",
+            "accessibility",
+            "mosque",
+            "child friendly",
+            "wi-fi",
+            "handicap friendly"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/fd4d9193-e830-4b02-91a8-8ba46c76fda6.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e84d4e9f-a655-45ed-bcd6-a09455f7f493.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/de5fc590-7bac-4dbc-95c5-8a02d2e7672b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f18344c3-378f-4ad8-987d-24719bd65c2c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b00da394-d239-4742-9704-24ef5b10dc0d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6861fb3e-1eee-475f-9f73-783b968e1ed8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4bebbb6b-2d6d-4740-ba3e-4a267cc97d71.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/750b7b79-a432-4cec-8c36-5e1dba67b974.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d6ac409d-9ac9-4ea4-a44b-e02dccc12819.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/af5de800-2449-4480-b026-d89fa3188025.jpg"
+        ],
+        "coordinates": "37.885540757952654,27.380765611960015",
+        "local_price": null,
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "transportation enthusiasts",
+            "families"
+        ],
+        "located_in": "Selcuk",
+        "mention": "izmir camlik selcuk railway museum",
+        "properties": [
+            "transport",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_24.html",
+        "rating": "4.4",
+        "description": "ayasoluk hill was called apasas during the period of the kingdom of arzawa-mira and it was named ephesus later on. it was a metropolis until it was conquered by king croesus of lydia (560 bc). the basilica of st. jean replaced the old episcopal church in ephesus after the city was moved to ayasoluk after the 7th century ad. it maintained its position as an important city and a pilgrimage site during the byzantine period, and then it was conquered by turks in 1304. the city, which was then named as ayasoluk, became the capital of aydinids beylik for a while after 1350. it was one of the port cities of western anatolia during the early ottoman period. basilica of st. jean the basilica of st. jean in the southern part of the ayasoluk hill was first built as a simple monumental tomb in the name of st. jean, the young apostle of jesus and a bible author, and then a basilica with a wooden roof was built on it in the 5th century ad. a new basilica with a cross plan, three naves and six domes was built by emperor justinian (r. 527-565 ad) and his wife theodora instead of the old basilica which was completely destroyed by earthquakes in the early 6th century ad. ayasuluk / selcuk castle the inner fortification walls were built on the highest point of ayasoluk hill date back to seljuk and ottoman periods. the inner castle has two entrances, one in the west and the other in the east. inside the castle, there are five cisterns near the gates and a single-domed mosque (mosque of the castle), the minaret of which have remained partially intact. furthermore, the castle includes the bey mansion, a turkish bath and another cistern in the west from the turkish period.",
+        "museum_id": "2099",
+        "address": "isabey mahallesi, st.jean sokak no:4 selcuk,izmir",
+        "email": "efesmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 892-6010",
+        "opening_hours": {
+            "summer": "08:00-19:00",
+            "winter": "08:00-18:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "shop",
+            "restroom",
+            "cafe"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4601c9d7-cc55-438f-a112-fb6ce92bbdc9.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/26699f79-0019-49ea-888c-3192de0a05f5.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/42cd7840-3cec-43c5-a3aa-0353e3f75cc7.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7a2dacfd-1f46-4a0c-bb92-645a99867d87.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/bd19f5db-6cac-4345-8621-864442ace637.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/052375d8-9b1d-442a-8da2-7dd814d116cb.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b4fffdae-d4ef-42d0-b7db-a6d0e26bd895.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b79921e3-cb1c-49ec-af6e-3e907f56c688.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/70bcecf4-450f-4e43-b4dc-6a4dca7f4806.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9e2304fc-246b-4b61-a041-6207493af196.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/569166bc-bc6f-488e-b83e-a547150e9f6f.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1329d6d1-9870-4821-868f-7d316782a34c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/048b1c8f-4f98-4b9e-b035-6ca0c5e6fc96.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c938ee99-cb0e-4aac-9c52-fc06e3121af0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7a7d459c-aa7c-4c6c-9dd2-63c6a72cd18a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/dae8f289-5867-4525-a806-3e1284c613a8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/bc8cadc2-aed3-4fcf-ba19-ea324cc53e22.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/72239dda-cc65-4bfe-a175-8ea23b40a817.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/709251ca-b662-4bfa-9df5-36de354a87b4.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/43982515-7217-4b12-9f34-f0a3242e1e48.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/3c0f3aa5-df89-4dfd-87e7-9bc0d3d4a739.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/214100af-ce4d-4d3d-a3c0-aef94a1f5f39.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c29c7b95-cfe2-4423-8171-9a1d7a6d8f94.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/545c2206-ef58-4f6e-bbd2-3227670da8b1.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/3986d1de-d611-4b93-b3d5-9c1c5f6526b8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e2529118-5407-4d7a-a2e0-0f5904a6fec5.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d59985bd-7b0d-402e-ae6c-e682210170ff.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e4e9742f-9ae0-4d5d-b5c2-4bac693100a6.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/208bf141-2cfc-4c0d-968d-d78a2f91caf0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/544c4ed2-d8ea-4b54-aae7-492a064b9b28.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/fc69abff-7c5a-4939-80dd-56c143e76b47.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b9fd3fc2-564d-4fa2-880d-3fde36491ceb.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/bbd61b14-2e41-42d6-9c27-96b3878a3e72.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/febe3c1f-11ac-43ae-ba9d-9f79092465d4.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/67ec844c-6def-47d4-8d2b-5f9fe54799ec.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/bcb84d10-2f2c-4b2c-9d56-fe4bdf55741e.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8a788d05-054e-4fdb-a69f-1b8a4653a2d5.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b05f170c-8800-4733-b0d0-e895e7bb355d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/57840228-45f6-4a3b-b0fe-514b39e5d497.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/59ac2dec-4dbd-4ceb-8f79-88373b8dca98.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ae9718ba-7d4b-4b3c-8d19-307689558f18.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c425dd85-2b95-4a59-ae5c-88c9741811dd.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1fbff518-5a44-4df9-bacb-a1ffb82d27e9.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5547366e-02b0-42a2-b21d-4c13dc61ffbb.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/baebe731-c665-444e-b636-2a12fba6f924.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1e0813c2-1ce2-4b79-8058-c817bd4bab16.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f08a3625-0d19-447a-9dd6-f494ecef8440.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/3cad83a8-c125-470a-8929-f65156b83313.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/8b727d29-db47-4a3e-840e-1d3757dcd8f4.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4ad4b7bc-31d5-4d0e-b138-34565d7037db.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/2aa8a22c-cbb6-4eb5-b2e8-b90331cd8a00.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/25398ce6-d31c-466c-82f4-03182f70eae8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7594a962-f9e4-48c6-93fe-f88357383cbd.jpg"
+        ],
+        "coordinates": "37.95292,27.36697",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€6",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "architecture lovers"
+        ],
+        "located_in": "Selcuk",
+        "mention": "izmir st. jean monument",
+        "properties": [
+            "history"
+        ]
+    },
+    {
+        "file": "museum_25.html",
+        "rating": "3.9",
+        "description": "teos, which is located in the sigacik neighborhood of izmir's seferihisar district, is approximately 50km from the southwest of izmir. according to tradition, first immigrants from boeotia and then from athens came to the city where the indigenous had been consisted of carians. teos grew rapidly thanks to the sea trade and soon became in a position to send a large part of its people to phokaia and ephesos. it gained great commercial importance because of its geographical location. in the city, which has been inhabited since the protogeometric period (11th century bc), the dionysus temple, the work of hermogenes who was the most important architect of the hellenistic period, the ancient harbor, the archaic temple (hekatompedon), the ancient theater at the foot of the archaic period acropolis, and the agora in the southeast of the theatre, agora temple, bouleuterion, cistern and ancient roads constitute some of the important public structures. teos remained as a city of art for many years, opened its doors to important philosophers and artists of antiquity, played an important role in the enrichment of the city by overseas trade, and became a city that herodotus referred to as \"the most moderate place in the world\". entrance fee: 3 euro",
+        "museum_id": "2100",
+        "address": "teos caddesi, no:59, sigacik, seferihisar/izmir",
+        "email": "izmirmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 489-0796",
+        "opening_hours": {
+            "summer": "08:30-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "shop",
+            "restroom",
+            "car parking"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/cd96c17f-8a0e-421d-91ad-6c985bdcea7f.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b368e5ca-258f-4f52-8a2f-faf4d7517b08.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/144af4cb-3cfa-4070-8be4-c2444bb542f8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/da2eb2d9-e30c-4afc-a062-b2e9e029ad64.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1bb81fe4-3cc9-4cc7-a128-7884c7d7f880.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c091813e-5b92-4d46-aa90-ca7e4dbdd662.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/fd7e89c4-ef6f-49a1-bbac-18d21fe46bdc.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4ece5c1f-6383-4cfb-a005-34b1315eb13a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c1519bb5-6ff8-4e17-8285-bc519746070d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e43c5aa1-1d7a-47bb-a333-9937f82cd97c.jpg"
+        ],
+        "coordinates": "38.180062,26.783170",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€3",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Seferihisar",
+        "mention": "izmir teos archaeological site",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_26.html",
+        "rating": "4",
+        "description": "",
+        "museum_id": "12332",
+        "address": "yeni mah. ataturk cd. no: 2, 35900 tire/izmir",
+        "email": "tirekentmuzesi@tire.bel.tr",
+        "phone": "+90 (232) 500-1880",
+        "opening_hours": {
+            "summer": "",
+            "winter": "",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/62d7ba9d-fb9e-424e-808e-5239b22a06fc.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/124c5b51-cd69-4c79-94bf-82e81527bf7a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/61c6c581-3312-49da-9b99-fa90121ad1a5.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/bcd2a786-2a4c-444a-b5c5-515c3927cd55.jpg"
+        ],
+        "coordinates": "38.08837260266484,27.732292858603902",
+        "local_price": null,
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "families"
+        ],
+        "located_in": "Tire",
+        "mention": "izmir tire municipality city museum",
+        "properties": [
+            "culture",
+            "history",
+            "artifact"
+        ]
+    },
+    {
+        "file": "museum_27.html",
+        "rating": "4",
+        "description": "tire museum is an archaeological and ethnographic museum. it was established by the tire public house museum branch in 1935 within the yahsi bey lodge built by halil yahsi bey, one of the commanders of murat. the museum was registered by the general directorate of antiquities and museums of the ministry of national education in 1946 and opened as a state museum. from 1946 to 1971, yahsi bey mosque served as a museum. it was put into service in its current building in 1971. movable cultural assets are exhibited in the museum in two halls. in the archeology hall: sculptures, grave steles, marble table legs, marble and terracotta sarcophagi, glass works, bronze works, and terracotta figurines belonging to 3500 bc and 1100 b.c are exhibited. in the ethnography hall: writing sets, men's and women's clothes from the ottoman period, hand-embroidered bed covers, napkins, ceramics of european origin used in the ottoman period, canakkale ceramics, paintings, and carpets are exhibited. apart from these halls, there are open exhibition areas in the front and back gardens of the museum. in the front garden, column capitals made of marble, sarcophagus fragments, and terracotta cubes dating from the roman-byzantine-greek and hellenistic eras are exhibited. in the back garden, the tombstones belonging to the islamic periods are exhibited in chronological order. tire museum was closed to visitors on 26/06/2020.",
+        "museum_id": "2089",
+        "address": "n/a",
+        "email": "n/a",
+        "phone": "n/a",
+        "opening_hours": {
+            "summer": "N/A",
+            "winter": "N/A",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/09f32795-e3cc-4e36-bfb5-c4ddedbd7866.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/eff20ec4-0990-4f74-96b5-34857d7596d8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/48884875-9954-4a47-a9f8-214a751fb6ff.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/abbe448c-3738-4551-8d24-185d7e7bb817.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/373852fe-f40a-4f07-88a9-90c46ceb6e24.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/65a961ae-b582-4018-ad31-fc85f5f4222e.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f67c8473-bfd7-40f3-b511-5216be6fd52d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/dd1ccd70-57a3-4fed-bb7c-602912784d24.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f8148b31-c8f1-4454-8096-b018c80fbc77.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5243df0d-65ba-45b5-b76c-78cf0d7417c8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9612861a-4f00-4667-9a09-174ce45b5efe.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/74b7ed37-4934-472a-90dd-9d5fb79c0ad8.jpg"
+        ],
+        "coordinates": "38.08509,27.73013",
+        "local_price": "free",
+        "foreigner_price": "free",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "archaeology enthusiasts"
+        ],
+        "located_in": "Tire",
+        "mention": "izmir tire museum",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_3.html",
+        "rating": "4",
+        "description": "",
+        "museum_id": "12330",
+        "address": "",
+        "email": "",
+        "phone": "",
+        "opening_hours": {
+            "summer": "10:09-10:09",
+            "winter": "10:09-10:09",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/f1a8f296-79cc-4d3e-943f-2719746ce508.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/448cbe43-b41c-40ec-8fd4-817465891cf0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/71e4d890-bb28-40d3-8375-fcce5b4c75a1.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/62fec8f9-92f8-44c2-bff8-656b22ca5992.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0068ecc0-8cd3-4f66-aa31-991d20a75cbc.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4b6cd77b-7fc0-460e-afa2-c13a8a8f3598.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/912a5d02-0afd-4b51-bcb1-3b0684b20334.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/daa5d2ed-14d2-4bc9-804d-78deefe17da3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/15b8f5d7-a41d-4881-b494-83a66d32739e.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6a9bc115-36ae-4ac6-9e36-edcde57c9143.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b6962fdb-1e92-4ae8-8a96-796ac8e5de05.jpg"
+        ],
+        "coordinates": "38.42493511071399,27.13813987053457",
+        "local_price": null,
+        "foreigner_price": null,
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "researchers"
+        ],
+        "located_in": "Konak",
+        "mention": "ahmet piristina izmir city archive and museum",
+        "properties": [
+            "culture",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_4.html",
+        "rating": "4.4",
+        "description": "the first archaeological museum was founded in 1924, at basmane kapilar district. later, in 1927 it was opened to visitors at ayavukla (gozlu) church. with the increasing number of artefacts, in 1951 the second archaeological museum was built in kulturpark. the dense number of artefacts coming from the ancient cities around izmir caused the need of a new museum building and the building spanning on 5000m2 of land and used today was opened to visitors on february 11, 1984 in konak, within the bahribaba park. while on the basement of the three-storeyed museum are the depots where all the historical artefacts are preserved in different categories, restoration laboratories, a library, an archive room, there are administrative divisions on the first floor. the stone works hall is on the middle floor that is also the entrance floor of the museum. on this part there are marble and stone sculptural artworks and big statues, busts, portraits and masks are exhibited. the plastic pieces on display belong only to the hellenistic (330 – 30 bc) and roman (30 bc – 395 ad) periods. “the marble statue of androklos” which is among the most eye catching pieces of the izmir archaeological museum and dated to the roman period is considered as belonging to androklos, founder of ephesus. on the upper floor, there is ord. prof. ekrem akurgal ceramic works hall designed choronologically. in this hall, many artworks from prehistoric times to byzantine period that were unearthed in various excavations are exhibited. “the statue of bronze running athlete” and “the bronze statue of demeter” coming out from shipwrecks in the aegean sea are some of the most remarkable artworks in the museum. in the treasure room which is on the same floor with the bronze statues, it is possible to see coins from archaic, classical, hellenistic, roman, byzantine and islamic periods and ornamental items belonging to the hellenistic, roman and byzantine periods, made of gold, silver and precious stones and glass works. in the museum garden, sculptures, sarcophagi, steles, inscriptions and architectural pieces obtained from various excavations are exhibited. entrance fee: 4 euro",
+        "museum_id": "2080",
+        "address": "halil rifat pasa caddesi no:4 konak/izmir",
+        "email": "izmirmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 483-7254",
+        "opening_hours": {
+            "summer": "08:30-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "car parking"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/74410eb5-8aa7-4d82-97d8-8900395c332c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d0cc1551-32b9-4315-be92-7d44a54f23ea.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4744ba10-f555-44e1-9f91-180d6b8473a2.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/2abf31ad-0137-443b-a4f9-eb54ee2073d0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/2393b5de-945d-433d-b0fc-4d12e9c49918.jpg"
+        ],
+        "coordinates": "38.414032,27.127935",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€4",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Konak",
+        "mention": "izmir archaeology museum",
+        "properties": [
+            "collection",
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_5.html",
+        "rating": "4.7",
+        "description": "built between 1875 – 1880 in neo – classical style composed of a mixture of ottoman and levantine architecture, ataturk museum is on the first kordon (ataturk street). it was built as a house by its first owner takfor efendi, a carpet merchant; after september 9, 1922, turkish army used the building as a headquarters; in 1923 when izmir economy congress assembled, ataturk carried out his private studies here. at the end of the congress, the headcourters were removed from this building, and it was leased to naim bey to be used as a hotel. on october 13, 1926, the building was bought by izmir municipality and given as a gift to ataturk by placing new household goods. ataturk used this house when he came to izmir between 1930 – 1934. on september 25, 1940, izmir municipality expropriated the building to turn it into a museum. the museum was opened to the public with a ceremony on september 11, 1941, which coincided with the 19th anniversary of ataturk's arrival in izmir. after october 5, 1962, the museum was named \"ataturk provincial public library and izmir city ataturk museum\". on december 28, 1972, the ownership of the building was given to the izmir archeology museum with the letter number 12088 of the prime ministry undersecretariat of culture. after being restored and refurbished, it was opened to visitors as \"ataturk and ethnography museum\" with a ceremony on october 29, 1978. after the ethnographic artifacts in the museum were moved to the new ethnography museum, which was opened on may 13, 1988, the name of the museum became \"ataturk museum\". on the first floor, there are rooms for ataturk’s private use. these are meeting room, study room, bedroom, guest room, barber's room, guard's room, waiting and reception room, library, dining room and the bathroom. in the meeting room, there is a roulette table with green broadcloth and are 12 cosmos brand chairs around it. some scenes from shakespeare's works were animated on the tile plates on the backs of 10 small mahogany chairs placed against the walls of the hall.",
+        "museum_id": "2081",
+        "address": "alsancak mahallesi, cumhuriyet bulvari, no:248 konak/izmir",
+        "email": "izmirmuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 489-0796",
+        "opening_hours": {
+            "summer": "08:30-19:00",
+            "winter": "08:30-17:30",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/069b7109-7743-4912-b96f-7bc04b960605.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e2a558e3-693b-4388-983a-b13437618fa5.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5ccde8b7-bfd8-411f-aa11-44a96e627c9b.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9b431a22-0ae5-4eab-ad1e-4b881667ea9a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d979c056-f24a-4603-823b-f4180e12b881.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/200217bc-b1e9-491e-8d70-89afd55d2275.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/dc2ca70a-cb11-424f-a391-9577794db121.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ae5aef74-e684-4670-9d5e-8a635af4381a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b2c6247c-0f2b-454d-ba36-64f4b1b8d5f9.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4d160caa-b84d-44ae-9b0f-28e3d584a81b.jpg"
+        ],
+        "coordinates": "38.435656,27.140586",
+        "local_price": "free",
+        "foreigner_price": "free",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "students"
+        ],
+        "located_in": "Konak",
+        "mention": "izmir ataturk museum",
+        "properties": [
+            "culture",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_6.html",
+        "rating": "4.2",
+        "description": "pergamum is a district that located in western anatolia, at north of izmir. this important cultural center with its rich history hosts archaeological ruins and artifacts that have been protected until today. bergama, anciently pergamum is established on a hill. archaeological data achieved from this hill (pergamum acropolis) indicates that history of this city goes back to vii – vi centuries b.c. however, researches performed on kaikos valley where ancient city is located, indicates that this region was inhabited since earlier (prehistoric) ages. pergamum name means a citadel and the suffix “amon” indicates that it comes from luwi language or western anatolian languages. the first information about pergamum was given in the book of anabasis which means “return of thousands” was written in 399 bc. but continuous information about historic process of city begins with the conquest of anatolia by alexander in 334 bce. including that of pergamum in mysia passed to the administration of king of thrace, lysimachus who was one of the generals of alexander. lysimachus appointed philetarus as an officer who was responsible from the state treasury to protect 9.000 talent (approximately 2.7 million solid gold) here. philetarus who stored that money in the acropolis later found the city of pergamum with that treasure upon the death of his boss, lysimachus in 282 bc. kingdom of pergamum by dominating the political, economic, social, cultural and scientific fields during the hellenistic period for 150 years with playing an important role lived his golden age. the period of kingdom starting with philetarus (281-263 bc) as attalids continued by his successors (i.eumenes (263-241 bc), i.attalus (241-197 bc), ii.eumenes (bc 197-159), ii.attalus (159-138 bc) and iii.attalus (138-133 bc). upon death of last king of pergamum attalus iii, pergamum passed to roman empire through inheritance and still survives as an important state of asia minor. roman era was a bright period again for pergamum. increasing population, the architecture comprehension expanding into plain of bakircay, the social structures that served the entertainment industry, with new solutions in architecture as a province of the roman world remained important. separation of roman empire (ad 395) caused beginning of byzantine age for pergamum. during this period, the tradition of religious architecture function manifested in the development and spread of christianity becomes one of the important centers of anatolia. the ancient city of pergamum during roman period covers a large area beginning from the acropolis to the west of the bakircay plain. expanding within the city limits of the roman temple (basilica) and the amphitheater of the sanctuary of asklepeion, theatres and stadiums. however, these theatres and stadiums are still earthed and unexcavated today. the sanctuary of asklepeion, in the same years of the city established, located outside the borders of city as a treatment center. the city's historical process of the arab invasions in the year 716, in the year 1345 under the sovereignty of the turkish period continues with menteseogullari reaches up to the present. during turkish age, city was expanded from outskirts of acropolis towards plain parts of bakircay valley. mosques, masjids, shops, bazaar, bridges, inns and baths, fountains, streets and residential architecture with the concept of the turkish culture and turkish concept are many works that reflect the architectural tradition. basilica planned scheme of ulu mosque (1398-1399), seljuk minaret (14th-15th centuries) 's glazed and unglazed brick ornaments, tabaklar bath (14th-15th centuries)'s dome switch used with embellishments on the wall surfaces stenciled decorations of art history are very important.. also, republic period structures that are dated 20th century represent a different face of the city architecture with their neo classic styles. old pergamum high school, old headquarters building and old executive office building are the a few good samples to the remarkable structures from those days. acropolis in the pergamum acropolis settlement planning land was shaped according to the geographical structure. from the top of the hill, with terracing method extended to the south and west. the palaces, great temples, social and cultural structures built with the laid grid system showing development in urban architecture at two sections as upper and lower city in two sections exposes an successful urban planning example. in the public area that is named as upper city and being the residence place of kings, the royal palaces, arsenals and large temples were constructed. in the lower city, temple of demeter, hera temple, gymnasium and lower agora in a leaner approach to public order in the evolving architecture is remarkable. in the upper city, the temple of trajan for roman emperors hadrian and trajan (2nd century a.d.), the big problem of placement and handling in steep terrain were carried out with great skill with supporting vaults from beneath. the lower terrace of the temple south placed immediately famous pergamum library with its rich collection of 200. 000-volumes of scrolls from the hellenistic period. in the library which connected with the temple of athena in architecture technique; much richer collection of works was created with discovery of the scrolls by pergamum as a new writing tool. athena temple (4th century b.c.) is the earliest temple of pergamum and devoted to protector of the city athena. with the availability of orientation separated from other temples, monumental entrance and votive statues in the temenos area in the parapet of the gallery with the spoils of war weapons reliefs of the galatians is extremely remarkable. on the west side of acropolis; pergamum theatre is located which was constructed in the hellenistic age with 10.000 people capacity but unstable wooden stage building. in the north of the theatre, another temple is located dedicated to the god of wine dionysus has the cohesion with theatre architecture and as the meaning of theatre being. in the south west of the theatre, at lower code, the most famous work of school at pergamum sculpture, pergamum altar of zeus was built after an ultimate successful result and certain victory of attalus i against galatians the barbarians, and also dedicated goddess athena and god zeus. in the reliefs on the friezes, the war, pergamenes were depicted as the gods from olympus but the enemies, galatians as giants in a indirect narrative expression. a sentimental (pathetic) expression of the reliefs was an important contribution to antique styled sculptures of pergamum.",
+        "museum_id": "2093",
+        "address": "ulu cami mahallesi bergama/izmir",
+        "email": "bergamamuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 631-2884",
+        "opening_hours": {
+            "summer": "08:00-18:30",
+            "winter": "08:30-17:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "cafe",
+            "shop",
+            "handicap friendly",
+            "car parking"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/fa8610d2-91a6-4210-8609-f462d7a6ffc3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/65e91277-a355-4666-b018-56c5832fdbaa.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/765ff87d-86de-4da6-9404-f9a56cd8cb5a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6b803970-44b7-4d99-8a99-17f57470fc0e.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6d3cd8c7-1338-49a2-9a47-da2d3c5f6887.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9a053ebe-379d-40ca-a83a-213917b28113.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e7986038-d4ba-45a1-8a0a-da790be41fd8.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/b86871fc-ea6d-4571-ad18-e90f66127295.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0c308392-adf1-4830-9fb1-73c5a61ccac4.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d90e7df5-d282-417b-ab0e-9e3cd768688d.jpg"
+        ],
+        "coordinates": "39.13129698105478,27.185357126837214",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€15",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Bergama",
+        "mention": "izmir bergama pergamon acropolis",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_7.html",
+        "rating": "4.4",
+        "description": "there was a treatment center at the outside of pergamum acropolis which was established on 4th century bc on the name of health god asclepius. advanced architectural layout, treatment methods had a reputation as being the most important healing center in western anatolia. surviving ruins of asklepion belongs to arrangements of 2nd century under the reign of hadrian. asklepion indicates that distinction of being the sanctuary since early years. however, its development starts from the 4th century bc. entry to the sanctuary called the via tecta was provided with a sacred way which was 1 km long, covered, and the last part of the road was colonnaded. monumental entrance at the end of the road (propylene), the right of the library entrance hall, on the left side of the entrance, a temple which dedicated zeus asclepius is located. a courtyard of ceremony is located after monumental entrance. the courtyard on the north, south and west directions are surrounded with colonnaded galleries. 3,500-seat theatre adjacent to the northwest corner, the gallery expanded westward in the west gallery, a banquet hall on the south and in the southern corner, the latrines (toilet) exist. sub-circular structure on the southeast corner of the courtyard, called the treatment building is located. holy water sources at the west side of large courtyard, a temple of early period and foundation remains of incubation rooms are located. we learn about methods of treatment at the health center, asklepion from famous spokesman of antiquity aelius aristides. aristides had a cure in asklepion and explained the treatment methods in his book “hieroi logoi\". diseases have been tried to be treated with various methods such as putting patients to sleep in sleep rooms, sound of water, mud cure, healing water, cupping, hunger and satiety cures, therapy and music concerts. pergamon, one of the most important health cities of the ancient world, is also the hometown of physician galenos, known as the father of pharmacy. galenos undertook the care of gladiators and roman kings here and made important determinations in the field of pharmacology. the sanctuary of asklepion, during the roman period, having a developed a complex scheme of architecture and design, both treatment methods against diseases, here serving physicians, galen of pergamum through other famous physicians who developed the curative and healing methods in terms of epidaurus and costa contemporaries with other treatment centers.",
+        "museum_id": "2091",
+        "address": "zafer mahallesi, bergama/izmir",
+        "email": "bergamamuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 631-2884",
+        "opening_hours": {
+            "summer": "08:00-18:30",
+            "winter": "08:30-17:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "cafe",
+            "restroom",
+            "car parking",
+            "handicap friendly",
+            "shop"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/83b7f27d-f8c9-4729-abcd-3221221a0d55.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/3f68898c-1980-41a9-9a6f-de224acac1ab.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/73bc38bb-bad5-4d9d-b626-3ee82a02f2d3.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/7efb4848-23f6-4e99-8378-7751898979fe.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5504c9a7-da8e-47aa-86e7-93384b05f521.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5aabf1f0-04e3-4618-8460-f40855181308.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/4abfb63e-3a46-4d6b-91b3-e007f847d976.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/3a6464b8-49dd-4836-90fe-5b7dce3888ae.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d22bbd8e-9a45-4276-8e4c-7e35f26d8da0.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/164d2321-c9c3-4033-b5d9-7302eb02d74b.jpg"
+        ],
+        "coordinates": "39.118772,27.16411",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€13",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Bergama",
+        "mention": "izmir bergama the archaeological site of asklepion",
+        "properties": [
+            "archaeology",
+            "history"
+        ]
+    },
+    {
+        "file": "museum_8.html",
+        "rating": "4.5",
+        "description": "in ancient roman city, to the westward of bakircay plain, the limits of the city quite expanded by spreading towards flat area. rapid population growth (average 150,000) is the major cause of this expansion. in the part extending towards bakircay plain, the temple which commissioned by emperor hadrian in 2nd century ad, ad by emperor hadrian in plain sections extending to 2nd century temple with its monumental wall height and a very large front yard are remarkable. causing the bricks used in the construction of the public is also called red basilica by the locals. temple must have been built as an indicator of interest in egyptian culture and egyptian gods, serapis, isis and harpocrates (horus). the grouping of the worshiped gods of the temple, in terms of architecture tripartite arrangement (the main temples and towers) and were expressed. the temple was built diagonally located over selinus stream to coincide in the front yard of it. monumental entrance (propylene) and just behind a large bronze coated entrance door existed. in the behind of the main space of the \"cellar\", there are two high pedestals and platforms located colossal cult statue. there were symmetrically located towers on either side of the main temple and the courtyards with galleries and two pieces of pools for purification and worshiping cult. the interior of the main temple was arranged with an array of two rows of columns and three sections (nave) in 5th century ad and also adding an apse to the front side of the structure had been worked up into the one of the first of the seven pre-churches of anatolia.",
+        "museum_id": "2095",
+        "address": "islamsaray mahallesi bergama yolu 1. km bergama/izmir",
+        "email": "bergamamuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 631-2884",
+        "opening_hours": {
+            "summer": "08:00-18:30",
+            "winter": "08:30-17:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "car parking",
+            "restroom"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/c24e44da-ec2c-49d4-b59e-242e886a313c.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/28a5c5ff-4c98-4053-beef-3e3d80ef48f9.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a6f5a210-c2c1-4ab2-9343-d503e8b7ce00.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a8521870-7101-4764-9809-b10cd7ec337a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ff396d20-42f9-4c04-b921-8b8326a11093.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/d4cb1b97-1adb-4104-b33b-03bbc75b6577.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/5c9a4dcd-b7e0-4b75-99ef-c7632d1de7ba.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/6666862c-eff8-4edc-997f-950b10dbe509.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/51832731-3cb1-4483-a8a9-cffdf01f4e03.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/340cb1d9-94af-4384-b946-4603396ea43c.jpg"
+        ],
+        "coordinates": "39.121901,27.183337",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€3",
+        "node_type": "Museum",
+        "best_for": [
+            "history enthusiasts",
+            "architecture lovers"
+        ],
+        "located_in": "Bergama",
+        "mention": "izmir bergama red basilica",
+        "properties": [
+            "history"
+        ]
+    },
+    {
+        "file": "museum_9.html",
+        "rating": "4.9",
+        "description": "after high reliefs of zeus altar were found on 1865 within the byzantine wall located at acropolis, official excavations were initiated by carl humann and alexander conze in 1878. at first, unearthed artifacts were being kept in the store at the depot of excavation house. this form has been one of anatolia's first depot museums. storage becomes insufficient during the time. in 1924, the artifacts were transferred to another building temporarily which will be used as public center later. then osman bayatli became the director for that temporary museum. osman bayatli here creates a new collection consisting of ethnographic works at the same time. this new museum building was not enough during the time to the increasing number of artifact and density. new attempts are made on 1932 for new museum needed and new museum building was started to be constructed on 1933. german architects bruno meyer and harold hanson were inspired by the altar of zeus and plan has been projected. the new museum located in the city center opened to visit in 1936. in 1979, the new sections annexed the museum for ethnographic artifacts to exhibit. the museum's general plan diagram is square-shaped and consists of an inner courtyard and also the galleries surrounding the courtyard. from the western gallery to the small hall for archaeological artifacts, from the northern gallery to the ethnography hall are passed. the artifact display is also done outside of the museum building but in the courtyard. the collection of archaeological works in the pergamon museum consists of the findings from the excavation of acropolis, asklepeion, the red hall (serapeion) and musalla cemetery. also uncovered several artifacts from the excavations in the vicinity of bergama and the closer settlements such as; pitane (candarli), myrina (guzelhisar), gryneion (new bullfinch) ancient cities, and also some other archaeological findings from the kestel and yortanli-alliaoni dams ertugrul district, iii. rank archaeological sites exhibit in groups. the works are exhibited according to the chronological and typological grouping. small archaeological finds hall, artifacts associated with yortan culture including pergamon which was an early age inhabitance in bakircay basin are placed. dated back 3 and 2. millennium, three legged or footless spouted jugs, stone axes, three legged vessels 3 legged cups create the artifacts groups. bc 3 and 2 dated to ride a tripod or footless spouted jugs, stone axes, occupies a tripod comes from the work group. 7th-6th century bc, ceramic plates, oinokhoe and crates are another exhibit is another group of display from the very gryneion reflecting orientalizing period of pitane. another artifacts group is ceramics produced in pergamon in hellenistic and roman periods. the traded megara bowls produced in ceramic workshops in kestel (ketios), produced appliqué ceramics, pergamon sigillitas, oinophor and lamps are examples of local production in. terra cottas are also important merchandising group works located in the exhibition. hellenistic period, which is a major manufacturing center, and with the results of the excavations made in myrina equivalent to today's trinket various figurines in the museum. the various figurines equivalent to today's trinket and with the results of the excavations made in myrna which is a major manufacturing center in hellenistic period exist in the museum. rich typological glass works belongs to large historical range from 1st-4th centuries b.c. up to 6th-5th century a.d. also creates another group of works. made of bronze casting or molding techniques with hellenistic heracles, satyr figurines that are important works of our group is in the museum. electrons from the first coins minted in anatolia, bc 2nd century. founded in the pergamon in asia minor which consists of the cities of the association is to suppress cistoph coins as an important group of works that are located in the exhibition. in the same hall, the archaic kuros sculpture, nymph (water nymph, allianoi rescue excavations) with the statue has become a history major belong to the people portraits, acroterion figure of nike statuette, emperor hadrian sculpture (asclepeion), pergamon orator diodoros pasparos the monument to tomb group, women belonging to the roman empire (nun) sculptures are exhibited. medusa also belong to the roman period (mythological creatures with a glance that turn people to stone) mounted on the mosaic floor of the exhibition hall has been placed in the exhibition. school of sculpture at the bergama (pergamon) museum gallery of the works of the various statues, ancient burial traditions of the period, reflecting the persian, hellenistic and roman period figural tombstones, sarcophagi and osthotek are exhibited. honorary inscriptions and votives dating back to hellenistic and roman period are other important artifacts. in addition, the inscription describing the arrangement and administration of the city, are all take important place in exhibition. the original one of this inscription belongs to hellenistic period but copied by romans. in the ethnography section, rich artifact collection that reflects social and traditional life from pergamon and cultural values from its environment exist. nomad, the turkmen, cepni tribes local attires coexist in bergama region, the bride and casual clothing from the region of pergamon, the carpets, rugs, saddle examples from yuntdagi kozak, yagcibedir regions belonging to bergama which is one of the most important anatolia's carpet manufacturing center, personal attire of tuzcu efe one of the well-known veterans during independence war are in the ethnographic groups. however, this article is delivered us as the original copy of the hellenistic and roman period. bergama region also belong to the traditional examples of the art of embroidery, jewelry, articles of daily use takes part in the exhibition. besides interior exhibits in the pergamon museum, there are also many other stone artifacts from roman and byzantine periods at hall and garden. in addition, sarcophagi and tombstones as foot and head stones with the effects of the baroque and rococo constitute belong to the ottoman period in the form of important group of stone works. pergamon museum has an important place on reflecting historical identity of the region, in the formation of cultural awareness of the community and promotion and also transmitting of its hosted universal heritage to the future generations continues its studies in this direction.",
+        "museum_id": "2082",
+        "address": "zafer mahallesi, cumhuriyet caddesi no:10 bergama/izmir",
+        "email": "bergamamuzesi@ktb.gov.tr",
+        "phone": "+90 (232) 631-2884",
+        "opening_hours": {
+            "summer": "08:00-18:30",
+            "winter": "08:30-17:00",
+            "box_office_closing": "N/A"
+        },
+        "facilities": [
+            "restroom",
+            "handicap friendly",
+            "accessibility",
+            "shop"
+        ],
+        "images": [
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/ced1fffb-4ad1-4d9f-a024-4ac934ed0d10.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/0c7c46e6-2cdc-4b46-9bdf-9cf88d2406e1.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/97178d4a-073a-46a7-b97e-88649ffb72e7.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a269d2a1-c9bc-4d0a-8dbd-50b5f29dbf69.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/9800e8d8-42da-4194-bd4a-7bd261004e0a.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a5300cd7-5149-4bbf-a44e-4f360c6f7bab.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/70a84912-82cd-4fc8-a200-43d1c4a12c54.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/e256a7f0-10a5-4994-a73a-e1f48970354d.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/a3f3b1b7-0f2f-45d1-b57f-5bd576f5d763.jpg",
+            "https://www.turkishmuseums.com/uploads/muze/foto/fotograflar/1e8439bd-6652-4df9-b32c-88151c2674ec.jpg"
+        ],
+        "coordinates": "39.116674,27.175751",
+        "local_price": "accessible with müzekart",
+        "foreigner_price": "€3",
+        "node_type": "Museum",
+        "best_for": [
+            "archaeology enthusiasts",
+            "history lovers"
+        ],
+        "located_in": "Bergama",
+        "mention": "izmir bergama museum",
+        "properties": [
+            "collection",
+            "archaeology",
+            "history"
+        ]
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "mention": "izmir",
+        "node_type": "City",
+        "what_to_do": [
+            "dine",
+            "explore",
+            "explore local cuisine",
+            "relax",
+            "shop",
+            "sunbathing",
+            "swimming",
+            "visit nearby attractions",
+            "water sports"
+        ],
+        "best_for": [
+            "adventure seekers",
+            "beachgoers",
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "aegean coastline",
+            "gateway to the aegean",
+            "historical intrigue",
+            "local cuisine",
+            "major city",
+            "rich cultural experiences",
+            "vibrant social scene",
+            "vibrant social scenes"
+        ],
+        "tags": [
+            "aegean",
+            "beach",
+            "city",
+            "cuisine",
+            "cultural",
+            "culture",
+            "history",
+            "water sports"
+        ],
+        "description": "izmir is a vibrant city in western turkey, serving as a cultural hub and a gateway to the beautiful aegean coastline. izmir is a vibrant aegean coastal city known for its beautiful beaches, rich local cuisine, and lively atmosphere, making it a perfect destination for relaxation and adventure. izmir is a vibrant city known for its rich cultural heritage and beautiful coastline, making it a perfect base for beach lovers and cultural explorers alike.",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ]
+    },
+    {
+        "mention": "cesme",
+        "node_type": "Town",
+        "what_to_do": [
+            "enjoy nightlife",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nightlife enthusiasts",
+            "water sports lovers"
+        ],
+        "special_features": [
+            "beach clubs",
+            "nightlife",
+            "stunning natural beauty"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "nightlife",
+            "town"
+        ],
+        "description": "cesme is a popular coastal town famous for its beautiful beaches and lively atmosphere, offering a mix of relaxation and vibrant nightlife.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.3228017,
+            26.3027607
+        ]
+    },
+    {
+        "mention": "alacati",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore",
+            "explore traditional architecture",
+            "stay in boutique hotels",
+            "wind surf"
+        ],
+        "best_for": [
+            "adventure seekers",
+            "cultural tourists",
+            "families",
+            "sporty travellers",
+            "water sports enthusiasts"
+        ],
+        "special_features": [
+            "architecture",
+            "charming cobblestone streets",
+            "shallow waters",
+            "steady winds",
+            "wind surfing"
+        ],
+        "tags": [
+            "adventure",
+            "architecture",
+            "boutique",
+            "town",
+            "water sports"
+        ],
+        "description": "alacati is renowned for its charming traditional architecture and is a hotspot for windsurfing, making it a delightful destination for both relaxation and adventure. alacati is a charming town known for its steady winds and shallow waters, making it a prime destination for windsurfing and kitesurfing enthusiasts.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ]
+    },
+    {
+        "mention": "seferihisar",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore",
+            "relax"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "eco-conscious travelers",
+            "nature lovers",
+            "quiet retreats"
+        ],
+        "special_features": [
+            "cittaslow",
+            "cittaslow certification",
+            "focus on natural environment and cultural heritage",
+            "slow city experience"
+        ],
+        "tags": [
+            "cultural heritage",
+            "culture",
+            "eco-friendly",
+            "slow city",
+            "town"
+        ],
+        "description": "seferihisar is turkey's first 'cittaslow' town, offering a tranquil atmosphere focused on preserving its natural environment and cultural heritage, making it an ideal retreat for those seeking peace and quiet. seferihisar is recognized as turkey's first cittaslow, offering a tranquil atmosphere and a chance to enjoy a slower pace of life amidst beautiful surroundings.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.19515,
+            26.834402
+        ]
+    },
+    {
+        "mention": "foca",
+        "node_type": "Town",
+        "what_to_do": [
+            "enjoy the coastline",
+            "explore",
+            "explore historical sites",
+            "photograph",
+            "relax"
+        ],
+        "best_for": [
+            "beach lovers",
+            "families",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "beautiful coastline",
+            "combination of history and natural beauty",
+            "historical sites",
+            "pristine beaches",
+            "quaint fishing villages"
+        ],
+        "tags": [
+            "beach",
+            "fishing village",
+            "history",
+            "town"
+        ],
+        "description": "foca is a charming town famous for its historical sites and stunning coastline, perfect for those looking to combine culture with beach relaxation. foca is a unique town that offers a blend of history and natural beauty, featuring ancient ruins and charming fishing villages, making it perfect for diverse travelers.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.670378,
+            26.757918
+        ]
+    },
+    {
+        "mention": "urla",
+        "node_type": "Town",
+        "what_to_do": [
+            "enjoy rural beach experience",
+            "explore olive groves",
+            "relax on beaches",
+            "visit vineyards",
+            "visit wineries"
+        ],
+        "best_for": [
+            "adventurers",
+            "couples",
+            "families",
+            "foodies",
+            "wine lovers"
+        ],
+        "special_features": [
+            "beaches",
+            "olive groves",
+            "rural authenticity",
+            "vineyards",
+            "wineries"
+        ],
+        "tags": [
+            "beach",
+            "olive groves",
+            "rural",
+            "town",
+            "vineyards",
+            "wineries"
+        ],
+        "description": "urla is a charming town known for its olive groves and wineries, offering a rural and authentic beach experience away from the crowds. urla is known for its picturesque vineyards and beautiful beaches, making it an ideal spot for families and wine enthusiasts to unwind.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.324972,
+            26.76681
+        ]
+    },
+    {
+        "mention": "dikili",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore",
+            "photograph",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "beach lovers",
+            "budget travelers",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beaches",
+            "landscapes",
+            "striking beauty"
+        ],
+        "tags": [
+            "beach",
+            "nature",
+            "photography",
+            "town"
+        ],
+        "description": "dikili is a coastal town celebrated for its beautiful beaches, offering a perfect setting for swimming and relaxation. dikili is a picturesque town in northern izmir, known for its stunning landscapes and proximity to beautiful beaches along the aegean sea.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ]
+    },
+    {
+        "mention": "karaburun",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore natural beauty",
+            "relax on quiet beaches",
+            "relaxing",
+            "snorkeling",
+            "swimming"
+        ],
+        "best_for": [
+            "couples",
+            "nature lovers",
+            "peace seekers",
+            "tranquility seekers"
+        ],
+        "special_features": [
+            "laid-back vibe",
+            "less-developed area",
+            "nature",
+            "quiet beaches",
+            "secluded"
+        ],
+        "tags": [
+            "beach",
+            "nature",
+            "relaxation",
+            "town",
+            "tranquil"
+        ],
+        "description": "karaburun is known for its stunning natural beauty and tranquil beaches, making it a perfect escape for those seeking peace and quiet. karaburun is a less-developed region known for its tranquil beaches, perfect for travelers seeking a quieter, more relaxed experience away from the crowds.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ]
+    },
+    {
+        "mention": "ilica beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "enjoy thermal springs",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "relaxation seekers"
+        ],
+        "special_features": [
+            "family-friendly",
+            "thermal springs"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "thermal springs"
+        ],
+        "description": "ilica beach is famous for its warm, shallow waters and therapeutic thermal springs, making it an ideal spot for families and relaxation.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.3081339,
+            26.3618179
+        ]
+    },
+    {
+        "mention": "altinkum beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "enjoy beach bars",
+            "snorkel",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "water sports enthusiasts"
+        ],
+        "special_features": [
+            "clear waters",
+            "vibrant beach bars"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "snorkeling"
+        ],
+        "description": "altinkum beach, known for its crystal-clear waters and lively beach bars, is perfect for swimming and enjoying a vibrant beach atmosphere.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.2703703,
+            26.2594724
+        ]
+    },
+    {
+        "mention": "alacati beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "kitesurfing",
+            "relaxing",
+            "windsurfing"
+        ],
+        "best_for": [
+            "adventure seekers",
+            "sporty travellers"
+        ],
+        "special_features": [
+            "excellent facilities",
+            "vibrant energy"
+        ],
+        "tags": [
+            "beach",
+            "kitesurfing",
+            "windsurfing"
+        ],
+        "description": "alacati beach is a bustling hub for windsurfers, offering excellent facilities and a vibrant energy perfect for water sports.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.3137311,
+            26.3834883
+        ]
+    },
+    {
+        "mention": "delikli koy",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relaxing",
+            "snorkeling"
+        ],
+        "best_for": [
+            "nature lovers",
+            "those seeking tranquility"
+        ],
+        "special_features": [
+            "clear waters",
+            "rocky landscape"
+        ],
+        "tags": [
+            "beach",
+            "secluded",
+            "snorkeling"
+        ],
+        "description": "delikli koy is a secluded beach known for its unique rocky landscape and clear waters, ideal for snorkeling and quiet relaxation.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.2292576,
+            26.3426942
+        ]
+    },
+    {
+        "mention": "akkum beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "families",
+            "those seeking peaceful escapes"
+        ],
+        "special_features": [
+            "calm waters",
+            "picturesque"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "scenic"
+        ],
+        "description": "akkum beach is a beautiful coastal area known for its calm waters and picturesque surroundings, making it perfect for families and couples looking for a peaceful getaway.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.1905765,
+            26.7731905
+        ]
+    },
+    {
+        "mention": "yeni foca",
+        "node_type": "Town",
+        "what_to_do": [
+            "enjoy family activities",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "special_features": [
+            "family-friendly beaches",
+            "modern area",
+            "relaxed atmosphere"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "town"
+        ],
+        "description": "yeni foca is a quieter, modern area known for its family-friendly beaches and a laid-back vibe, ideal for those seeking relaxation and fun with loved ones.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.73579,
+            26.8377899
+        ]
+    },
+    {
+        "mention": "eski foca",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore",
+            "photograph",
+            "relax"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "historic heart of foca",
+            "peaceful atmosphere",
+            "traditional stone houses"
+        ],
+        "tags": [
+            "architecture",
+            "beach",
+            "historical site"
+        ],
+        "description": "eski foca is the historic heart of the town, featuring traditional stone houses and small beaches, offering a peaceful atmosphere for exploration and relaxation.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.6662,
+            26.7552
+        ]
+    },
+    {
+        "mention": "demircili bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "photograph",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "peace seekers"
+        ],
+        "special_features": [
+            "pristine waters",
+            "seclusion",
+            "tranquility"
+        ],
+        "tags": [
+            "bay",
+            "hidden gem",
+            "secluded",
+            "tranquil"
+        ],
+        "description": "demircili bay is a hidden gem with pristine waters, perfect for couples or anyone seeking peace and tranquility in a secluded setting.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.2281321,
+            26.686511
+        ]
+    },
+    {
+        "mention": "bademli village beaches",
+        "node_type": "Beach",
+        "what_to_do": [
+            "photograph",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "budget travelers",
+            "nature lovers",
+            "photographers"
+        ],
+        "special_features": [
+            "greenery",
+            "untouched beauty"
+        ],
+        "tags": [
+            "beach",
+            "budget-friendly",
+            "natural beauty"
+        ],
+        "description": "bademli village beaches are celebrated for their untouched beauty and budget-friendly amenities, surrounded by lush greenery and ideal for relaxation.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0290999,
+            26.8270001
+        ]
+    },
+    {
+        "mention": "mimoza beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relaxing",
+            "snorkeling",
+            "swimming"
+        ],
+        "best_for": [
+            "couples",
+            "tranquility seekers"
+        ],
+        "special_features": [
+            "clear waters",
+            "peaceful"
+        ],
+        "tags": [
+            "beach",
+            "peaceful",
+            "snorkeling"
+        ],
+        "description": "mimoza beach is a small, peaceful beach renowned for its crystal-clear waters, making it an ideal spot for relaxation and swimming.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.6418325,
+            26.5222741
+        ]
+    },
+    {
+        "mention": "ekmeksiz beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "snorkeling",
+            "swimming"
+        ],
+        "best_for": [
+            "families",
+            "snorkeling enthusiasts"
+        ],
+        "special_features": [
+            "larger beach",
+            "suitable for families"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "snorkeling"
+        ],
+        "description": "ekmeksiz beach is a larger, more open beach that is great for families and snorkeling enthusiasts, offering ample space for fun and relaxation.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.1749118,
+            26.7745391
+        ]
+    }
+]

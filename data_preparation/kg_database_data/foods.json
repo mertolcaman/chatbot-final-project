@@ -1,0 +1,216 @@
+[
+    {
+        "type": "pastry",
+        "ingredients": [
+            "wheat flour",
+            "water",
+            "salt",
+            "leek",
+            "eggplant",
+            "artichoke",
+            "cheese",
+            "herb",
+            "tahini"
+        ],
+        "description": "boyoz is a traditional pastry from izmir with a history of nearly 500 years, made by baking round pieces of dough. it is available in various forms and is officially recognized for its cultural significance.",
+        "where_to_eat": [
+            "konak"
+        ],
+        "coordinates": [
+            38.438034,
+            27.1426521
+        ],
+        "node_type": "Food",
+        "mention": "boyoz"
+    },
+    {
+        "type": "snack",
+        "ingredients": [
+            "molasses",
+            "sesame seeds"
+        ],
+        "description": "gevrek is a crunchy snack from izmir, made by dipping dough in hot molasses, frying it briefly, coating it with sesame seeds, and then baking it. it is often confused with simit but has a distinct flavor and texture due to its preparation process.",
+        "where_to_eat": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "node_type": "Food",
+        "mention": "gevrek"
+    },
+    {
+        "type": "sandwich",
+        "ingredients": [
+            "izmir tulum cheese",
+            "tomatoes",
+            "peppers",
+            "sucuk",
+            "salami",
+            "kasseri cheese",
+            "bread"
+        ],
+        "description": "kumru is a sandwich that features izmir tulum cheese, tomatoes, and peppers stuffed into bread, served cold, or made with sucuk, salami, and kasseri cheese, served hot. it is named after the shape of the bread, resembling a kumru bird, and is enjoyed by locals for breakfast, lunch, dinner, or as a snack.",
+        "where_to_eat": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "node_type": "Food",
+        "mention": "kumru"
+    },
+    {
+        "type": "offal dish",
+        "ingredients": [
+            "offal",
+            "cumin",
+            "bread"
+        ],
+        "description": "izmir kokorec is a unique version of the traditional dish, featuring large slices of offal cooked whole over a charcoal grill, seasoned with cumin, and served in bread.",
+        "where_to_eat": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "node_type": "Food",
+        "mention": "kokorec"
+    },
+    {
+        "type": "seafood",
+        "ingredients": [
+            "mussels",
+            "black pepper"
+        ],
+        "description": "izmir mussels are smaller, served cold, and seasoned only with black pepper, resulting in firmer meat compared to other variations. they are less cooked than those made with well-done rice.",
+        "where_to_eat": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "node_type": "Food",
+        "mention": "midye"
+    },
+    {
+        "type": "offal dish",
+        "ingredients": [
+            "tongue",
+            "cheek",
+            "brain",
+            "flatbread",
+            "cumin",
+            "red pepper flakes",
+            "parsley",
+            "tomatoes",
+            "onions"
+        ],
+        "description": "sogus is a traditional offal dish made from parts of the head, such as tongue, cheek, and brain, which are cut into small pieces, seasoned, and wrapped in flatbread. it is served cooked but cold, offering a unique flavor profile.",
+        "where_to_eat": [
+            "konak"
+        ],
+        "coordinates": [
+            38.418699,
+            27.1330088
+        ],
+        "node_type": "Food",
+        "mention": "sogus"
+    },
+    {
+        "type": "dessert",
+        "ingredients": [
+            "dough",
+            "hot oil",
+            "syrup"
+        ],
+        "description": "lokma is a famous dessert from izmir made by frying small pieces of dough in hot oil and soaking them in syrup. it has gained popularity throughout turkiye and is often enjoyed for free at charitable stalls in izmir.",
+        "where_to_eat": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "node_type": "Food",
+        "mention": "lokma"
+    },
+    {
+        "type": "dessert",
+        "ingredients": [
+            "cream",
+            "dough",
+            "powdered sugar"
+        ],
+        "description": "torpil is a cone-shaped dessert filled with cream and dusted with powdered sugar, resembling a snow-covered treat. it is commonly found in pastry shops throughout izmir.",
+        "where_to_eat": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "node_type": "Food",
+        "mention": "torpil"
+    },
+    {
+        "type": "dessert",
+        "ingredients": [
+            "semolina",
+            "peanuts",
+            "hazelnuts",
+            "almonds"
+        ],
+        "description": "sambali is a famous dessert from izmir made from semolina, resembling revani but less syrupy. it does not contain eggs, flour, or oil and is often sold by street vendors. it can be topped with various nuts.",
+        "where_to_eat": [
+            "konak"
+        ],
+        "coordinates": [
+            38.418699,
+            27.1330088
+        ],
+        "node_type": "Food",
+        "mention": "sambali"
+    },
+    {
+        "type": "drink",
+        "ingredients": [
+            "dried melon seeds",
+            "water",
+            "ice"
+        ],
+        "description": "subye sherbet is a refreshing, melon-scented drink made from a paste of dried melon seeds, served cold with ice, and is rich in vitamin a and potassium.",
+        "where_to_eat": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ],
+        "node_type": "Food",
+        "mention": "subye sherbet"
+    },
+    {
+        "type": "dessert",
+        "ingredients": [
+            "thin pastry shell",
+            "melted chocolate",
+            "white chocolate",
+            "pistachio cream"
+        ],
+        "description": "izmir bomba is a modern dessert featuring a thin, translucent pastry shell that bursts with rich melted chocolate when bitten into. it is typically enjoyed warm and comes in various fillings, including white chocolate and pistachio cream.",
+        "where_to_eat": [
+            "konak"
+        ],
+        "coordinates": [
+            38.438034,
+            27.1426521
+        ],
+        "node_type": "Food",
+        "mention": "izmir bomba"
+    }
+]

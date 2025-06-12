@@ -1,0 +1,2378 @@
+[
+    {
+        "mention": "cesme",
+        "node_type": "Town",
+        "what_to_do": [
+            "dine",
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beaches",
+            "historical",
+            "holiday destination"
+        ],
+        "tags": [
+            "beach",
+            "historical",
+            "holiday",
+            "holiday destination",
+            "scenic",
+            "town"
+        ],
+        "description": "cesme is a popular holiday destination in izmir, known for its stunning beaches, historical sites, and vibrant dining options, making it ideal for a summer getaway. cesme is a nearby town connected to alacati, known for its beautiful coastline and summer tourism.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.3228017,
+            26.3027607
+        ]
+    },
+    {
+        "mention": "ilica beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "photograph",
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beach lovers",
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beautiful sandy beach",
+            "clear waters",
+            "popular beach",
+            "stunning scenery"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "relaxation",
+            "scenic",
+            "swimming"
+        ],
+        "description": "ilica beach is one of the most beautiful beaches in alacati, offering soft sands and clear waters perfect for swimming and relaxation. ilica beach is renowned for its stunning scenery and is one of the most beautiful beaches in cesme, perfect for swimming and relaxation.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.3081339,
+            26.3618179
+        ]
+    },
+    {
+        "mention": "altinkum beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beautiful beach",
+            "popular tourist spot"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "scenic"
+        ],
+        "description": "altinkum beach is one of the beautiful beaches in cesme, offering a perfect spot for swimming and enjoying the sun.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.2703703,
+            26.2594724
+        ]
+    },
+    {
+        "mention": "ayayorgi bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "special_features": [
+            "nature",
+            "secluded paradise"
+        ],
+        "tags": [
+            "bay",
+            "scenic",
+            "secluded"
+        ],
+        "description": "ayayorgi bay is known for its secluded paradise, making it an ideal spot for those seeking tranquility and natural beauty.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.3386772,
+            26.310156
+        ]
+    },
+    {
+        "mention": "kocakari beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "beautiful beach",
+            "tranquil"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "scenic"
+        ],
+        "description": "kocakari beach is part of the beautiful beaches in cesme, offering a tranquil environment for swimming and relaxation.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.36001359999999,
+            26.3158359
+        ]
+    },
+    {
+        "mention": "pirlanta beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "beautiful surroundings",
+            "one of many beaches"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "scenic"
+        ],
+        "description": "pirlanta beach is one of the many beaches around cesme, known for its beautiful surroundings and ideal for a relaxing day by the sea.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.2857144,
+            26.2470215
+        ]
+    },
+    {
+        "mention": "sakizli bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "special_features": [
+            "nature",
+            "secluded bay"
+        ],
+        "tags": [
+            "bay",
+            "scenic",
+            "secluded"
+        ],
+        "description": "sakizli bay is a secluded bay in cesme, perfect for those looking to escape the crowds and enjoy nature.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.32683000000001,
+            26.3074251
+        ]
+    },
+    {
+        "mention": "boyalik bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beautiful bay",
+            "tranquil"
+        ],
+        "tags": [
+            "bay",
+            "nature",
+            "scenic"
+        ],
+        "description": "boyalik bay is another beautiful bay in cesme, offering a tranquil environment ideal for swimming and relaxation.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.3233928,
+            26.3323237
+        ]
+    },
+    {
+        "mention": "cesme castle",
+        "node_type": "Castle",
+        "what_to_do": [
+            "explore",
+            "learn about history",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "built by beyazit",
+            "now a museum"
+        ],
+        "tags": [
+            "castle",
+            "historical",
+            "museum"
+        ],
+        "description": "cesme castle, built by beyazit, now serves as a museum, offering visitors a glimpse into the region's rich history.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.3234659,
+            26.3035005
+        ]
+    },
+    {
+        "mention": "caravanserai",
+        "node_type": "HistoricalSite",
+        "what_to_do": [
+            "explore",
+            "learn about history",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "built by suleiman the magnificent"
+        ],
+        "tags": [
+            "architecture",
+            "cultural",
+            "historical site"
+        ],
+        "description": "the caravanserai, built by suleiman the magnificent, is a notable historical site in cesme, reflecting the architectural heritage of the region.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.3228017,
+            26.3027607
+        ]
+    },
+    {
+        "mention": "seferihisar",
+        "node_type": "Town",
+        "what_to_do": [
+            "experience local culture",
+            "explore",
+            "relax"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "cittaslow title",
+            "picturesque setting",
+            "tranquil atmosphere"
+        ],
+        "tags": [
+            "cittaslow",
+            "cultural heritage",
+            "town"
+        ],
+        "description": "seferihisar is a charming town known for its tranquil summer holidays and as the first in turkiye to receive the cittaslow title, offering a unique blend of local culture and scenic beauty.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.19515,
+            26.834402
+        ]
+    },
+    {
+        "mention": "sigacik",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore quaint houses",
+            "photograph scenic streets",
+            "visit local markets"
+        ],
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families"
+        ],
+        "special_features": [
+            "filming location",
+            "quaint houses with bay windows",
+            "sigacik castle"
+        ],
+        "tags": [
+            "historic",
+            "market",
+            "quaint",
+            "town"
+        ],
+        "description": "sigacik is a picturesque seaside town celebrated for its charming architecture and vibrant local market, making it a perfect spot for leisurely exploration and cultural experiences.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.187557,
+            26.777552
+        ]
+    },
+    {
+        "mention": "cittaslow",
+        "node_type": "CulturalSite",
+        "what_to_do": [
+            "explore slow cities",
+            "learn about local culture"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "food enthusiasts"
+        ],
+        "special_features": [
+            "focus on local cuisine and traditions",
+            "global network of slow cities"
+        ],
+        "tags": [
+            "cittaslow",
+            "cultural heritage",
+            "slow city"
+        ],
+        "description": "cittaslow is a global movement aimed at preserving local culture and traditions, promoting a slower pace of life in cities around the world.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.19515,
+            26.834402
+        ]
+    },
+    {
+        "mention": "teos",
+        "node_type": "AncientCity",
+        "what_to_do": [
+            "explore archaeological sites",
+            "photograph historical ruins"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "ancient structures",
+            "rich historical significance",
+            "temple of dionysus"
+        ],
+        "tags": [
+            "ancient city",
+            "archaeology",
+            "historical site"
+        ],
+        "description": "teos is an ancient city renowned for its archaeological significance, featuring notable structures like the temple of dionysus and a rich history that attracts visitors interested in ancient civilizations.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.19566470000001,
+            26.8393639
+        ]
+    },
+    {
+        "mention": "temple of dionysus",
+        "node_type": "Temple",
+        "what_to_do": [
+            "explore ancient ruins",
+            "photograph historical landmarks"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "historical significance",
+            "prominent structure in teos"
+        ],
+        "tags": [
+            "ancient ruins",
+            "historical landmark",
+            "temple"
+        ],
+        "description": "the temple of dionysus is a significant ancient structure located in teos, offering insights into the religious practices of the past and stunning photographic opportunities.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.187557,
+            26.777552
+        ]
+    },
+    {
+        "mention": "sigacik castle",
+        "node_type": "Castle",
+        "what_to_do": [
+            "explore the castle",
+            "photograph scenic views"
+        ],
+        "best_for": [
+            "families",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "historical significance",
+            "scenic views of the town"
+        ],
+        "tags": [
+            "castle",
+            "historic site",
+            "scenic"
+        ],
+        "description": "sigacik castle is a historical fortress that provides visitors with a glimpse into the region's past and offers beautiful views of the surrounding area.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.1934654,
+            26.7853293
+        ]
+    },
+    {
+        "mention": "akkum beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beautiful scenery",
+            "tranquil"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "scenic"
+        ],
+        "description": "akkum beach is known for its stunning scenery and tranquil atmosphere, making it an ideal spot for swimming and relaxation.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.1905765,
+            26.7731905
+        ]
+    },
+    {
+        "mention": "akarca beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "enjoy cooler waters",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "cooler waters",
+            "tranquil setting"
+        ],
+        "tags": [
+            "beach",
+            "cool waters",
+            "relaxation"
+        ],
+        "description": "akarca beach is a serene coastal destination noted for its cooler waters, perfect for those looking to enjoy a refreshing swim in a peaceful environment.",
+        "located_in": [
+            "seferihisar"
+        ],
+        "coordinates": [
+            38.16927889999999,
+            26.8073916
+        ]
+    },
+    {
+        "mention": "foca",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore historical streets",
+            "rent a car",
+            "swim in the bays"
+        ],
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families"
+        ],
+        "special_features": [
+            "charming beaches",
+            "historical significance",
+            "old ionian city"
+        ],
+        "tags": [
+            "aegean sea",
+            "beach",
+            "historical",
+            "town"
+        ],
+        "description": "foca is a quiet town in izmir, rich in history and featuring beautiful beaches, perfect for exploration and relaxation.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.670378,
+            26.757918
+        ]
+    },
+    {
+        "mention": "siren rocks",
+        "node_type": "Monument",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "historical landmark",
+            "mentioned in homer’s odyssey"
+        ],
+        "tags": [
+            "historical",
+            "landmark",
+            "odyssey"
+        ],
+        "description": "siren rocks are a notable landmark in foca, steeped in history and referenced in homer’s odyssey, making it a must-visit for history lovers.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.670378,
+            26.757918
+        ]
+    },
+    {
+        "mention": "eski foca",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore historical streets",
+            "swim in the bays"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "families"
+        ],
+        "special_features": [
+            "historical charm",
+            "old section of foca"
+        ],
+        "tags": [
+            "beach",
+            "historical",
+            "old town"
+        ],
+        "description": "eski foca is the old section of foca, known for its historical streets and charming atmosphere, perfect for leisurely exploration.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.6662,
+            26.7552
+        ]
+    },
+    {
+        "mention": "yeni foca",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore modern amenities",
+            "swim in the bays"
+        ],
+        "best_for": [
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "modern facilities",
+            "new section of foca"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "new town"
+        ],
+        "description": "yeni foca is the new section of foca, offering modern amenities and beautiful beaches, ideal for families and couples looking for relaxation.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.73579,
+            26.8377899
+        ]
+    },
+    {
+        "mention": "persian tomb monument",
+        "node_type": "HistoricalSite",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "ancient structure",
+            "historical significance"
+        ],
+        "tags": [
+            "cultural",
+            "historical site",
+            "monument"
+        ],
+        "description": "the persian tomb monument is a significant historical site in foca, showcasing the area's rich past and architectural heritage.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.66037,
+            26.822502
+        ]
+    },
+    {
+        "mention": "fatih mosque",
+        "node_type": "ReligiousPlace",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "converted mosque",
+            "historical architecture"
+        ],
+        "tags": [
+            "cultural",
+            "historical",
+            "mosque"
+        ],
+        "description": "fatih mosque is a notable religious site in foca, converted during the reign of mehmet the conqueror, reflecting the town's historical architecture.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.670378,
+            26.757918
+        ]
+    },
+    {
+        "mention": "phrygian hill",
+        "node_type": "NaturalPark",
+        "what_to_do": [
+            "enjoy sunset views",
+            "hike"
+        ],
+        "best_for": [
+            "couples",
+            "nature lovers"
+        ],
+        "special_features": [
+            "scenic",
+            "sunset views"
+        ],
+        "tags": [
+            "hill",
+            "nature",
+            "sunset view"
+        ],
+        "description": "phrygian hill offers breathtaking sunset views, making it a perfect spot for nature lovers and couples seeking a romantic experience.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.670378,
+            26.757918
+        ]
+    },
+    {
+        "mention": "foca aqueduct",
+        "node_type": "HistoricalSite",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "historical significance",
+            "medieval-era structure"
+        ],
+        "tags": [
+            "aqueduct",
+            "architecture",
+            "historical"
+        ],
+        "description": "the foca aqueduct is a medieval-era structure that highlights the historical significance of the area, inviting exploration and photography.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.6665793,
+            26.7550318
+        ]
+    },
+    {
+        "mention": "hanedan beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "aegean sea",
+            "renowned beach"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "hanedan beach is a beautiful coastal area in izmir, perfect for swimming and relaxation, making it a favorite among beachgoers.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.6980194,
+            26.733244
+        ]
+    },
+    {
+        "mention": "sazlica beaches",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "aegean sea",
+            "renowned beach"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "sazlica beaches are part of the renowned beaches of izmir, offering a perfect spot for swimming and sunbathing.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.7363519,
+            26.7802772
+        ]
+    },
+    {
+        "mention": "canak bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "part of renowned beaches",
+            "scenic"
+        ],
+        "tags": [
+            "bay",
+            "beach",
+            "swimming"
+        ],
+        "description": "canak bay is a scenic coastal inlet in izmir, ideal for swimming and relaxation, part of the area's renowned beaches.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.6667129,
+            26.7428828
+        ]
+    },
+    {
+        "mention": "voodoo beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "aegean sea",
+            "part of renowned beaches"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "voodoo beach is a popular beach in izmir, known for its inviting waters and relaxing atmosphere, perfect for a day of fun in the sun.",
+        "located_in": [
+            "foca"
+        ],
+        "coordinates": [
+            38.6639012,
+            26.742198
+        ]
+    },
+    {
+        "mention": "urla",
+        "node_type": "Town",
+        "what_to_do": [
+            "dine",
+            "explore",
+            "relax",
+            "shop"
+        ],
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "coastal charm",
+            "local cuisine",
+            "peaceful atmosphere"
+        ],
+        "tags": [
+            "coastal town",
+            "holiday resort",
+            "local culture",
+            "tranquility"
+        ],
+        "description": "urla is a charming coastal town in izmir, known for its serene atmosphere, beautiful beaches, and rich local culture, making it a perfect getaway for those seeking relaxation and exploration.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.324972,
+            26.76681
+        ]
+    },
+    {
+        "mention": "izmir",
+        "node_type": "City",
+        "what_to_do": [
+            "dine",
+            "explore",
+            "shop"
+        ],
+        "best_for": [
+            "city dwellers",
+            "cultural tourists"
+        ],
+        "special_features": [
+            "historical significance",
+            "major urban center"
+        ],
+        "tags": [
+            "city",
+            "cultural",
+            "historical",
+            "holiday destination",
+            "province",
+            "urban"
+        ],
+        "description": "izmir is a vibrant province in turkiye, home to popular holiday spots such as alacati, known for its beautiful beaches and cultural attractions. izmir is a vibrant city in turkey, known for its rich history, diverse culture, and bustling urban life, offering a variety of experiences for visitors.",
+        "coordinates": [
+            38.423734,
+            27.142826
+        ]
+    },
+    {
+        "mention": "karantina island",
+        "node_type": "Island",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "isolation",
+            "nature"
+        ],
+        "tags": [
+            "exploration",
+            "island",
+            "nature"
+        ],
+        "description": "karantina island is a picturesque island near urla, offering stunning views and a tranquil environment perfect for exploration and photography.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.324972,
+            26.76681
+        ]
+    },
+    {
+        "mention": "klazomenai ancient city",
+        "node_type": "AncientCity",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "archaeological site",
+            "historical significance"
+        ],
+        "tags": [
+            "ancient city",
+            "exploration",
+            "historical ruins"
+        ],
+        "description": "klazomenai ancient city is a site of historical significance, showcasing ancient ruins that offer a glimpse into the past for visitors interested in history and archaeology.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.362805,
+            26.7693878
+        ]
+    },
+    {
+        "mention": "kostem olive oil museum",
+        "node_type": "Museum",
+        "what_to_do": [
+            "explore",
+            "learn"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "food enthusiasts"
+        ],
+        "special_features": [
+            "cultural heritage",
+            "olive oil production"
+        ],
+        "tags": [
+            "cultural",
+            "museum",
+            "olive oil"
+        ],
+        "description": "the kostem olive oil museum is dedicated to the art of olive oil production, providing visitors with insights into this important aspect of local culture and heritage.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.324972,
+            26.76681
+        ]
+    },
+    {
+        "mention": "historical barbaros village",
+        "node_type": "Village",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "architecture",
+            "historical relevance"
+        ],
+        "tags": [
+            "cultural",
+            "historical",
+            "village"
+        ],
+        "description": "historical barbaros village is a quaint village with significant historical relevance, offering visitors a chance to explore its traditional architecture and local culture.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.324972,
+            26.76681
+        ]
+    },
+    {
+        "mention": "bademler village",
+        "node_type": "Village",
+        "what_to_do": [
+            "explore",
+            "relax"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "local lifestyle",
+            "rural charm"
+        ],
+        "tags": [
+            "nature",
+            "rural",
+            "village"
+        ],
+        "description": "bademler village is a small, charming village near urla, known for its rural lifestyle and natural beauty, making it a peaceful retreat for visitors.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.273439,
+            26.8291779
+        ]
+    },
+    {
+        "mention": "malgaca market",
+        "node_type": "Market",
+        "what_to_do": [
+            "explore",
+            "shop"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "food enthusiasts"
+        ],
+        "special_features": [
+            "local goods",
+            "market experience"
+        ],
+        "tags": [
+            "local",
+            "market",
+            "shopping"
+        ],
+        "description": "malgaca market is a vibrant local market offering a variety of goods, providing visitors with a taste of the local culture and shopping experience.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.3223247,
+            26.7670185
+        ]
+    },
+    {
+        "mention": "altinkoy beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "local",
+            "quiet cove"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "altinkoy beach is a serene beach in urla, known for its quiet coves and local atmosphere, making it an ideal spot for swimming and relaxation.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.2116653,
+            26.7216615
+        ]
+    },
+    {
+        "mention": "demircili beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "local",
+            "tranquil"
+        ],
+        "tags": [
+            "beach",
+            "swimming",
+            "tranquility"
+        ],
+        "description": "demircili beach is a popular beach in the region, favored by locals for its tranquil environment and opportunities for swimming and relaxation.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.2119759,
+            26.6801027
+        ]
+    },
+    {
+        "mention": "melengec beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "nature",
+            "tranquility"
+        ],
+        "tags": [
+            "beach",
+            "nature",
+            "tranquility"
+        ],
+        "description": "melengec beach is known for its tranquility and natural beauty, making it a perfect spot for visitors looking to unwind and enjoy the coastal scenery.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ]
+    },
+    {
+        "mention": "deniz yildizi beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "family-friendly",
+            "local"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "swimming"
+        ],
+        "description": "deniz yildizi beach is a family-friendly beach frequented by locals, offering a welcoming atmosphere for swimming and relaxation.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.2087197,
+            26.6938682
+        ]
+    },
+    {
+        "mention": "bodrum bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "coastal inlet",
+            "scenic"
+        ],
+        "tags": [
+            "bay",
+            "exploration",
+            "nature"
+        ],
+        "description": "bodrum bay is a scenic bay in the vicinity of urla, known for its beautiful views and opportunities for exploration and photography.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.324972,
+            26.76681
+        ]
+    },
+    {
+        "mention": "cesmealti beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "local",
+            "northern location"
+        ],
+        "tags": [
+            "beach",
+            "local",
+            "swimming"
+        ],
+        "description": "cesmealti beach is located in the northern area of urla, offering a local atmosphere and opportunities for swimming and relaxation.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.4038695,
+            26.7410251
+        ]
+    },
+    {
+        "mention": "yassica island",
+        "node_type": "Island",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "isolation",
+            "nature"
+        ],
+        "tags": [
+            "exploration",
+            "island",
+            "nature"
+        ],
+        "description": "yassica island is a serene island near urla, known for its natural beauty and opportunities for exploration and photography.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.4111111,
+            26.7938889
+        ]
+    },
+    {
+        "mention": "sand sea beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "sandy shores",
+            "tranquil"
+        ],
+        "tags": [
+            "beach",
+            "sandy",
+            "tranquility"
+        ],
+        "description": "sand sea beach is known for its beautiful sandy shores and tranquil environment, making it an ideal spot for families and nature lovers to relax.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.324972,
+            26.76681
+        ]
+    },
+    {
+        "mention": "ozbek akkum beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "local",
+            "sandy shores"
+        ],
+        "tags": [
+            "beach",
+            "local",
+            "sandy"
+        ],
+        "description": "ozbek akkum beach is a local favorite known for its sandy shores, providing a great spot for swimming and relaxation.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.3788953,
+            26.6774452
+        ]
+    },
+    {
+        "mention": "gulbahce beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "local",
+            "tranquil"
+        ],
+        "tags": [
+            "beach",
+            "swimming",
+            "tranquility"
+        ],
+        "description": "gulbahce beach is another beautiful beach in the area, known for its local atmosphere and opportunities for swimming and relaxation.",
+        "located_in": [
+            "urla"
+        ],
+        "coordinates": [
+            38.3382297,
+            26.6478344
+        ]
+    },
+    {
+        "mention": "alacati",
+        "node_type": "Town",
+        "what_to_do": [
+            "enjoy nightlife",
+            "explore",
+            "relax",
+            "walk"
+        ],
+        "best_for": [
+            "couples",
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "dynamic nightlife",
+            "quaint historical streets",
+            "stone houses draped with bougainvillea"
+        ],
+        "tags": [
+            "historical",
+            "nightlife",
+            "summer holiday",
+            "town"
+        ],
+        "description": "alacati is a charming town known for its vibrant nightlife, beautiful beaches, and picturesque streets lined with historical stone houses, making it a perfect summer holiday destination.",
+        "located_in": [
+            "cesme"
+        ],
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ]
+    },
+    {
+        "mention": "delikli bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "photograph",
+            "swim"
+        ],
+        "best_for": [
+            "adventure seekers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "bay",
+            "scenic"
+        ],
+        "tags": [
+            "bay",
+            "exploration",
+            "scenic"
+        ],
+        "description": "delikli bay is a notable bay in alacati, known for its scenic beauty and opportunities for swimming and exploration.",
+        "located_in": [
+            "alacati"
+        ],
+        "coordinates": [
+            38.2292576,
+            26.3426942
+        ]
+    },
+    {
+        "mention": "cark beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beach lovers",
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "beautiful sandy beach",
+            "calm waters"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "cark beach is another beautiful beach in alacati, ideal for swimming and enjoying a relaxing day by the sea.",
+        "located_in": [
+            "alacati"
+        ],
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ]
+    },
+    {
+        "mention": "cleopatra bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "photograph",
+            "swim"
+        ],
+        "best_for": [
+            "adventure seekers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "clear waters",
+            "famous bay"
+        ],
+        "tags": [
+            "bay",
+            "exploration",
+            "famous"
+        ],
+        "description": "cleopatra bay is a famous bay in alacati, known for its clear waters and beautiful surroundings, making it a great spot for swimming and exploration.",
+        "located_in": [
+            "alacati"
+        ],
+        "coordinates": [
+            38.2887204,
+            26.3778354
+        ]
+    },
+    {
+        "mention": "piyade bay beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beach lovers",
+            "couples",
+            "families"
+        ],
+        "special_features": [
+            "quieter beach",
+            "scenic"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "piyade bay beach is a serene beach located in alacati, perfect for those looking to relax and enjoy the scenic views.",
+        "located_in": [
+            "alacati"
+        ],
+        "coordinates": [
+            38.2296089,
+            26.3602188
+        ]
+    },
+    {
+        "mention": "dikili",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore historical sites",
+            "hike",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beaches",
+            "popular holiday destination",
+            "proximity to historical sites"
+        ],
+        "tags": [
+            "beach",
+            "historical sites",
+            "town",
+            "vacation"
+        ],
+        "description": "dikili is a charming town along the aegean sea, known for its beautiful beaches and rich historical sites, making it a perfect spot for a relaxing summer vacation.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.423734,
+            27.142826
+        ]
+    },
+    {
+        "mention": "ancient city of pergamon",
+        "node_type": "HistoricalSite",
+        "what_to_do": [
+            "explore",
+            "learn about history",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "special_features": [
+            "ancient ruins",
+            "significant historical importance"
+        ],
+        "tags": [
+            "ancient ruins",
+            "archaeology",
+            "historical site"
+        ],
+        "description": "the ancient city of pergamon is a significant historical site near dikili, offering visitors a glimpse into the rich history of the region through its impressive ruins.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "atarneus ancient city",
+        "node_type": "AncientCity",
+        "what_to_do": [
+            "explore",
+            "learn about history",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "special_features": [
+            "archaeological site",
+            "historical significance"
+        ],
+        "tags": [
+            "ancient city",
+            "archaeology",
+            "historical site"
+        ],
+        "description": "atarneus ancient city is an archaeological site with significant historical importance, perfect for those interested in exploring ancient ruins.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "pitane ancient city",
+        "node_type": "AncientCity",
+        "what_to_do": [
+            "explore",
+            "learn about history",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "special_features": [
+            "archaeological site",
+            "historical significance"
+        ],
+        "tags": [
+            "ancient city",
+            "archaeology",
+            "historical site"
+        ],
+        "description": "pitane ancient city is another remarkable archaeological site near dikili, offering insights into the region's rich history and ancient architecture.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "candarli castle",
+        "node_type": "Castle",
+        "what_to_do": [
+            "explore",
+            "learn about history",
+            "photograph"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history buffs"
+        ],
+        "special_features": [
+            "fortified structure",
+            "must-see historical site"
+        ],
+        "tags": [
+            "architecture",
+            "castle",
+            "historical site"
+        ],
+        "description": "candarli castle is a must-see historical site near dikili, known for its impressive architecture and rich history, making it a great spot for exploration.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            38.9338724,
+            26.9337329
+        ]
+    },
+    {
+        "mention": "ataturk botanical garden",
+        "node_type": "NaturalPark",
+        "what_to_do": [
+            "explore",
+            "photograph",
+            "relax"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "30 hectares of botanical beauty",
+            "diverse plant species"
+        ],
+        "tags": [
+            "botanical garden",
+            "nature",
+            "relaxation"
+        ],
+        "description": "the ataturk botanical garden in dikili is a beautiful natural park featuring a wide variety of plant species, perfect for leisurely strolls and relaxation.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "karagol nature park",
+        "node_type": "NaturalPark",
+        "what_to_do": [
+            "explore",
+            "hike",
+            "photograph"
+        ],
+        "best_for": [
+            "hikers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "hectares",
+            "scenic natural area"
+        ],
+        "tags": [
+            "hiking",
+            "nature park",
+            "scenic views"
+        ],
+        "description": "karagol nature park is a scenic area in dikili, ideal for hiking and enjoying the beauty of nature, with diverse landscapes to explore.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "nebiler village",
+        "node_type": "Village",
+        "what_to_do": [
+            "explore",
+            "hike",
+            "photograph"
+        ],
+        "best_for": [
+            "hikers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "hiking opportunities",
+            "rural charm"
+        ],
+        "tags": [
+            "hiking",
+            "nature",
+            "village"
+        ],
+        "description": "nebiler village offers excellent hiking opportunities amidst its charming rural landscape, making it a great spot for nature enthusiasts.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.1602491,
+            26.9019479
+        ]
+    },
+    {
+        "mention": "asiklar waterfall",
+        "node_type": "NaturalPark",
+        "what_to_do": [
+            "explore",
+            "hike",
+            "photograph"
+        ],
+        "best_for": [
+            "hikers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "hiking opportunities",
+            "nature"
+        ],
+        "tags": [
+            "hiking",
+            "nature",
+            "waterfall"
+        ],
+        "description": "asiklar waterfall is a beautiful natural site near dikili, perfect for hiking and photography, surrounded by lush greenery.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "kayra beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "special_features": [
+            "beautiful sandy beach",
+            "ideal for relaxation"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "kayra beach is a beautiful sandy beach in dikili, perfect for swimming and relaxing under the sun.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0446132,
+            26.8375451
+        ]
+    },
+    {
+        "mention": "dikili public beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "special_features": [
+            "family-friendly",
+            "public access"
+        ],
+        "tags": [
+            "beach",
+            "families",
+            "public beach"
+        ],
+        "description": "dikili public beach is a family-friendly beach offering public access to the beautiful aegean sea, ideal for swimming and relaxation.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0778554,
+            26.8871799
+        ]
+    },
+    {
+        "mention": "hayitli bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "coastal inlet",
+            "scenic"
+        ],
+        "tags": [
+            "bay",
+            "nature",
+            "scenic"
+        ],
+        "description": "hayitli bay is a picturesque bay in dikili, perfect for swimming and enjoying the scenic coastal views.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            38.9897205,
+            26.7993916
+        ]
+    },
+    {
+        "mention": "kucuk zindancik bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "coastal inlet",
+            "tranquil"
+        ],
+        "tags": [
+            "bay",
+            "nature",
+            "scenic"
+        ],
+        "description": "kucuk zindancik bay is a tranquil bay in dikili, ideal for swimming and relaxation in a serene environment.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.036877,
+            26.808271
+        ]
+    },
+    {
+        "mention": "candarli beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "special_features": [
+            "beautiful sandy beach",
+            "ideal for relaxation"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "candarli beach is a stunning sandy beach in dikili, perfect for swimming and enjoying a relaxing day by the sea.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            38.9388657,
+            26.9401127
+        ]
+    },
+    {
+        "mention": "pissa beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "relax",
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "special_features": [
+            "beautiful sandy beach",
+            "ideal for relaxation"
+        ],
+        "tags": [
+            "beach",
+            "relaxation",
+            "swimming"
+        ],
+        "description": "pissa beach is a lovely sandy beach in dikili, ideal for swimming and sunbathing, providing a perfect spot for beach lovers.",
+        "located_in": [
+            "dikili"
+        ],
+        "coordinates": [
+            39.0749,
+            26.889199
+        ]
+    },
+    {
+        "mention": "karaburun",
+        "node_type": "Town",
+        "what_to_do": [
+            "explore",
+            "relax",
+            "scuba diving",
+            "snorkeling"
+        ],
+        "best_for": [
+            "couples",
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "charming villages",
+            "paradise",
+            "pristine nature"
+        ],
+        "tags": [
+            "exploration",
+            "nature",
+            "tranquility"
+        ],
+        "description": "karaburun is a tranquil region known for its stunning natural beauty, charming villages, and hidden beaches, making it a perfect getaway for nature lovers and those seeking peace.",
+        "located_in": [
+            "izmir"
+        ],
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ]
+    },
+    {
+        "mention": "sarpincik lighthouse",
+        "node_type": "Tower",
+        "what_to_do": [
+            "explore",
+            "photograph"
+        ],
+        "best_for": [
+            "nature lovers",
+            "photographers"
+        ],
+        "special_features": [
+            "notable landmark",
+            "scenic"
+        ],
+        "tags": [
+            "lighthouse",
+            "photography",
+            "scenic"
+        ],
+        "description": "sarpincik lighthouse is a notable landmark offering stunning views of the surrounding coastline, perfect for photography and exploration.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ]
+    },
+    {
+        "mention": "sazak village",
+        "node_type": "Village",
+        "what_to_do": [
+            "explore",
+            "relax"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "families"
+        ],
+        "special_features": [
+            "charming village atmosphere"
+        ],
+        "tags": [
+            "charm",
+            "culture",
+            "village"
+        ],
+        "description": "sazak village is one of the charming villages in karaburun, offering a peaceful atmosphere and a glimpse into local life.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.6247022,
+            26.3893841
+        ]
+    },
+    {
+        "mention": "ayse kadin mosque",
+        "node_type": "ReligiousPlace",
+        "what_to_do": [
+            "photograph",
+            "visit"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "history enthusiasts"
+        ],
+        "special_features": [
+            "architectural beauty",
+            "notable mosque"
+        ],
+        "tags": [
+            "architecture",
+            "culture",
+            "mosque"
+        ],
+        "description": "ayse kadin mosque is a notable mosque in the area, recognized for its beautiful architecture and cultural significance.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.518472,
+            26.599225
+        ]
+    },
+    {
+        "mention": "mimoza bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "camp",
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "bay",
+            "campsites"
+        ],
+        "tags": [
+            "bay",
+            "beach",
+            "camping"
+        ],
+        "description": "mimoza bay is a beautiful bay known for its clear waters and scenic surroundings, ideal for swimming and camping.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.6382509,
+            26.512738
+        ]
+    },
+    {
+        "mention": "ayi baligi bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "scenic beauty"
+        ],
+        "tags": [
+            "bay",
+            "beach",
+            "scenic"
+        ],
+        "description": "ayi baligi bay is renowned for its scenic beauty, making it a perfect spot for swimming and relaxation.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.5268103,
+            26.6241344
+        ]
+    },
+    {
+        "mention": "incirlikoy beach",
+        "node_type": "Beach",
+        "what_to_do": [
+            "sunbathe",
+            "swim"
+        ],
+        "best_for": [
+            "beachgoers",
+            "families"
+        ],
+        "special_features": [
+            "popular beach"
+        ],
+        "tags": [
+            "beach",
+            "sunbathing",
+            "swimming"
+        ],
+        "description": "incirlikoy beach is a popular beach destination known for its inviting waters and perfect conditions for sunbathing.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.6495419,
+            26.5202907
+        ]
+    },
+    {
+        "mention": "hamzabuku",
+        "node_type": "Bay",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "nature"
+        ],
+        "tags": [
+            "bay",
+            "nature",
+            "relaxation"
+        ],
+        "description": "hamzabuku is known for its natural beauty, providing a serene environment for swimming and relaxation.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.6630125,
+            26.3847483
+        ]
+    },
+    {
+        "mention": "badem buku",
+        "node_type": "Bay",
+        "what_to_do": [
+            "relax",
+            "swim"
+        ],
+        "best_for": [
+            "families",
+            "nature lovers"
+        ],
+        "special_features": [
+            "beach"
+        ],
+        "tags": [
+            "bay",
+            "beach",
+            "relaxation"
+        ],
+        "description": "badem buku is a notable bay that offers a tranquil setting for swimming and enjoying the natural surroundings.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.6188323,
+            26.3565908
+        ]
+    },
+    {
+        "mention": "boyabagi bay",
+        "node_type": "Bay",
+        "what_to_do": [
+            "explore",
+            "swim"
+        ],
+        "best_for": [
+            "adventurers",
+            "nature lovers"
+        ],
+        "special_features": [
+            "scenic"
+        ],
+        "tags": [
+            "bay",
+            "exploration",
+            "nature"
+        ],
+        "description": "boyabagi bay is one of the scenic bays in the region, perfect for swimming and exploration.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.573343,
+            26.5653437
+        ]
+    },
+    {
+        "mention": "balikliova",
+        "node_type": "Village",
+        "what_to_do": [
+            "explore",
+            "taste"
+        ],
+        "best_for": [
+            "cultural tourists",
+            "food lovers"
+        ],
+        "special_features": [
+            "cookies"
+        ],
+        "tags": [
+            "culture",
+            "food",
+            "village"
+        ],
+        "description": "balikliova is known for its famous meltaway cookies, making it a must-visit for food lovers passing through the area.",
+        "located_in": [
+            "karaburun"
+        ],
+        "coordinates": [
+            38.4231979,
+            26.5845039
+        ]
+    }
+]
