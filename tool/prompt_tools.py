@@ -20,7 +20,10 @@ def itinerary_formatter(input: str) -> str:
     prompt = f"""
     Format this is an İzmir travel itinerary for a {audience} traveler.
     Adjust the tone, recommended activities, and language style accordingly.
-
+    
+    - Highlight the most relevant locations with the features what makes those places unique.
+    - Use clear, friendly, human-style language.
+ 
     Raw Itinerary:
     {raw_itinerary}
     """

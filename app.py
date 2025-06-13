@@ -99,5 +99,5 @@ if st.button("Clear Conversation"):
 
 st.markdown("""
 You can manually set your location by adding `?lat=38.29&lon=26.37` to the URL.
-Or pass it directly: [Set location to Alacati](?lat=38.29&lon=26.37)
+Or pass it directly: [Set location to Alacati](?lat=38.29&lon=26.37) to see how the live location features work!
 """)
