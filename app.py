@@ -11,20 +11,6 @@ from utils.streamlit_callbacks import StreamlitActionTracker
 st.set_page_config(page_title="İzmir Travel Assistant", layout="wide")
 st.title("🧳 İzmir Smart Travel Assistant")
 
-# --- Inject JS for user geolocation ---
-st.markdown("""
-<script>
-navigator.geolocation.getCurrentPosition(
-    function(position) {
-        const coords = position.coords.latitude + "," + position.coords.longitude;
-        if (!window.location.search.includes("coords=")) {
-            window.location.search = "?coords=" + coords;
-        }
-    }
-);
-</script>
-""", unsafe_allow_html=True)
-
 # --- Parse geolocation from URL ---
 params = st.query_params
 if "lat" in params and "lon" in params:
