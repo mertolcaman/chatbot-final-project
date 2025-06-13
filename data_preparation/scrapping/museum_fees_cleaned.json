@@ -1,0 +1,2508 @@
+[
+  {
+    "city":"adana",
+    "museum":"adana anavarza orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"adana",
+    "museum":"adana arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"adana",
+    "museum":"adana ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"adana",
+    "museum":"suleyman kulesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"adiyaman",
+    "museum":"adiyaman arsemia orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"adiyaman",
+    "museum":"adiyaman muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"adiyaman",
+    "museum":"adiyaman nemrut orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":null
+  },
+  {
+    "city":"adiyaman",
+    "museum":"adiyaman pirin (perre) orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"adiyaman",
+    "museum":"adiyaman sofraz anit mezari",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"adiyaman",
+    "museum":"adiyaman kahta yenikale",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"afyonkarahisar",
+    "museum":"afyonkarahisar muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"agri",
+    "museum":"agri ishakpasa sarayi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"aksaray",
+    "museum":"aksaray ihlara vadisi orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 15",
+    "status":null
+  },
+  {
+    "city":"aksaray",
+    "museum":"aksaray manastir vadisi orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"aksaray",
+    "museum":"aksaray muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"aksaray",
+    "museum":"aksaray aziz mercurius yeralti sehri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"aksaray",
+    "museum":"aksaray saratli kirkgoz yeralti sehri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"aksaray",
+    "museum":"asikli hoyuk",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"amasya",
+    "museum":"amasya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"amasya",
+    "museum":"amasya hazeranlar konagi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"ankara",
+    "museum":"ankara anadolu medeniyetleri muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":null
+  },
+  {
+    "city":"ankara",
+    "museum":"ankara gordion muzesi ve tumulus orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"ankara",
+    "museum":"ankara roma hamami orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€3",
+    "status":null
+  },
+  {
+    "city":"ankara",
+    "museum":"ankara cumhuriyet muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"ankara",
+    "museum":"ankara etnografya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"ankara",
+    "museum":"15 temmuz demokrasi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"ankara",
+    "museum":"kahramankazan 15 temmuz sehitleri ve demokrasi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"ankara",
+    "museum":"ankara resim heykel muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"alanya ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"antalya",
+    "museum":"alanya kalesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"alanya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"alanya syedra orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya arykanda orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya aspendos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 15",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya karain magarasi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya lymra orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 15",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya olympos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya perge orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 11",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya phaselis orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya termessos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya aziz (st.) nikolaos anit muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 17",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya demre andriake orenyeri ve likya uygarliklari muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":"likya uygarliklari muzesi kapali"
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya myra orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 13",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya patara orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 15",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya simena orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya xanthos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya elmali muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"mevlevihane muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"nekropol",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya side muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":"tek bilet fiyati= € 10  (tiyatro kapalidir)"
+  },
+  {
+    "city":"antalya",
+    "museum":"antalya side orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 7",
+    "status":"tek bilet fiyati= € 10  (tiyatro kapalidir)"
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin afrodisyas muzesi ve orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":"kapali (orenyeri ziyarete aciktir.)"
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin karacasu etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin alabanda orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin alinda orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin magnesia orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin nysa (sultanhisar) orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin yoruk ali efe evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"didim apollon tapinagi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":"kapali"
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin milet muzesi ve orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin kadikalesi orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"aydin",
+    "museum":"aydin priene orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"balikesir",
+    "museum":"balikesir kuva-yi milliye muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"balikesir",
+    "museum":"balikesir taksiyarhis anit muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"balikesir",
+    "museum":"bandirma muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bartin",
+    "museum":"bartin amasra muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"batman",
+    "museum":"batman hasankeyf orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"batman",
+    "museum":"batman muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bilecik",
+    "museum":"bilecik muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bilecik",
+    "museum":"bilecik sogut ertugrul gazi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bitlis",
+    "museum":"bitlis ahlat muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"bitlis",
+    "museum":"bitlis etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"bitlis",
+    "museum":"ahlat selcuklu mezarlari",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bolu",
+    "museum":"bolu muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"burdur",
+    "museum":"burdur doga tarihi muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"burdur",
+    "museum":"kibrya orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"burdur",
+    "museum":"burdur muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"burdur",
+    "museum":"burdur sagalassos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 8",
+    "status":null
+  },
+  {
+    "city":"burdur",
+    "museum":"kremna antik kenti",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"bursa arkeoloji muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"bursa ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"bursa mudanya mutareke evi muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"bursa osmanli evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"bursa turk islam eserleri muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"bursa yenisehir semaki evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"bursa",
+    "museum":"nilufer hatun imareti turk islam eserleri muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"bursa iznik muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"bursa",
+    "museum":"iznik roma tiyartosu",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"canakkale",
+    "museum":"canakkale alexandria troias orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"canakkale",
+    "museum":"canakkale apollon symintheion orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"canakkale",
+    "museum":"canakkale assos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 11",
+    "status":null
+  },
+  {
+    "city":"canakkale",
+    "museum":"canakkale troya muzesi canakkale troya orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 27",
+    "status":"tek biletle gezilebilir."
+  },
+  {
+    "city":"cankiri",
+    "museum":"cankiri muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"pazartesi kapali"
+  },
+  {
+    "city":"corum",
+    "museum":"corum alacahoyuk muzesi ve orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"corum",
+    "museum":"corum bogazkoy muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"corum",
+    "museum":"corum bogazkoy hattusa orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"corum",
+    "museum":"corum muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"denizli",
+    "museum":"denizli ataturk ve etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"denizli",
+    "museum":"denizli hierapolis (pamukkale) orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 30",
+    "status":"tek biletle gezilebilir. hierapolis  (pamukkale) orenyeri  (antik havuz kapalidir. )"
+  },
+  {
+    "city":"denizli",
+    "museum":"denizli hierapolis (pamukkale) arkeoloji muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"denizli",
+    "museum":"tripolis orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"denizli",
+    "museum":"denizli laodikeia orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":null
+  },
+  {
+    "city":"denizli",
+    "museum":"denizli kent muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"diyarbakir",
+    "museum":"diyarbakir cahit sitki taranci evi etnogtafya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"diyarbakir",
+    "museum":"diyarbakir arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"diyarbakir",
+    "museum":"silvan ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali ( teshir-tanzim )"
+  },
+  {
+    "city":"diyarbakir",
+    "museum":"diyarbakir ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"diyarbakir",
+    "museum":"diyarbakir ziya gokalp muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"pazartesi gunleri kapali"
+  },
+  {
+    "city":"duzce",
+    "museum":"duzce konuralp muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"edirne",
+    "museum":"edirne muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"edirne",
+    "museum":"necmi ige evi etnografya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"edirne",
+    "museum":"hidirlik tabya balkan tarihi muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"edirne",
+    "museum":"edirne turk islam eserleri muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"edirne",
+    "museum":"yenisaray orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"elazig",
+    "museum":"elazig muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"elazig",
+    "museum":"harput kalesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"erzurum",
+    "museum":"erzurum muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"erzurum",
+    "museum":"erzurum ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"erzurum",
+    "museum":"resim heykel muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"erzurum",
+    "museum":"erzurum kalesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"erzurum",
+    "museum":"erzurum turk islam eserleri ve etnografya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"erzincan",
+    "museum":"erzincan muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"eskisehir",
+    "museum":"eskisehir eti arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"eskisehir",
+    "museum":"eskisehir midas (yazilikaya) orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"eskisehir",
+    "museum":"eskisehir pessinus orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"gaziantep",
+    "museum":"gaziantep arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"gaziantep",
+    "museum":"rumkale orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"gaziantep",
+    "museum":"gaziantep hasan suzer etnografya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"gaziantep",
+    "museum":"gaziantep yesemek orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"gaziantep",
+    "museum":"gaziantep zeugma orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"gaziantep",
+    "museum":"gaziantep zeugma mozaik muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":null
+  },
+  {
+    "city":"giresun",
+    "museum":"giresun meryem ana manastiri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"giresun",
+    "museum":"giresun muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"giresun",
+    "museum":"giresun adasi (aretias)",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"gumushane",
+    "museum":"gumushane muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"hatay",
+    "museum":"hatay cevlik orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"hatay",
+    "museum":"necmi asfuroglu arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 8",
+    "status":null
+  },
+  {
+    "city":"hatay",
+    "museum":"hatay arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 11",
+    "status":"kapali"
+  },
+  {
+    "city":"hatay",
+    "museum":"hatay st. pierre anit muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 8",
+    "status":"kapali"
+  },
+  {
+    "city":"hatay",
+    "museum":"hatay st. simon manastiri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"isparta",
+    "museum":"isparta muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"isparta",
+    "museum":"isparta uluborlu muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"pazartesi gunleri kapali"
+  },
+  {
+    "city":"isparta",
+    "museum":"isparta antiocheia orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"isparta",
+    "museum":"isparta yalvac muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul havalimani muzesi",
+    "local_tourist":"€ 13",
+    "foreigner":"€ 13",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"ayasofya tarih ve deneyim muzesi (tapu kadastro binasi)",
+    "local_tourist":null,
+    "foreigner":null,
+    "status":"ayasofya muzesi bilet ucretleri"
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul buyuk saray mozaikleri muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":"kapali"
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul fethiye muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"istanbul",
+    "museum":"galata kulesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 30",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"kiz kulesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 27",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"mehmet akif ersoy hatira evi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"hafiza 15 temmuz muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul galata mevlevihanesi muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 7",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul hisarlar muzesi (rumeli hisari)",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul islam bilim ve teknoloji tarihi muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul arkeoloji muzesi- eski sark eserleri muzesi-cinili kosk",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 15",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul adam mickiewicz muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul turk ve islam eserleri muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 17",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"istanbul turbeler muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"istanbul",
+    "museum":"sinema muzesi (atlas 1948)",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":null,
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir bergama akropol orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 15",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir bergama asklepion orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 13",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir bergama kizilavlu",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir bergama muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir cesme muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir efes muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir efes orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 40",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir efes yamac evler",
+    "local_tourist":"(muzekart ile  indirimli  200 ₺)",
+    "foreigner":"€ 15",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir ayasuluk orenyeri- st.jean orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir agora orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir kultur sanat fabrikasi (tarihi alsancak tekel fabrikasi kultur ve sanat merkezi muzeleri)",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":"tek bilet ile resim heykel muzesi de gezilebilir."
+  },
+  {
+    "city":"izmir",
+    "museum":"resim heykel muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":null,
+    "status":"tek bilet ile izmir kultur sanat fabrikasi (tarihi alsancak tekel fabrikasi kultur ve sanat merkezi muzeleri) da gezilebilir."
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir ataturk muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"ucretsiz",
+    "museum":"ucretsiz",
+    "local_tourist":"kapali",
+    "foreigner":null,
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir klaros orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir klazomenai orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir metropolis orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir tarih sanat muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir teos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir birgi cakiraga konagi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir odemis muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"izmir",
+    "museum":"izmir tire muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"kahramanmaras",
+    "museum":"kahramanmaras muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"kahramanmaras",
+    "museum":"germanicia mozaikli alan",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"kahramanmaras",
+    "museum":"elbistan sehir muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"karaman",
+    "museum":"karaman muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"karaman",
+    "museum":"ermenek muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kars",
+    "museum":"kars ani orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 8",
+    "status":null
+  },
+  {
+    "city":"kars",
+    "museum":"kars kafkas cephesi harp tarihi muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"kars",
+    "museum":"kars muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kastamonu",
+    "museum":"kastamonu livapasa konagi etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"kastamonu",
+    "museum":"kastamonu muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"karabuk",
+    "museum":"safranbolu muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kayseri",
+    "museum":"kayseri arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"kayseri",
+    "museum":"kayseri ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kayseri",
+    "museum":"kayseri gupgupoglu konagi etnografya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"kayseri",
+    "museum":"kayseri kultepe orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kayseri",
+    "museum":"kayseri yesilhisar soganli orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kirikkale",
+    "museum":"kirikkale keskin sulu magara",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"pazartesi gunleri kapali"
+  },
+  {
+    "city":"kirklareli",
+    "museum":"kirklareli muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kirsehir",
+    "museum":"kirsehir kaman kalehoyuk arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"kirsehir",
+    "museum":"kirsehir mucur yeralti sehri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"kirsehir",
+    "museum":"kirsehir muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"kilis",
+    "museum":"aidesim orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"kilis",
+    "museum":"kilis muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"kocaeli",
+    "museum":"ataturk, redif ve etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kocaeli",
+    "museum":"kocaeli av kosku saray muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"kocaeli",
+    "museum":"osman hamdi bey muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kocaeli",
+    "museum":"kocaeli arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya aksehir bati cephesi karargahi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya aksehir n.hoca ark.ve etn.muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya aksehir tas eserler muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya eregli muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"konya",
+    "museum":"konya arkeoloji muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":null,
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya catalhoyuk orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya tas ve ahsap eserleri muzesi (ince minare )",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"konya",
+    "museum":"konya cini eserleri (karatay muzesi)",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"konya",
+    "museum":"konya mevlana muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kutahya",
+    "museum":"kutahya aizonai orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"kutahya",
+    "museum":"kutahya cini muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kutahya",
+    "museum":"kutahya kossouth evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"kutahya",
+    "museum":"kutahya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"malatya",
+    "museum":"malatya arslantepe orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"malatya",
+    "museum":"malatya ataturk ani evi ve etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"malatya",
+    "museum":"malatya beskonaklar etnografya muzesi ve geleneksel malatya evi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"malatya",
+    "museum":"malatya muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"manisa",
+    "museum":"manisa aigai orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"manisa",
+    "museum":"manisa akhisar muzesi ve akhisar tepe mezarligi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"manisa",
+    "museum":"manisa alasehir orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"manisa",
+    "museum":"manisa muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"manisa",
+    "museum":"manisa sardes orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mardin",
+    "museum":"dara orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"(pazartesi gunleri kapali)"
+  },
+  {
+    "city":"mardin",
+    "museum":"mardin muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 7",
+    "status":"(pazartesi gunleri kapali)"
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin anemurium orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin anamur muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin mamure kalesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin gozne kalesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin kanli divane orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin kiz kalesi (deniz kalesi, kara kalesi, plaj)",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke alahan manastiri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke ataturk evi ve etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke ayatekla orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke cennet cehennem obruklari",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":"kapali"
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke astim magarasi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke narlikuyu mozaik muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin silifke uzuncaburc orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin tarsus muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin tarsus st.paul anit muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mersin",
+    "museum":"mersin tarsus st.paul kuyusu",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla bodrum antik tiyatrosu",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla bodrum mausoleium anit muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla bodrum sualti arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 20",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla bodrum sualti arkeoloji muzesi serce limani cam batigi sergi salonu",
+    "local_tourist":"(muzekart ile  indirimli  100 ₺)",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla bodrum zeki muren sanat muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 4",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye amintas kaya mezari",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye gemiler adasi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye kadyanda antik kenti",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla kaunos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye kayakoy orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye letoon orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye pinara orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla fethiye tlos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla marmaris knidos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla marmaris muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas tas eserler muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas becin kalesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas uzunyuva anit mezari",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas euromos orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas herakleia orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":null,
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas iassos balik pazari muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas iassos orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla milas labraunda orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla lagina orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla sedir adasi orenyeri",
+    "local_tourist":"(muzekart ile  indirimli  250 ₺)",
+    "foreigner":"€ 13",
+    "status":null
+  },
+  {
+    "city":"mugla",
+    "museum":"mugla stratonikeia orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"mus",
+    "museum":"mus muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"mus",
+    "museum":"mus malazgirt muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir hacibektas arkeoloji ve etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir hacibektas ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir hacibektas muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir cavusin oreyeri (cavusin kilisesi)",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir derinkuyu yeralti sehri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 13",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir el nazar kilisesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir goreme orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 20",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir gulsehir acik saray orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir gulsehir-st.jean kilisesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir karanlik kilise (goreme)",
+    "local_tourist":"(muzekart ile  indirimli  100 ₺)",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir kaymakli yeralti sehri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 13",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir mazi yeralti sehri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir ozkonak yeralti sehri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir tatlarin yeralti sehri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir zelve-orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":"tek biletle 2 orenyeri gezilebilir.  (balikli ve uzumlu kiliseleri kapalidir.)"
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir-pasabaglar orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":"tek biletle 2 orenyeri gezilebilir.  (balikli ve uzumlu kiliseleri kapalidir.)"
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir urgup muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"nevsehir",
+    "museum":"nevsehir sobessos orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"nigde",
+    "museum":"nigde gumusler manastiri ve yeralti sehri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"nigde",
+    "museum":"andaval orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"nigde",
+    "museum":"nigde muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"ordu",
+    "museum":"ordu muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"osmaniye",
+    "museum":"osmaniye karatepe aslantas muzesi ve orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"osmaniye",
+    "museum":"osmaniye muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"osmaniye",
+    "museum":"osmaniye kastabala orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"rize",
+    "museum":"rize ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"rize",
+    "museum":"rize muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"sakarya",
+    "museum":"sakarya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"samsun",
+    "museum":"samsun bafra muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"samsun",
+    "museum":"samsun gazi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"samsun",
+    "museum":"samsun muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"sinop",
+    "museum":"sinop arslantorunlar etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"sinop",
+    "museum":"sinop muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"sinop",
+    "museum":"sinop tarihi cezaevi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 6",
+    "status":"kapali"
+  },
+  {
+    "city":"sivas",
+    "museum":"sivas arkeoloji muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"sivas",
+    "museum":"ataturk ve kongre muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 5",
+    "status":null
+  },
+  {
+    "city":"sivas",
+    "museum":"sivas asik veysel muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"sanliurfa",
+    "museum":"sanliurfa gobeklitepe orenyeri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 20",
+    "status":null
+  },
+  {
+    "city":"sanliurfa",
+    "museum":"sanliurfa gobeklitepe orenyeri canlandirma merkezi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"sanliurfa",
+    "museum":"sanliurfa harran orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"sanliurfa",
+    "museum":"sanliurfa kalesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"sanliurfa",
+    "museum":"sanliurfa e mozaik muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":"kapali"
+  },
+  {
+    "city":"sanliurfa",
+    "museum":"sanliurfa haleplibahce muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 10",
+    "status":null
+  },
+  {
+    "city":"sanliurfa",
+    "museum":"karahantepe orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"tekirdag",
+    "museum":"tekirdag muratli ataturk evi muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"tekirdag",
+    "museum":"tekirdag muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"tunceli",
+    "museum":"tunceli muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"tokat",
+    "museum":"tokat ataturk evi ve etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"tokat",
+    "museum":"tokat latifoglu konagi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"tokat",
+    "museum":"tokat muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"trabzon",
+    "museum":"trabzon kucuk ayvasil (st. anna) kilisesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"trabzon",
+    "museum":"trabzon muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"kapali"
+  },
+  {
+    "city":"trabzon",
+    "museum":"trabzon sumela manastiri",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 20",
+    "status":null
+  },
+  {
+    "city":"usak",
+    "museum":"usak ataturk ve etnografya muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"usak",
+    "museum":"usak blaundos orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"usak",
+    "museum":"usak muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":"01.03.25 tarihine kadar kapalidir"
+  },
+  {
+    "city":"van",
+    "museum":"van akdamar anit muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 12",
+    "status":null
+  },
+  {
+    "city":"van",
+    "museum":"van cavustepe kalesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"van",
+    "museum":"van hosap kalesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"van",
+    "museum":"van kalesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"van",
+    "museum":"van muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"yalova",
+    "museum":"yalova ataturk ve cocuk muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"yozgat",
+    "museum":"yozgat muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":"kapali"
+  },
+  {
+    "city":"yozgat",
+    "museum":"sarikaya roma hamami",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"zonguldak",
+    "museum":"filyos tios orenyeri",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"zonguldak",
+    "museum":"zonguldak cehennemagzi magarasi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  },
+  {
+    "city":"zonguldak",
+    "museum":"kdz. eregli muzesi",
+    "local_tourist":"ucretsiz",
+    "foreigner":"ucretsiz",
+    "status":null
+  },
+  {
+    "city":"zonguldak",
+    "museum":"maden muzesi",
+    "local_tourist":"muzekart ile girilebilir.",
+    "foreigner":"€ 3",
+    "status":null
+  }
+]

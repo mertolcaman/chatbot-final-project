@@ -8,8 +8,13 @@ Instructions:
 - DO NOT invent or assume new labels, relationship types (e.g., OPENING_HOURS), or node types (e.g., OpeningHours).
 - Museums store their opening hours as **node properties**: `opening_hours_summer` and `opening_hours_winter`.
 - Use case-insensitive string comparisons for all user-supplied values.
-
-
+- Museums have time ranges in their properties: `opening_hours_summer`, `opening_hours_winter`, e.g., "08:30-19:00(Monday : Close)" or "09:00-21:00"
+- To check current opening status:
+    1. Remove text like "(Monday : Close)"
+    2. Split by '-' to get opening and closing times
+    3. Convert them using `apoc.temporal.toTime(...)`
+    4. Compare using `WITH time() AS now` then `WHERE now >= open_time AND now <= close_time`
+---------------------------------------
 Examples of valid queries:
 ----------------------------------------
 -- Find museums best for families, sorted by rating:

@@ -107,149 +107,6 @@ def drop_all_indexes(graph):
             print(f"Failed to drop index `{index_name}`: {e}")
 
 
-#cleaning database
-def reset_neo4j_database(graph):
-    print("Deleting all nodes and relationships...")
-    graph.query("MATCH (n) DETACH DELETE n")
-
-    print("Dropping all indexes...")
-    drop_all_indexes(graph)
-
-    print("Dropping all constraints...")
-    graph.query("""
-    CALL db.constraints() YIELD name
-    CALL db.dropConstraint(name, {ifExists: true})
-    YIELD name RETURN name
-    """)
-
-    print("Neo4j database reset complete.")
-
-
-#setup vector indexes
-# def setup_all_vector_indexes(graph):
-#     # --- MUSEUM ---
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingDescriptionMuseum
-#     IF NOT EXISTS
-#     FOR (m:Museum) ON (m.embedding_description_museum)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingAudienceMuseum
-#     IF NOT EXISTS
-#     FOR (a:Audience) ON (a.embedding_audience_museum)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingConceptMuseum
-#     IF NOT EXISTS
-#     FOR (c:Concept) ON (c.embedding_concept_museum)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingFacilityMuseum
-#     IF NOT EXISTS
-#     FOR (f:Facility) ON (f.embedding_facility_museum)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     # --- PLACES ---
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingDescriptionPlaces
-#     IF NOT EXISTS
-#     FOR (p:City) ON (p.embedding_description_places)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingAudiencePlaces
-#     IF NOT EXISTS
-#     FOR (a:Audience) ON (a.embedding_audience_places)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingConceptPlaces
-#     IF NOT EXISTS
-#     FOR (c:Concept) ON (c.embedding_concept_places)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     # --- FOODS ---
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingDescriptionFoods
-#     IF NOT EXISTS
-#     FOR (f:Food) ON (f.embedding_description_foods)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingFoodType
-#     IF NOT EXISTS
-#     FOR (ft:FoodType) ON (ft.embedding_foodtype)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
-#     graph.query("""
-#     CREATE VECTOR INDEX embeddingIngredient
-#     IF NOT EXISTS
-#     FOR (i:Ingredient) ON (i.embedding_ingredient)
-#     OPTIONS {
-#         indexConfig: {
-#             `vector.dimensions`: 1536,
-#             `vector.similarity_function`: 'cosine'
-#         }
-#     }
-#     """)
-
 
 LABEL_EMBEDDING_INDEX_MAP = {
     "Museum": ("embedding_description_museum", "embeddingDescriptionMuseum"),
@@ -299,11 +156,12 @@ def insert_places(graph, places):
         description = place.get("description", "")
         embedding_description = get_embedding(description)
 
-        coordinates = place.get("coordinates")
-        try:
-            lat, lon = (float(coordinates[0]), float(coordinates[1])) if coordinates else (None, None)
-        except (TypeError, ValueError, IndexError):
-            lat, lon = None, None
+        coords = place.get("coordinates")
+        if isinstance(coords, str):
+            lon, lat = [float(x.strip()) for x in coords.split(",")]
+        else:
+            lon, lat = float(coords[0]), float(coords[1])
+
 
         located_in = place.get("located_in", "").strip().title()
         best_for = place.get("best_for", [])
@@ -316,7 +174,7 @@ def insert_places(graph, places):
         graph.query(f"""
         MERGE (p:{label} {{name: $name}})
         SET p.description = $description,
-            p.coordinates = point({{latitude: $lat, longitude: $lon}})
+            p.coordinates = point({{latitude: $lat, longitude: $lon, srid: 4326}})
         WITH p
         CALL db.create.setNodeVectorProperty(p, '{embedding_property}', $embedding_description)
         """, {
@@ -388,9 +246,9 @@ def insert_museum(graph, places):
             
             #some coordinates are not in a list
             if isinstance(coords, str):
-                lat, lon = [float(x.strip()) for x in coords.split(",")]
+                lon, lat = [float(x.strip()) for x in coords.split(",")]
             else:
-                lat, lon = float(coords[0]), float(coords[1])
+                lon, lat = float(coords[0]), float(coords[1])
                 
                 
             rating = place.get("rating")
@@ -416,7 +274,7 @@ def insert_museum(graph, places):
             graph.query("""
             MERGE (m:Museum {name: $name})
             SET m.description = $description,
-                m.coordinates = point({latitude: $lat, longitude: $lon}),
+                m.coordinates = point({latitude: $lat, longitude: $lon, srid: 4326}),
                 m.rating = $rating,
                 m.address = $address,
                 m.email = $email,
@@ -494,117 +352,16 @@ def insert_museum(graph, places):
                 """, {"facility": facility.lower().capitalize(), "name": name, "embedding_facility":embedding_facility})
 
 
-# def insert_places(graph,places):
-#     for place in tqdm(places):
-#         name = place["mention"].title()
-#         label = place["node_type"].title()
-#         description = place.get("description", "")
-#         embedding_description = get_embedding(description)
-
-#         coordinates = place.get("coordinates")
-# #         lat, lon = coordinates if coordinates else (None, None)
-#         try:
-#             lat, lon = (float(coordinates[0]), float(coordinates[1])) if coordinates else (None, None)
-#         except (TypeError, ValueError, IndexError):
-#             lat, lon = None, None
-            
-#         located_in = place.get("located_in", "").title()
-#         best_for = place.get("best_for", [])
-#         properties = place.get("properties", [])
-
-#         if label == "City": #which means Izmir node
-            
-#             # Merge City node with flattened properties
-#             graph.query("""
-#             MERGE (p:City {name: $name})
-#             SET p.description = $description,
-#                 p.coordinates = point({latitude: $lat, longitude: $lon})
-#             WITH p
-#             CALL db.create.setNodeVectorProperty(p, 'embedding_description_places', $embedding_description)
-#             """, {
-#                 "name": name,
-#                 "description": description,
-#                 "lat": lat,
-#                 "lon": lon,
-#                 "embedding_description": embedding_description
-#             })
-            
-#         else:
-#             # Merge the node with flattened properties
-#             # Use f-string to inject the label dynamically, keep property map with single braces as Langchain might handle
-#             graph.query(f"""
-#             MERGE (p:{label} {{name: $name}})
-#             SET p.description = $description,
-#                 p.coordinates = point({{latitude: $lat, longitude: $lon}})
-#             WITH p
-#             CALL db.create.setNodeVectorProperty(p, 'embedding_description_places', $embedding_description)
-#             """, {
-#                 "name": name,
-#                 "description": description,
-#                 "lat": lat,
-#                 "lon": lon,
-#                 "embedding_description": embedding_description
-#             })
-            
-#             if located_in=="Izmir": #only city is Izmir
-#                 loc_label = "City"
-#             else: loc_label="Town"
-            
-#             # LOCATED_IN relationship
-#             if located_in:
-#                 graph.query(f"""
-#                 MERGE (p:{loc_label} {{name: $parent}})
-#                 MERGE (m:{label} {{name: $name}})
-#                 MERGE (m)-[:LOCATED_IN]->(p)
-#                 """, {
-#                     "name": name,
-#                     "parent": located_in
-#                 })
-                
-                
-
-#         # Relationships (handled outside if-else so they work for all nodes)
-#         if label != "Museum":
-#             # BEST_FOR → Audience
-#             for audience in best_for:
-#                 embedding_audience = get_embedding(audience)
-                
-#                 graph.query(f"""
-#                 MERGE (a:Audience {{name: $audience}})
-#                 WITH a
-#                 CALL db.create.setNodeVectorProperty(a, 'embedding_audience_places', $embedding_audience)
-#                 MATCH (p:{label} {{name: $name}})
-#                 MERGE (p)-[:BEST_FOR]->(a)
-#                 """, {
-#                     "audience": audience.lower().capitalize(),
-#                     "name": name,
-#                     "embedding_audience": embedding_audience
-#                 })
-
-#             # HAS_CONCEPT → Concept (from properties)
-#             for concept in properties:
-#                 embedding_concept = get_embedding(concept)
-                
-#                 graph.query(f"""
-#                 MERGE (c:Concept {{name: $concept}})
-#                 WITH c
-#                 CALL db.create.setNodeVectorProperty(c, 'embedding_concept_places', $embedding_concept)
-#                 MATCH (p:{label} {{name: $name}})
-#                 MERGE (p)-[:HAS_CONCEPT]->(c)
-#                 """, {
-#                     "concept": concept.lower().capitalize(),
-#                     "name": name,
-#                     "embedding_concept": embedding_concept
-#                 })
-
-
 def insert_foods(graph, foods):
     for food in tqdm(foods):
         name = food["mention"].lower().capitalize()
         food_type = food["type"].lower().capitalize()
         description = food.get("description", "")
-        coordinates = food.get("coordinates")
-        lat, lon = (coordinates[0], coordinates[1]) if coordinates else (None, None)
+        coords = food.get("coordinates")
+        if isinstance(coords, str):
+            lon, lat = [float(x.strip()) for x in coords.split(",")]
+        else:
+            lon, lat = float(coords[0]), float(coords[1])
         ingredients = food.get("ingredients", [])
         where_to_eat = food.get("where_to_eat", [])
 
@@ -614,7 +371,7 @@ def insert_foods(graph, foods):
         graph.query(f"""
             MERGE (f:Food {{name: $name}})
             SET f.description = $description,
-                f.coordinates = point({{latitude: $lat, longitude: $lon}})
+                f.coordinates = point({{latitude: $lat, longitude: $lon, srid: 4326}})
             WITH f
             CALL db.create.setNodeVectorProperty(f, 'embedding_description_foods', $embedding_description)
         """, {

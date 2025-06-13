@@ -1,5 +1,5 @@
 from configuration.llm import llm
-from rag.retriever_config import RETRIEVERS
+# from rag.retrieval_config import RETRIEVERS
 from rag.indexes import INDEX_MAP
 from configuration.graph import graph
 from configuration.embedding import embedding_model

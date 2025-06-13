@@ -8,7 +8,11 @@ from configuration.prompt import agent_prompt
 
 # Agent with memory for conversational interactions
 react_agent = create_react_agent(llm, tools, agent_prompt)
-executor = AgentExecutor(agent=react_agent, tools=tools, verbose=True)
+executor = AgentExecutor(agent=react_agent, 
+                         tools=tools, 
+                         verbose=True, 
+                         handle_parsing_errors=True,
+                         max_iterations=5)
 
 product_agent = RunnableWithMessageHistory(
     executor,

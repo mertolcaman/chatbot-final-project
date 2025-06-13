@@ -1,0 +1,53 @@
+Name: Boyoz
+Description: Boyoz is one of İzmir's most famous delicacies with a history of nearly 500 years. Officially recognized with a geographical indication by the Ministry of Culture and Tourism in 2017, boyoz is made by baking round pieces of dough prepared from wheat flour, water, and salt. Available from street vendors and bakeries throughout the city, boyoz can be found in a variety of forms, including plain, leek, eggplant, artichoke, cheese, herb, and with plenty of tahini, particularly in the historic bakeries of Alsancak.
+
+--------------------------------------------------
+
+Name: Gevrek
+Description: Another delightful treat from İzmir is gevrek, often confused with simit in Türkiye but has a slightly different flavor. The main difference between gevrek and simit lies in the preparation process. While simit is dipped in molasses and covered with sesame seeds before baking, gevrek is first dipped into a pot of hot molasses and briefly fried, then sesame-coated and baked. This process makes gevrek crunchier compared to simit. İzmir Gevrek was granted a geographical indication in 2021.
+
+--------------------------------------------------
+
+Name: Kumru
+Description: Dating back approximately 150 years, kumru was officially recognized as "İzmir Kumrusu" by the Ministry of Culture and Tourism in 2017. This sandwich features İzmir Tulum Cheese, tomatoes, and peppers stuffed into bread and served cold, or it can be made with sucuk, salami, and kasseri cheese, along with tomatoes, and served hot. Named after the shape of the bread, which resembles a kumru bird, İzmir Kumrusu is enjoyed by locals for breakfast, lunch, dinner, or as a snack.
+
+--------------------------------------------------
+
+Name: Kokoreç
+Description: In İzmir, kokoreç can be found at street stalls at all hours, especially at night. However, İzmir's kokoreç differs from the typical version. Unlike finely chopped kokoreç served in bread with tomatoes, İzmir kokoreç is cut into large slices, cooked whole over a charcoal grill, and then sliced into pieces and seasoned with cumin before being served in bread.
+
+--------------------------------------------------
+
+Name: Midye
+Description: As in any city with a coastline, fresh mussels are readily available in İzmir. İzmir mussels are distinct for being smaller and eaten cold. Unlike other variations, they are seasoned with black pepper only and do not contain cinnamon, currants, or pine nuts. The mussels are also less cooked than those made with well-done rice, resulting in firmer meat.
+
+--------------------------------------------------
+
+Name: Söğüş
+Description: If you’re a fan of offal, you need to try Söğüş in İzmir. To prepare Söğüş, parts of the head such as the tongue, cheek, and brain are cut into small pieces and wrapped in flatbread. It is then seasoned with cumin, red pepper flakes, parsley, tomatoes, and onions according to taste. The offal is served cooked but cold. You can find some of the best Söğüş in various parts of İzmir, including Tilkilik, Kemeraltı, and Bostanlı.
+
+--------------------------------------------------
+
+Name: Lokma
+Description: Lokma, the most famous dessert originating from İzmir, is made by frying small pieces of dough in hot oil and then soaking them in syrup. İzmir Lokma received geographical indication status in 2017. Recently, Lokma has spread throughout Türkiye, including Istanbul, and has become a daily treat for İzmir residents. In İzmir, you can enjoy this delicious and convenient sweet for free at stalls set up for charitable purposes on the streets.
+
+
+--------------------------------------------------
+
+Name: Torpil
+Description: Torpil is a cone-shaped dessert with pudding inside that looks like snow has fallen on it, which you can find in almost every pastry shop in İzmir. Torpil, which is prepared by putting cream in a dough similar to puff pastry and sprinkling powdered sugar on it, is also called cone cake by İzmir residents.
+
+--------------------------------------------------
+
+Name: Şambali
+Description: Şambali, another famous delicacy of İzmir, is sold by street vendors wrapped in oily paper and is also known as Şam tatlısı or şambali. This dessert, made from semolina, resembles Revani but is less syrupy compared to Revani. Additionally, Şambali does not contain eggs, flour, or oil. İzmir Şambali was granted geographical indication status in 2016. You can top Şambali with peanuts, hazelnuts, or almonds if you like. For a delicious Şambali beyond what street vendors offer, you can also visit Karşıyaka or Kemeraltı Hisarönü.
+
+--------------------------------------------------
+
+Name: Sübye Sherbet
+Description: Sübye sherbet is one of İzmir’s nearly forgotten yet still available street treats. This 500-year-old drink from Sephardic cuisine is made from dried melon seeds. Sherbet vendors prepare it by turning melon seeds, which have been dried a year in advance, into a paste and then strain it with a bit of water. The resulting sherbet has a consistency similar to boza and contains high levels of vitamin A and potassium. This refreshing, melon-scented drink is served cold with ice in the summer.
+
+--------------------------------------------------
+
+Name: İzmir Bomba
+Description: İzmir Bomba is a beloved modern dessert that has quickly become a signature sweet of the city. Known for its thin, almost translucent pastry shell that bursts open with rich melted chocolate when bitten into, the bomba lives up to its explosive name. Typically enjoyed warm to enhance the gooey chocolate experience, variations with white chocolate, pistachio cream, and other fillings are also available. Most famously found in the Alsancak and Kordon areas, İzmir Bomba is a must-try for anyone with a sweet tooth visiting the city.
