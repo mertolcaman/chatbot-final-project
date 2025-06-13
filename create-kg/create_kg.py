@@ -9,13 +9,6 @@ from langchain.graphs import Neo4jGraph
 
 
 load_dotenv()
-api_key_google = os.getenv("GOOGLE_MAPS")
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-
-
-load_dotenv()
-api_key_google = os.getenv("GOOGLE_MAPS")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 #finding all json files
